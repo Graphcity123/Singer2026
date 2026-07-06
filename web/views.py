@@ -31,6 +31,7 @@ def song(request, song_id):
     lyrics_text = song.lyrics or ""
     lyrics_len = len(lyrics_text.split("\n"))
     lyrics_cols=(lyrics_len+29)//30
+    lyrics_cols=min(5,lyrics_cols)
     context = {
         "name": song.name,
         "id": song.id,

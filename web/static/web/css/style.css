@@ -120,6 +120,7 @@ ul {
 }
 .song-card-title:hover {
     color: #1e4180;
+
 }
 .song-card-singers {
     max-width: 600px;
@@ -174,7 +175,7 @@ ul {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    margin-bottom: 8px;
+    margin-bottom: 20px;
 }
 .song-detail-source a {
     color: #888;

@@ -14,7 +14,7 @@
                 {% for singer in singerlist %}
                     <a href="{% url 'singer' singer.id %}">{{ singer.name }}</a>
                     {% if not forloop.last %}
-                        {% if forloop.counter|divisibleby:10 %}<br>{% else %}&nbsp;/&nbsp;{% endif %}
+                        {% if forloop.counter|divisibleby:8 %}<br>{% else %}&nbsp;/&nbsp;{% endif %}
                     {% endif %}
                 {% endfor %}
             </div>
