@@ -1,12 +1,12 @@
 <div class="pagination">
     {% if page.has_previous %}
-        <a href="?page=1">&laquo;</a>
+        <a href="?page=1{{ extra_params|default:'' }}">&laquo;</a>
     {% else %}
         <span class="disabled">&laquo;</span>
     {% endif %}
 
     {% if page.has_previous %}
-        <a href="?page={{ page.previous_page_number }}">‹</a>
+        <a href="?page={{ page.previous_page_number }}{{ extra_params|default:'' }}">‹</a>
     {% else %}
         <span class="disabled">‹</span>
     {% endif %}
@@ -15,25 +15,27 @@
         {% if num == page.number %}
             <span class="current-page">{{ num }}</span>
         {% elif num >= page.number|add:"-2" and num <= page.number|add:"2" %}
-            <a href="?page={{ num }}">{{ num }}</a>
+            <a href="?page={{ num }}{{ extra_params|default:'' }}">{{ num }}</a>
         {% elif num == page.number|add:"-3" or num == page.number|add:"3" %}
             <span>…</span>
         {% endif %}
     {% endfor %}
 
     {% if page.has_next %}
-        <a href="?page={{ page.next_page_number }}">›</a>
+        <a href="?page={{ page.next_page_number }}{{ extra_params|default:'' }}">›</a>
     {% else %}
         <span class="disabled">›</span>
     {% endif %}
 
     {% if page.has_next %}
-        <a href="?page={{ page.paginator.num_pages }}">&raquo;</a>
+        <a href="?page={{ page.paginator.num_pages }}{{ extra_params|default:'' }}">&raquo;</a>
     {% else %}
         <span class="disabled">&raquo;</span>
     {% endif %}
 
     <form method="get" class="page-jump">
+        {% if q_param %}<input type="hidden" name="q" value="{{ q_param }}">{% endif %}
+        {% if tab_param %}<input type="hidden" name="tab" value="{{ tab_param }}">{% endif %}
         <input type="number" name="page" min="1" max="{{ page.paginator.num_pages }}" placeholder="{{ page.number }}">
         <button type="submit">跳转</button>
     </form>

@@ -1,5 +1,7 @@
+import time
 from django.shortcuts import render, redirect
 from django.core.paginator import Paginator
+from django.db.models import Case, IntegerField, Q, Value, When
 from .models import Singer, Song
 
 def index(request):
@@ -69,3 +71,72 @@ def singerlist(request):
         "singerlist": page_obj,
     }
     return render(request, "singerlist.html", context)
+
+def search_view(request):
+    """
+    搜索栏。
+    优先级：歌手:名称>简介；歌曲:歌名>歌手名>歌词。
+    分页：歌手 25/页，歌曲 20/页，tab 切换。
+    """
+    query = request.GET.get('q', '').strip()
+    tab = request.GET.get('tab', 'singer')
+    singers = Singer.objects.none()
+    songs = Song.objects.none()
+    singer_page = None
+    song_page = None
+    elapsed = 0
+    total_singers = 0
+    total_songs = 0
+
+    if query:
+        t0 = time.perf_counter()
+        singers = Singer.objects.filter(
+            Q(name__icontains=query) | Q(desc__icontains=query)
+        ).annotate(
+            priority=Case(
+                When(name__icontains=query, then=Value(1)),
+                When(desc__icontains=query, then=Value(2)),
+                default=Value(3),
+                output_field=IntegerField(),
+            )
+        ).order_by('priority', 'name').distinct()
+
+        songs = Song.objects.filter(
+            Q(name__icontains=query)
+            | Q(singers__name__icontains=query)
+            | Q(lyrics__icontains=query)
+        ).annotate(
+            priority=Case(
+                When(name__icontains=query, then=Value(1)),
+                When(singers__name__icontains=query, then=Value(2)),
+                When(lyrics__icontains=query, then=Value(3)),
+                default=Value(4),
+                output_field=IntegerField(),
+            )
+        ).order_by('priority', 'name').distinct()
+
+        elapsed = (time.perf_counter() - t0) * 1000  # ms
+
+        total_singers = singers.count()
+        total_songs = songs.count()
+
+        # Paginate based on active tab
+        if tab == 'song':
+            song_paginator = Paginator(songs, 20)
+            song_page = song_paginator.get_page(request.GET.get('page', 1))
+        else:
+            singer_paginator = Paginator(singers, 25)
+            singer_page = singer_paginator.get_page(request.GET.get('page', 1))
+
+    context = {
+        'query': query,
+        'elapsed': elapsed,
+        'tab': tab,
+        'singer_page': singer_page,
+        'song_page': song_page,
+        'total_singers': total_singers,
+        'total_songs': total_songs,
+        'singer_count': total_singers,
+        'song_count': total_songs,
+    }
+    return render(request, 'search_results.html', context)

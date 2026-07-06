@@ -56,6 +56,53 @@ nav a {
 nav a:hover {
     color: #fff;
 }
+.nav-right {
+    display: flex;
+    align-items: center;
+}
+.search-form {
+    display: flex;
+    align-items: center;
+    gap: 0;
+}
+.search-form input {
+    width: 240px;
+    height: 34px;
+    padding: 0 14px;
+    border: 1px solid rgba(255,255,255,0.25);
+    border-radius: 6px 0 0 6px;
+    background: rgba(255,255,255,0.12);
+    color: #fff;
+    font-family: inherit;
+    font-size: 14px;
+    outline: none;
+    transition: all 0.2s;
+    box-sizing: border-box;
+}
+.search-form input::placeholder {
+    color: rgba(255,255,255,0.5);
+}
+.search-form input:focus {
+    background: rgba(255,255,255,0.2);
+    border-color: rgba(255,255,255,0.5);
+}
+.search-form button {
+    height: 34px;
+    padding: 0 14px;
+    border: 1px solid rgba(255,255,255,0.25);
+    border-radius: 0 6px 6px 0;
+    background: rgba(255,255,255,0.15);
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background 0.2s;
+    line-height: 1;
+    box-sizing: border-box;
+    margin-left: -1px;
+}
+.search-form button:hover {
+    background: rgba(255,255,255,0.3);
+}
 
 /* 列表 */
 li {
@@ -115,6 +162,7 @@ ul {
     color: #3360AB;
     text-decoration: none;
     white-space: nowrap;
+    max-width: 600px;
     overflow: hidden;
     text-overflow: ellipsis;
 }
@@ -270,6 +318,41 @@ ul {
 .lyric-line:hover {
     font-weight: 900;
     color: #3360AB;
+}
+
+/* 搜索 Tab 切换 */
+.search-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 0;
+    margin-bottom: 28px;
+}
+.search-tab {
+    display: inline-block;
+    padding: 8px 32px;
+    border: 1px solid #3360AB;
+    background: #fff;
+    color: #3360AB;
+    text-decoration: none;
+    font-family: inherit;
+    font-size: 15px;
+    font-weight: 400;
+    transition: all 0.15s;
+}
+.search-tab:first-child {
+    border-radius: 6px 0 0 6px;
+    border-right: none;
+}
+.search-tab:last-child {
+    border-radius: 0 6px 6px 0;
+}
+.search-tab:hover {
+    background: #e8eef7;
+}
+.search-tab.active {
+    background: #3360AB;
+    color: #fff;
+    font-weight: 900;
 }
 
 /* 标签切换 */
