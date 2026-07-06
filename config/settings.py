@@ -10,6 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/6.0/ref/settings/
 """
 
+import os
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -66,6 +67,7 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+                'web.context_processors.image_base',
             ],
         },
     },
@@ -125,3 +127,9 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'
 # Media files (uploaded images)
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'data' / 'images'
+
+# Image base URL: local /media/ for dev, GitHub raw for production
+IMAGE_BASE_URL = os.environ.get(
+    'IMAGE_BASE_URL',
+    '/media/',
+)

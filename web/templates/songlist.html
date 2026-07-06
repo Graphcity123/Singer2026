@@ -8,7 +8,7 @@
     {% for song in songlist %}
         <div class="song-card">
             <span class="song-card-num">{{ forloop.counter|add:songlist.start_index|add:"-1" }}</span>
-            <img class="song-card-img" src="/media/song{{ song.id }}.jpg" alt="{{ song.name }}">
+            <img class="song-card-img" src="{{ image_base }}song{{ song.id }}.jpg" alt="{{ song.name }}">
             <div class="song-card-info">
                 <a class="song-card-title" href="{% url 'song' song.id %}">{{ song.name }}</a>
                 <div class="song-card-singers">
