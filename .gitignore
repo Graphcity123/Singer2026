@@ -5,4 +5,5 @@ db.sqlite3
 singer_data.json
 song_data.json
 data/
+crawler/
 .env
