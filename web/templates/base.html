@@ -1,0 +1,18 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}瓜易云音乐{% endblock %}</title>
+    <link rel="stylesheet" href="{% static 'web/css/style.css' %}">
+    {% block extra_css %}{% endblock %}
+</head>
+<body>
+    <nav>
+        <a class="brand" href="{% url 'songlist' %}">🎵 瓜易云音乐</a>
+        <a href="{% url 'songlist' %}">歌曲列表</a>
+        <a href="{% url 'singerlist' %}">歌手列表</a>
+    </nav>
+    {% block content %}{% endblock %}
+</body>
+</html>

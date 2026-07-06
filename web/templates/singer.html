@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}{{ name }} - 歌手主页{% endblock %}
+
+{% block content %}
+    <div class="singer-profile">
+        <img class="singer-profile-img" src="/media/singer{{ id }}.jpg" alt="{{ name }}">
+        <div class="singer-profile-info">
+            <div class="singer-profile-name">{{ name }}</div>
+            <div class="singer-profile-source">
+                来源：<a href="{{ source_url }}" target="_blank">{{ source_url }}</a>
+            </div>
+            <div class="singer-profile-desc">{{ desc|linebreaksbr|default:"暂无简介" }}</div>
+        </div>
+    </div>
+
+    <h2>热门作品</h2>
+    <div class="song-grid">
+    {% for song in songlist %}
+        <div class="song-card">
+            <span class="song-card-num">{{ forloop.counter }}</span>
+            <img class="song-card-img" src="/media/song{{ song.id }}.jpg" alt="{{ song.name }}">
+            <div class="song-card-info">
+                <a class="song-card-title" href="{% url 'song' song.id %}">{{ song.name }}</a>
+                <div class="song-card-singers">
+                    {% for singer in song.singers.all %}
+                        <a href="{% url 'singer' singer.id %}">{{ singer.name }}</a>
+                        {% if not forloop.last %}&nbsp;/&nbsp;{% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+{% endblock %}

@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}歌手列表{% endblock %}
+
+{% block content %}
+    <h1>歌手列表</h1>
+    <div class="singer-grid">
+        {% for singer in singerlist %}
+        <a class="singer-card" href="{% url 'singer' singer.id %}">
+            <img src="/media/singer{{ singer.id }}.jpg" alt="{{ singer.name }}">
+            <span class="singer-card-name">{{ singer.name }}</span>
+        </a>
+        {% endfor %}
+    </div>
+
+    {% include "_pagination.html" with page=singerlist %}
+{% endblock %}

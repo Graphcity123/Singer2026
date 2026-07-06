@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block title %}{{ name }} - 歌曲主页{% endblock %}
+
+{% block content %}
+    <div class="song-detail">
+        <img class="song-detail-img" src="/media/song{{ id }}.jpg" alt="{{ name }}">
+        <div class="song-detail-info">
+            <div class="song-detail-title">{{ name }}</div>
+            <div class="song-detail-source">
+                来源：<a href="{{ source_url }}" target="_blank">{{ source_url }}</a>
+            </div>
+            <div class="song-detail-singers">
+                {% for singer in singerlist %}
+                    <a href="{% url 'singer' singer.id %}">{{ singer.name }}</a>
+                    {% if not forloop.last %}
+                        {% if forloop.counter|divisibleby:10 %}<br>{% else %}&nbsp;/&nbsp;{% endif %}
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <div class="lyrics" style="column-count: {{ lyrics_cols }};">
+        {% for line in lyrics_lines %}
+            <span class="lyric-line">{{ line }}</span>
+        {% empty %}
+            <span class="lyric-line">纯音乐，请欣赏</span>
+        {% endfor %}
+    </div>
+{% endblock %}
