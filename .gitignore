@@ -1,9 +1,7 @@
 __pycache__/
 *.pyc
 db.sqlite3
-*.jpg
 singer_data.json
 song_data.json
-data/
 crawler/
 .env

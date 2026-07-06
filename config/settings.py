@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-njgg-l0^g^bqzu!fh7liotk0112#t4tx&w2&$21!+r0#jckg&o
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'graphcity123.pythonanywhere.com',
+    'graphcity.pythonanywhere.com',
     'localhost',
     '127.0.0.1',
 ]
