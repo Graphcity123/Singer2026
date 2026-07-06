@@ -25,7 +25,11 @@ SECRET_KEY = 'django-insecure-njgg-l0^g^bqzu!fh7liotk0112#t4tx&w2&$21!+r0#jckg&o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'graphcity123.pythonanywhere.com',
+    'localhost',
+    '127.0.0.1',
+]
 
 
 # Application definition
@@ -116,6 +120,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
 STATIC_URL = 'static/'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 # Media files (uploaded images)
 MEDIA_URL = '/media/'
