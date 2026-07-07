@@ -59,6 +59,7 @@ nav a:hover {
 .nav-right {
     display: flex;
     align-items: center;
+    margin-left: auto;
 }
 .search-form {
     display: flex;
@@ -129,6 +130,7 @@ ul {
     border: 1px solid #dce4f2;
     border-radius: 8px;
     gap: 16px;
+    max-width: 45vw;
     transition: box-shadow 0.2s;
 }
 .song-card:hover {
@@ -638,22 +640,276 @@ ul {
 .comment-form-bar button:hover {
     background: #1e4180;
 }
+.comment-anon-label {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 13px;
+    color: #999;
+    white-space: nowrap;
+    cursor: pointer;
+    flex-shrink: 0;
+}
+.comment-anon-label input {
+    margin: 0;
+}
 
-/* 评论删除按钮 */
+/* 导航栏用户 */
+.nav-auth {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+.nav-user {
+    color: #fff;
+    font-weight: 900;
+    margin-right: 28px;
+}
+.nav-auth a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+    font-weight: 900;
+    margin-right: 28px;
+    font-size: 15px;
+    transition: color 0.2s;
+}
+.nav-auth a:hover {
+    color: #fff;
+}
+.nav-auth a:last-child {
+    margin-right: 0;
+}
+
+/* 登录/注册卡片 */
+.auth-card {
+    max-width: 380px;
+    margin: 80px auto;
+    padding: 40px;
+    border: 1px solid #dce4f2;
+    border-radius: 12px;
+    text-align: center;
+}
+.auth-title {
+    font-weight: 900;
+    font-size: 28px;
+    color: #3360AB;
+    margin-bottom: 24px;
+}
+.auth-error {
+    color: #e33;
+    font-size: 14px;
+    margin-bottom: 16px;
+}
+.auth-form {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+.auth-form input {
+    height: 42px;
+    padding: 0 14px;
+    border: 1px solid #dce4f2;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 15px;
+    color: #333;
+    outline: none;
+}
+.auth-form input:focus {
+    border-color: #3360AB;
+}
+.auth-form button {
+    height: 42px;
+    background: #3360AB;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 900;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+.auth-form button:hover {
+    background: #1e4180;
+}
+.auth-link {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #888;
+}
+.auth-link a {
+    color: #3360AB;
+    text-decoration: none;
+    font-weight: 900;
+}
+.auth-link a:hover {
+    text-decoration: underline;
+}
+
+/* 收藏按钮 */
+.song-detail-left,
+.singer-profile-left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    flex-shrink: 0;
+}
+.fav-form {
+    display: flex;
+}
+.fav-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    margin-top: 10px;
+    padding: 4px 10px;
+    border: 1px solid #dce4f2;
+    border-radius: 6px;
+    background: #fff;
+    color: #888;
+    font-family: inherit;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.15s;
+}
+.fav-btn:hover {
+    border-color: #3360AB;
+    color: #3360AB;
+}
+.fav-btn.favorited {
+    border-color: #3360AB;
+    color: #3360AB;
+    background: #e8eef7;
+}
+.fav-icon {
+    display: block;
+    width: 14px;
+    height: 14px;
+    background-color: currentColor;
+    mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 22 12 18.56 5.82 22 7 14.14l-5-4.87 6.91-1.01L12 2z'/%3E%3C/svg%3E");
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 22 12 18.56 5.82 22 7 14.14l-5-4.87 6.91-1.01L12 2z'/%3E%3C/svg%3E");
+    mask-size: contain;
+    -webkit-mask-size: contain;
+}
+
+/* 个人主页 */
+.profile-avatar-placeholder {
+    width: 320px;
+    height: 320px;
+    border-radius: 8px;
+    background: #e8eef7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile-avatar-placeholder::after {
+    content: "暂无头像";
+    color: #8aaddd;
+    font-size: 20px;
+    font-weight: 900;
+}
+.profile-edit-link {
+    display: inline-block;
+    margin-top: 16px;
+    color: #3360AB;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 14px;
+}
+.profile-edit-link:hover {
+    text-decoration: underline;
+}
+.profile-file-label {
+    font-size: 14px;
+    color: #888;
+    text-align: left;
+}
+.profile-file-label input {
+    border: none;
+    padding: 0;
+}
+.auth-form textarea {
+    padding: 10px 14px;
+    border: 1px solid #dce4f2;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 15px;
+    color: #333;
+    outline: none;
+    resize: vertical;
+}
+.auth-form textarea:focus {
+    border-color: #3360AB;
+}
+
+/* 评论操作区 */
+.comment-actions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-shrink: 0;
+    margin-left: 12px;
+    gap: 6px;
+}
+.comment-like-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.comment-like-form {
+    display: flex;
+}
+.comment-like-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    line-height: 0;
+    opacity: 0.4;
+    transition: opacity 0.15s;
+}
+.comment-like-btn:hover {
+    opacity: 0.7;
+}
+.comment-like-btn.liked {
+    opacity: 1;
+}
+.comment-like-btn.liked:hover {
+    opacity: 0.8;
+}
+.comment-like-icon {
+    display: block;
+    width: 18px;
+    height: 18px;
+    background-color: #999;
+    mask-image: url('/static/web/img/like.svg');
+    -webkit-mask-image: url('/static/web/img/like.svg');
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+}
+.comment-like-btn.liked .comment-like-icon {
+    background-color: #3360AB;
+}
+.comment-like-count {
+    font-size: 13px;
+    color: #999;
+}
+.comment-delete-form {
+    display: flex;
+}
 .comment-delete-btn {
-    visibility: hidden;
     background: none;
     border: none;
     color: #ccc;
-    font-size: 20px;
+    font-size: 16px;
     cursor: pointer;
-    padding: 0 4px;
+    padding: 0;
     line-height: 1;
     font-family: inherit;
     transition: color 0.15s;
-}
-.comment-card:hover .comment-delete-btn {
-    visibility: visible;
 }
 .comment-delete-btn:hover {
     color: #e33;
@@ -662,4 +918,7 @@ ul {
 /* 底部留白防止被固定栏遮挡 */
 .comment-list {
     padding-bottom: 80px;
+}
+.song-bottom-spacer {
+    height: 80px;
 }

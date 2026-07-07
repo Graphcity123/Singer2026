@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %}编辑资料 - 瓜易云音乐{% endblock %}
+
+{% block content %}
+<h1>编辑资料</h1>
+
+<div class="auth-card">
+    <form method="post" enctype="multipart/form-data" class="auth-form">
+        {% csrf_token %}
+        {% if profile.avatar %}
+            <img src="{{ profile.avatar.url }}" alt="头像" style="width:120px;height:120px;border-radius:8px;object-fit:cover;margin:0 auto;">
+        {% endif %}
+        <label class="profile-file-label">
+            上传头像
+            <input type="file" name="avatar" accept="image/*">
+        </label>
+        <textarea name="bio" rows="4" placeholder="写一段个人简介...">{{ profile.bio }}</textarea>
+        <button type="submit">保存</button>
+    </form>
+    <div class="auth-link">
+        <a href="{% url 'profile' %}">返回个人主页</a>
+    </div>
+</div>
+{% endblock %}

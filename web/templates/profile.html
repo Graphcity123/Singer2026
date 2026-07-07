@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}{{ user.username }} 的个人主页 - 瓜易云音乐{% endblock %}
+
+{% block content %}
+<div class="singer-profile">
+    <div class="singer-profile-left">
+        {% if profile.avatar %}
+            <img class="singer-profile-img" src="{{ profile.avatar.url }}" alt="{{ user.username }}">
+        {% else %}
+            <div class="profile-avatar-placeholder"></div>
+        {% endif %}
+    </div>
+    <div class="singer-profile-info">
+        <div class="singer-profile-name">{{ user.username }}</div>
+        <div class="singer-profile-desc">
+            {{ profile.bio|default:"这个人很懒，什么都没写..."|linebreaksbr }}
+        </div>
+        <a class="profile-edit-link" href="{% url 'profile_edit' %}">编辑资料</a>
+    </div>
+</div>
+
+<h1>我的收藏</h1>
+
+<div class="search-tabs">
+    <a class="search-tab{% if tab == 'song' %} active{% endif %}" href="?tab=song">收藏歌曲</a>
+    <a class="search-tab{% if tab == 'singer' %} active{% endif %}" href="?tab=singer">收藏歌手</a>
+</div>
+
+{% if tab == 'song' %}
+    {% if fav_songs %}
+        <div class="song-grid">
+        {% for fav in fav_songs %}
+            <div class="song-card">
+                <span class="song-card-num">{{ forloop.counter }}</span>
+                <a href="{% url 'song' fav.song.id %}">
+                    <img class="song-card-img" src="{{ image_base }}song{{ fav.song.id }}.jpg" alt="{{ fav.song.name }}">
+                </a>
+                <div class="song-card-info">
+                    <a class="song-card-title" href="{% url 'song' fav.song.id %}">{{ fav.song.name }}</a>
+                    <div class="song-card-singers">
+                        {% for singer in fav.song.singers.all %}
+                            <a href="{% url 'singer' singer.id %}">{{ singer.name }}</a>
+                            {% if not forloop.last %}&nbsp;/&nbsp;{% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+    {% else %}
+        <p style="text-align:center;color:#999;margin-top:40px;">还没有收藏歌曲</p>
+    {% endif %}
+{% else %}
+    {% if fav_singers %}
+        <div class="singer-grid">
+        {% for fav in fav_singers %}
+            <a class="singer-card" href="{% url 'singer' fav.singer.id %}">
+                <img src="{{ image_base }}singer{{ fav.singer.id }}.jpg" alt="{{ fav.singer.name }}">
+                <div class="singer-card-name">{{ fav.singer.name }}</div>
+            </a>
+        {% endfor %}
+        </div>
+    {% else %}
+        <p style="text-align:center;color:#999;margin-top:40px;">还没有收藏歌手</p>
+    {% endif %}
+{% endif %}
+{% endblock %}
