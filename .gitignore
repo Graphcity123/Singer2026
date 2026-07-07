@@ -5,3 +5,4 @@ singer_data.json
 song_data.json
 crawler/
 .env
+data/images/
