@@ -18,7 +18,6 @@ class Song(models.Model):
     singers=models.ManyToManyField(Singer,related_name="songs")
 
 class Comment(models.Model):
-    id=models.IntegerField(primary_key=True,verbose_name="评论ID")
     name=models.CharField(max_length=200,verbose_name="昵称")
     content=models.TextField(blank=True,null=True,default="",verbose_name="评论内容")
     song=models.ForeignKey(Song,related_name="comments",on_delete=models.CASCADE)

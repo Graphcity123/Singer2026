@@ -26,5 +26,6 @@ urlpatterns = [
     path("song/<int:song_id>", views.song, name="song"),
     path("songlist", views.songlist, name="songlist"),
     path("singerlist", views.singerlist, name="singerlist"),
-    path("search", views.search_view, name="search")
+    path("search", views.search_view, name="search"),
+    path("comment/<int:comment_id>/delete", views.delete_comment, name="delete_comment"),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

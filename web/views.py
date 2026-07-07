@@ -1,9 +1,11 @@
 import time
 import re
-from django.shortcuts import render, redirect
+from datetime import datetime
+from django.http import HttpResponse
+from django.shortcuts import get_object_or_404, render, redirect
 from django.core.paginator import Paginator
 from django.db.models import Case, IntegerField, Q, Value, When
-from .models import Singer, Song
+from .models import Singer, Song, Comment
 
 def index(request):
     """首页重定向到歌曲列表。"""
@@ -36,6 +38,20 @@ def song(request, song_id):
     lyrics_cols=(lyrics_len+29)//30
     lyrics_cols=min(5,lyrics_cols)
     true_id =int(re.search(r"id=(\d+)",song.source_url).group(1))
+
+    # 处理评论提交
+    if request.method == "POST":
+        content = request.POST.get("content", "").strip()
+        name = request.POST.get("nickname", "").strip() or "匿名用户"
+        if content:
+            Comment.objects.create(
+                content=content,
+                song=song,
+                name=name,
+                create_time=datetime.now(),
+            )
+        return redirect("song", song_id=song.id)
+
     context = {
         "name": song.name,
         "id": song.id,
@@ -44,10 +60,18 @@ def song(request, song_id):
         "lyrics_lines": lyrics_text.split("\n") if lyrics_text else [],
         "lyrics_cols": lyrics_cols,
         "source_url": song.source_url,
-        "commentlist": song.comments.all(),
+        "commentlist": song.comments.order_by("-create_time","-id"),
         "total_comments": song.comments.count()
     }
     return render(request, "song.html", context)
+
+def delete_comment(request, comment_id):
+    """删除评论。"""
+    comment = get_object_or_404(Comment, pk=comment_id)
+    song_id = comment.song_id
+    comment.delete()
+    return redirect("song", song_id=song_id)
+
 
 def songlist(request):
     """

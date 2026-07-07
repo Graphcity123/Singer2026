@@ -519,7 +519,7 @@ ul {
     display: flex;
     flex-direction: column;
     flex-shrink: 0;
-    width: 180px;
+    width: 240px;
     text-align: right;
     padding-right: 20px;
 }
@@ -528,10 +528,8 @@ ul {
     font-size: 22px;
     color: #3360AB;
     line-height: 1.6;
-    max-width: 180px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    word-break: break-all;
+    overflow-wrap: break-word;
+    text-wrap: balance;
 }
 .comment-date {
     font-weight: 400;
@@ -552,4 +550,116 @@ ul {
     line-height: 1.8;
     flex: 1;
     min-width: 0;
+}
+.comment-delete-form {
+    flex-shrink: 0;
+    margin-left: 12px;
+}
+
+/* 底部固定评论输入栏 */
+.comment-form-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(51,96,171,0.06);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border-top: 1px solid rgba(51,96,171,0.12);
+    padding: 16px 0;
+    z-index: 100;
+}
+.comment-form-label {
+    max-width: 56vw;
+    margin: 0 auto 10px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 18px;
+    color: #3360AB;
+}
+.comment-form-bar form {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    max-width: 56vw;
+    margin: 0 auto;
+}
+.comment-nickname-input {
+    width: 100px;
+    height: 38px;
+    padding: 0 12px;
+    border: 1px solid #dce4f2;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 14px;
+    color: #333;
+    outline: none;
+    box-shadow: none;
+    flex-shrink: 0;
+    box-sizing: border-box;
+}
+.comment-nickname-input:focus {
+    border-color: #3360AB;
+    box-shadow: none;
+}
+.comment-form-bar textarea {
+    flex: 1;
+    height: 38px;
+    padding: 9px 12px;
+    border: 1px solid #dce4f2;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 14px;
+    color: #333;
+    outline: none;
+    box-shadow: none;
+    resize: none;
+    box-sizing: border-box;
+}
+.comment-form-bar textarea:focus {
+    border-color: #3360AB;
+    box-shadow: none;
+}
+.comment-form-bar button {
+    height: 38px;
+    padding: 0 24px;
+    background: #3360AB;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 15px;
+    font-weight: 900;
+    cursor: pointer;
+    flex-shrink: 0;
+    box-shadow: none;
+    transition: background 0.15s;
+}
+.comment-form-bar button:hover {
+    background: #1e4180;
+}
+
+/* 评论删除按钮 */
+.comment-delete-btn {
+    visibility: hidden;
+    background: none;
+    border: none;
+    color: #ccc;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 0 4px;
+    line-height: 1;
+    font-family: inherit;
+    transition: color 0.15s;
+}
+.comment-card:hover .comment-delete-btn {
+    visibility: visible;
+}
+.comment-delete-btn:hover {
+    color: #e33;
+}
+
+/* 底部留白防止被固定栏遮挡 */
+.comment-list {
+    padding-bottom: 80px;
 }

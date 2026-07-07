@@ -40,7 +40,21 @@
                 </div>
                 <div class="comment-divider"></div>
                 <div class="comment-body">{{ comment.content|linebreaksbr|default:"没有留下评论" }}</div>
+                <form class="comment-delete-form" method="post" action="{% url 'delete_comment' comment.id %}">
+                    {% csrf_token %}
+                    <button type="submit" class="comment-delete-btn" title="删除">&times;</button>
+                </form>
             </div>
         {% endfor %}
+    </div>
+
+    <div class="comment-form-bar">
+        <div class="comment-form-label">写下你的评论！</div>
+        <form method="post">
+            {% csrf_token %}
+            <input type="text" name="nickname" placeholder="昵称" class="comment-nickname-input">
+            <textarea name="content" rows="1" placeholder="写下你想说的话..." required></textarea>
+            <button type="submit">发布</button>
+        </form>
     </div>
 {% endblock %}
