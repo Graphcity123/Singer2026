@@ -843,6 +843,72 @@ ul {
     border-color: #3360AB;
 }
 
+/* 个人主页评论卡片 */
+.profile-comment-card {
+    display: flex;
+    align-items: center;
+    padding: 14px 20px;
+    border: 1px solid #dce4f2;
+    border-radius: 8px;
+    text-decoration: none;
+    gap: 16px;
+    transition: box-shadow 0.2s;
+}
+.profile-comment-card:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.profile-comment-card .song-card-info {
+    width: 340px;
+    flex-shrink: 0;
+}
+.profile-comment-card .song-card-title {
+    max-width: 100%;
+}
+.profile-comment-card .song-card-singers {
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.profile-comment-divider {
+    width: 2px;
+    background: #dce4f2;
+    align-self: stretch;
+    flex-shrink: 0;
+}
+.profile-comment-right {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.profile-comment-text {
+    font-size: 17px;
+    color: #555;
+    line-height: 1.8;
+}
+.profile-comment-meta {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    font-size: 13px;
+    color: #aaa;
+}
+.profile-like-icon {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background-color: #999;
+    mask-image: url('/static/web/img/like.svg');
+    -webkit-mask-image: url('/static/web/img/like.svg');
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    vertical-align: middle;
+}
+
 /* 评论操作区 */
 .comment-actions {
     display: flex;

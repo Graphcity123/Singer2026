@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}用户管理 - 瓜易云音乐{% endblock %}
+
+{% block content %}
+<h1>用户管理</h1>
+
+<div class="comment-list">
+{% for u in users %}
+    <div class="comment-card">
+        <div class="comment-meta">
+            <a class="comment-name" href="{% url 'profile' %}?uid={{ u.id }}">{{ u.username }}</a>
+            <span class="comment-date">
+                收藏 {{ u.fav_song_count }} 首歌 / {{ u.fav_singer_count }} 位歌手 / {{ u.comment_count }} 条评论
+            </span>
+        </div>
+        <div class="comment-divider"></div>
+        <div class="comment-body" style="color:#999;font-size:14px;">
+            点击用户名查看详情
+        </div>
+    </div>
+{% empty %}
+    <p style="text-align:center;color:#999;margin-top:40px;">暂无用户</p>
+{% endfor %}
+</div>
+{% endblock %}

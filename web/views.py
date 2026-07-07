@@ -51,9 +51,9 @@ def song(request, song_id):
     if request.method == "POST":
         content = request.POST.get("content", "").strip()
         if content:
-            if request.user.is_authenticated and not request.POST.get("anonymous"):
-                name = request.user.username
+            if request.user.is_authenticated:
                 user = request.user
+                name = "匿名用户" if request.POST.get("anonymous") else request.user.username
             else:
                 name = "匿名用户"
                 user = None
@@ -116,14 +116,13 @@ def like_comment(request, comment_id):
 
 
 def delete_comment(request, comment_id):
-    """删除评论。仅超级管理员可操作。"""
-    if not request.user.is_superuser:
-        comment = get_object_or_404(Comment, pk=comment_id)
-        return redirect(f"/song/{comment.song_id}#comments")
+    """删除评论。管理员或评论作者可操作。"""
     comment = get_object_or_404(Comment, pk=comment_id)
-    song_id = comment.song_id
-    comment.delete()
-    return redirect(f"/song/{song_id}#comments")
+    if request.user.is_superuser or (comment.user and comment.user == request.user):
+        song_id = comment.song_id
+        comment.delete()
+        return redirect(f"/song/{song_id}#comments")
+    return redirect(f"/song/{comment.song_id}#comments")
 
 
 def register_view(request):
@@ -187,20 +186,42 @@ def favorite_singer(request, singer_id):
 
 
 def profile_view(request):
-    """个人主页，展示个人信息和收藏的歌曲/歌手（tab 切换）。"""
+    """个人主页，展示个人信息和收藏的歌曲/歌手（tab 切换）。管理员可通过 ?uid=X 查看他人。"""
     if not request.user.is_authenticated:
         return redirect("login")
+    uid = request.GET.get("uid")
+    if uid and request.user.is_superuser:
+        target_user = get_object_or_404(User, pk=uid)
+    else:
+        target_user = request.user
     tab = request.GET.get("tab", "song")
-    profile = UserProfile.objects.get_or_create(user=request.user)[0]
-    fav_songs = FavoriteSong.objects.filter(user=request.user).select_related("song")
-    fav_singers = FavoriteSinger.objects.filter(user=request.user).select_related("singer")
+    profile = UserProfile.objects.get_or_create(user=target_user)[0]
+    fav_songs = FavoriteSong.objects.filter(user=target_user).select_related("song")
+    fav_singers = FavoriteSinger.objects.filter(user=target_user).select_related("singer")
+    # Get user's recent comments
+    user_comments = Comment.objects.filter(user=target_user).order_by("-create_time")[:50]
     context = {
         "tab": tab,
         "profile": profile,
+        "profile_user": target_user,
         "fav_songs": fav_songs,
         "fav_singers": fav_singers,
+        "user_comments": user_comments,
     }
     return render(request, "profile.html", context)
+
+
+def admin_users(request):
+    """管理员查看所有用户及其活动统计。"""
+    if not request.user.is_superuser:
+        return redirect("songlist")
+    from django.db.models import Count
+    users = User.objects.annotate(
+        fav_song_count=Count("favoritesong", distinct=True),
+        fav_singer_count=Count("favoritesinger", distinct=True),
+        comment_count=Count("comment", distinct=True),
+    ).order_by("-comment_count")
+    return render(request, "admin_users.html", {"users": users})
 
 
 def profile_edit(request):

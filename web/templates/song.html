@@ -42,7 +42,7 @@
     <h1 id="comments">评论列表 (共 {{total_comments}} 条)</h1>
     <div class="comment-list">
         {% for comment in commentlist %}
-            <div class="comment-card">
+            <div class="comment-card" id="comment-{{ comment.id }}">
                 <div class="comment-meta">
                     <span class="comment-name">{{ comment.name }}</span>
                     <span class="comment-date">{{ comment.create_time|date:"Y年n月j日" }}</span>
@@ -59,7 +59,7 @@
                         </form>
                         <span class="comment-like-count">{{ comment.like_count }}</span>
                     </div>
-                    {% if user.is_superuser %}
+                    {% if user.is_superuser or comment.user == user %}
                     <form class="comment-delete-form" method="post" action="{% url 'delete_comment' comment.id %}">
                         {% csrf_token %}
                         <button type="submit" class="comment-delete-btn" title="删除">&times;</button>

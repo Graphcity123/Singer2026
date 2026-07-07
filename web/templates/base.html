@@ -19,6 +19,9 @@
             </form>
             <span class="nav-auth">
                 {% if user.is_authenticated %}
+                    {% if user.is_superuser %}
+                        <a href="{% url 'admin_users' %}">用户管理</a>
+                    {% endif %}
                     <a href="{% url 'profile' %}" class="nav-user">{{ user.username }}</a>
                     <a href="{% url 'logout' %}">登出</a>
                 {% else %}

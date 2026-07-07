@@ -34,6 +34,7 @@ urlpatterns = [
     path("logout/", views.logout_view, name="logout"),
     path("profile/", views.profile_view, name="profile"),
     path("profile/edit/", views.profile_edit, name="profile_edit"),
+    path("manage/users/", views.admin_users, name="admin_users"),
     path("song/<int:song_id>/favorite", views.favorite_song, name="favorite_song"),
     path("singer/<int:singer_id>/favorite", views.favorite_singer, name="favorite_singer"),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

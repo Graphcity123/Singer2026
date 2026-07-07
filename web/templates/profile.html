@@ -1,19 +1,24 @@
 {% extends "base.html" %}
 {% load static %}
 
-{% block title %}{{ user.username }} 的个人主页 - 瓜易云音乐{% endblock %}
+{% block title %}{{ profile_user.username }} 的个人主页 - 瓜易云音乐{% endblock %}
 
 {% block content %}
+{% if user.is_superuser and profile_user != user %}
+    <p style="text-align:center;color:#3360AB;font-size:14px;margin-bottom:12px;">
+        管理员视角 — 正在查看 <b>{{ profile_user.username }}</b> 的主页
+    </p>
+{% endif %}
 <div class="singer-profile">
     <div class="singer-profile-left">
         {% if profile.avatar %}
-            <img class="singer-profile-img" src="{{ profile.avatar.url }}" alt="{{ user.username }}">
+            <img class="singer-profile-img" src="{{ profile.avatar.url }}" alt="{{ profile_user.username }}">
         {% else %}
             <div class="profile-avatar-placeholder"></div>
         {% endif %}
     </div>
     <div class="singer-profile-info">
-        <div class="singer-profile-name">{{ user.username }}</div>
+        <div class="singer-profile-name">{{ profile_user.username }}</div>
         <div class="singer-profile-desc">
             {{ profile.bio|default:"这个人很懒，什么都没写..."|linebreaksbr }}
         </div>
@@ -65,5 +70,32 @@
     {% else %}
         <p style="text-align:center;color:#999;margin-top:40px;">还没有收藏歌手</p>
     {% endif %}
+{% endif %}
+
+{% if user_comments %}
+<h1>最近评论</h1>
+<div style="display:flex;flex-direction:column;gap:16px;max-width:70vw;margin:0 auto;">
+    {% for comment in user_comments %}
+        <a class="profile-comment-card" href="{% url 'song' comment.song_id %}#comment-{{ comment.id }}">
+            <img class="song-card-img" src="{{ image_base }}song{{ comment.song_id }}.jpg" alt="{{ comment.song.name }}">
+            <div class="song-card-info">
+                <div class="song-card-title">{{ comment.song.name }}</div>
+                <div class="song-card-singers">
+                    {% for singer in comment.song.singers.all %}
+                        {{ singer.name }}{% if not forloop.last %}&nbsp;/&nbsp;{% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="profile-comment-divider"></div>
+            <div class="profile-comment-right">
+                <div class="profile-comment-text">{{ comment.content|linebreaksbr }}</div>
+                <div class="profile-comment-meta">
+                    <span class="profile-like-icon"></span> {{ comment.like_count }}
+                    <span>{{ comment.create_time|date:"Y年n月j日" }}</span>
+                </div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
 {% endif %}
 {% endblock %}
