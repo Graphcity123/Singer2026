@@ -5,7 +5,7 @@
 {% block content %}
     {% if query %}
         <h1 style="margin-bottom:4px;">「{{ query }}」 的搜索结果</h1>
-        <p style="text-align:center;color:#999;font-size:15px;margin:0 0 24px 0;">共 {{ singer_count|add:song_count }} 条结果，用时 {{ elapsed|floatformat:0 }} ms</p>
+        <p style="text-align:center;color:#999;font-size:15px;margin:0 0 24px 0;">共 {{ singer_count|add:song_count }} 条结果，用时 {{ elapsed|floatformat:2 }} ms</p>
 
         {% if not singer_count and not song_count %}
             <p style="text-align:center;color:#888;font-size:18px;margin-top:48px;">没有找到相关结果</p>

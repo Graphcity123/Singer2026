@@ -1,4 +1,5 @@
 import time
+import re
 from django.shortcuts import render, redirect
 from django.core.paginator import Paginator
 from django.db.models import Case, IntegerField, Q, Value, When
@@ -17,7 +18,7 @@ def singer(request, singer_id):
     singer = Singer.objects.get(pk=singer_id)
     context = {
         "name": singer.name,
-        "desc": singer.desc,
+        "desc": singer.desc.strip(),
         "id": singer.id,
         "songlist": singer.songs.all(),
         "source_url": singer.source_url,
@@ -34,13 +35,17 @@ def song(request, song_id):
     lyrics_len = len(lyrics_text.split("\n"))
     lyrics_cols=(lyrics_len+29)//30
     lyrics_cols=min(5,lyrics_cols)
+    true_id =int(re.search(r"id=(\d+)",song.source_url).group(1))
     context = {
         "name": song.name,
         "id": song.id,
+        "true_id": true_id,
         "singerlist": song.singers.all(),
         "lyrics_lines": lyrics_text.split("\n") if lyrics_text else [],
         "lyrics_cols": lyrics_cols,
         "source_url": song.source_url,
+        "commentlist": song.comments.all(),
+        "total_comments": song.comments.count()
     }
     return render(request, "song.html", context)
 

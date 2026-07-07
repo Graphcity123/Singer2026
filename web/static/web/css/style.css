@@ -66,6 +66,7 @@ nav a:hover {
     gap: 0;
 }
 .search-form input {
+    margin-left: 20px;
     width: 240px;
     height: 34px;
     padding: 0 14px;
@@ -245,15 +246,21 @@ ul {
 .song-detail-singers a:hover {
     color: #3360AB;
 }
+.song-player {
+    margin-top: 36px;
+    margin-left: 0;
+    display: block;
+    border: none;
+}
 
 /* 歌手详情卡片 */
 .singer-profile {
     display: flex;
-    gap: 32px;
+    gap: 56px;
     padding: 24px 40px;
     margin: 0 auto 32px;
     align-items: flex-start;
-    max-width: 1200px;
+    max-width: 70vw;
 }
 .singer-profile-img {
     width: 320px;
@@ -267,13 +274,13 @@ ul {
     flex-direction: column;
     min-width: 0;
     border-left: 2px solid #3360AB;
-    padding-left: 32px;
+    padding-left: 56px;
 }
 .singer-profile-name {
     font-weight: 900;
     font-size: 96px;
     color: #3360AB;
-    line-height: 1.1;
+    line-height: 1;
     margin-bottom: 30px;
 }
 .singer-profile-source {
@@ -282,7 +289,7 @@ ul {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    margin-bottom: 8px;
+    margin-bottom: 20px;
 }
 .singer-profile-source a {
     color: #888;
@@ -338,6 +345,8 @@ ul {
     font-size: 15px;
     font-weight: 400;
     transition: all 0.15s;
+    width: 100px;
+    text-align: center;
 }
 .search-tab:first-child {
     border-radius: 6px 0 0 6px;
@@ -490,4 +499,57 @@ ul {
     overflow: hidden;
     text-overflow: ellipsis;
     max-width: 100%;
+}
+
+/* 评论列表 */
+.comment-list {
+    max-width: 70vw;
+    margin: 0 auto;
+}
+.comment-card {
+    display: flex;
+    align-items: flex-start;
+    padding: 20px 0;
+    border-bottom: 1px solid #f0f0f2;
+}
+.comment-card:last-child {
+    border-bottom: none;
+}
+.comment-meta {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    width: 180px;
+    text-align: right;
+    padding-right: 20px;
+}
+.comment-name {
+    font-weight: 900;
+    font-size: 22px;
+    color: #3360AB;
+    line-height: 1.6;
+    max-width: 180px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-all;
+}
+.comment-date {
+    font-weight: 400;
+    font-size: 14px;
+    color: #aaa;
+    line-height: 1.6;
+}
+.comment-divider {
+    width: 2px;
+    background: #dce4f2;
+    flex-shrink: 0;
+    align-self: stretch;
+    margin-right: 20px;
+}
+.comment-body {
+    font-size: 17px;
+    color: #555;
+    line-height: 1.8;
+    flex: 1;
+    min-width: 0;
 }

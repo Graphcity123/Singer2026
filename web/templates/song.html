@@ -18,6 +18,7 @@
                     {% endif %}
                 {% endfor %}
             </div>
+            <iframe class="song-player" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id={{true_id}}&auto=1&height=66"></iframe>
         </div>
     </div>
 
@@ -26,6 +27,20 @@
             <span class="lyric-line">{{ line }}</span>
         {% empty %}
             <span class="lyric-line">纯音乐，请欣赏</span>
+        {% endfor %}
+    </div>
+
+    <h1>评论列表 (共 {{total_comments}} 条)</h1>
+    <div class="comment-list">
+        {% for comment in commentlist %}
+            <div class="comment-card">
+                <div class="comment-meta">
+                    <span class="comment-name">{{ comment.name }}</span>
+                    <span class="comment-date">{{ comment.create_time|date:"Y年n月j日" }}</span>
+                </div>
+                <div class="comment-divider"></div>
+                <div class="comment-body">{{ comment.content|linebreaksbr|default:"没有留下评论" }}</div>
+            </div>
         {% endfor %}
     </div>
 {% endblock %}
