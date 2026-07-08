@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block title %}{% if query %}"{{ query }}" - 搜索结果{% else %}搜索{% endif %}{% endblock %}
+
+{% block content %}
+    {% if query %}
+        <h1 style="margin-bottom:4px;">「{{ query }}」 的搜索结果</h1>
+        <p style="text-align:center;color:#999;font-size:15px;margin:0 0 24px 0;">共 {{ singer_count|add:song_count }} 条结果，用时 {{ elapsed|floatformat:2 }} ms</p>
+
+        {% if not singer_count and not song_count %}
+            <p style="text-align:center;color:#888;font-size:18px;margin-top:48px;">没有找到相关结果</p>
+        {% else %}
+            <!-- Tab 导航 -->
+            <div class="search-tabs">
+                <a href="?q={{ query }}&tab=singer"
+                   class="search-tab {% if tab == 'singer' %}active{% endif %}">歌手 · {{ singer_count }}</a>
+                <a href="?q={{ query }}&tab=song"
+                   class="search-tab {% if tab == 'song' %}active{% endif %}">歌曲 · {{ song_count }}</a>
+            </div>
+
+            <!-- 歌手结果 -->
+            {% if tab == 'singer' and singer_page %}
+                {% if singer_page %}
+                    <div class="singer-grid">
+                        {% for singer in singer_page %}
+                            <a class="singer-card" href="{% url 'singer' singer.id %}">
+                                <img src="{{ image_base }}singer{{ singer.id }}.jpg" alt="{{ singer.name }}">
+                                <span class="singer-card-name">{{ singer.name }}</span>
+                            </a>
+                        {% endfor %}
+                    </div>
+                    {% include "_pagination.html" with page=singer_page extra_params="&q="|add:query|add:"&tab=singer" q_param=query tab_param="singer" %}
+                {% endif %}
+            {% endif %}
+
+            <!-- 歌曲结果 -->
+            {% if tab == 'song' and song_page %}
+                {% if song_page %}
+                    <div class="song-grid">
+                        {% for song in song_page %}
+                            <div class="song-card">
+                                <span class="song-card-num">{{ forloop.counter|add:song_page.start_index|add:"-1" }}</span>
+                                <img class="song-card-img" src="{{ image_base }}song{{ song.id }}.jpg" alt="{{ song.name }}">
+                                <div class="song-card-info">
+                                    <a class="song-card-title" href="{% url 'song' song.id %}">{{ song.name }}</a>
+                                    <div class="song-card-singers">
+                                        {% for singer in song.singers.all %}
+                                            <a href="{% url 'singer' singer.id %}">{{ singer.name }}</a>
+                                            {% if not forloop.last %}&nbsp;/&nbsp;{% endif %}
+                                        {% endfor %}
+                                    </div>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                    {% include "_pagination.html" with page=song_page extra_params="&q="|add:query|add:"&tab=song" q_param=query tab_param="song" %}
+                {% endif %}
+            {% endif %}
+        {% endif %}
+
+    {% else %}
+        <h1>搜索</h1>
+        <p style="text-align:center;color:#888;font-size:18px;margin-top:48px;">请输入关键词搜索歌手或歌曲</p>
+    {% endif %}
+{% endblock %}

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}注册 - 瓜易云音乐{% endblock %}
+
+{% block content %}
+<div class="auth-card">
+    <div class="auth-title">注册</div>
+    {% if error %}
+        <div class="auth-error">{{ error }}</div>
+    {% endif %}
+    <form method="post" class="auth-form">
+        {% csrf_token %}
+        <input type="text" name="username" placeholder="用户名" required>
+        <input type="password" name="password" placeholder="密码" required>
+        <button type="submit">注册</button>
+    </form>
+    <div class="auth-link">
+        已有账号？<a href="{% url 'login' %}">立即登录</a>
+    </div>
+</div>
+{% endblock %}

@@ -1,6 +1,7 @@
 import time
 import re
-from datetime import datetime
+import random
+from datetime import datetime, date
 from django.http import HttpResponse
 from django.shortcuts import get_object_or_404, render, redirect
 from django.core.paginator import Paginator
@@ -8,6 +9,11 @@ from django.db.models import Case, IntegerField, Q, Value, When
 from django.contrib.auth import login, logout, authenticate
 from django.contrib.auth.models import User
 from .models import Singer, Song, Comment, CommentLike, FavoriteSong, FavoriteSinger, UserProfile
+
+# 随机种子 (每天轮换一次)
+DAILY_SEED = int(date.today().strftime('%Y%m%d'))
+random.seed(DAILY_SEED)
+RANDOM_LIST = [random.randint(1, 1000000000) for _ in range(10000)]
 
 def index(request):
     """首页重定向到歌曲列表。"""
@@ -243,8 +249,10 @@ def songlist(request):
     """
     歌曲列表页。
     分页展示所有歌曲（每页 20 首），含序号、歌名链接、歌手链接。
+    每天随机轮换一次。
     """
-    songs = Song.objects.order_by('sort_order')
+    songs = list(Song.objects.all())
+    songs.sort(key=lambda x: RANDOM_LIST[x.id])
     paginator = Paginator(songs, 20)
     page_number = request.GET.get('page', 1)
     page_obj = paginator.get_page(page_number)
@@ -257,8 +265,10 @@ def singerlist(request):
     """
     歌手列表页。
     网格卡片分页展示所有歌手（每页 25 位），含照片和姓名。
+    每天随机轮换一次。
     """
-    singers = Singer.objects.order_by('sort_order')
+    singers = list(Singer.objects.all())
+    singers.sort(key=lambda x: RANDOM_LIST[x.id])
     paginator = Paginator(singers, 25)
     page_number = request.GET.get('page', 1)
     page_obj = paginator.get_page(page_number)

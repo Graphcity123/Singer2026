@@ -1,0 +1,130 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}{{ name }} - 歌曲主页{% endblock %}
+
+{% block content %}
+    <div class="song-detail">
+        <div class="song-detail-left">
+            <img class="song-detail-img" src="{{ image_base }}song{{ id }}.jpg" alt="{{ name }}">
+            <form class="fav-form" method="post" action="{% url 'favorite_song' id %}">
+                {% csrf_token %}
+                <button type="submit" class="fav-btn{% if is_favorited %} favorited{% endif %}">
+                    <span class="fav-icon"></span> 收藏
+                </button>
+            </form>
+        </div>
+        <div class="song-detail-info">
+            <div class="song-detail-title">{{ name }}</div>
+            <div class="song-detail-source">
+                来源：<a href="{{ source_url }}" target="_blank">{{ source_url }}</a>
+            </div>
+            <div class="song-detail-singers">
+                {% for singer in singerlist %}
+                    <a href="{% url 'singer' singer.id %}">{{ singer.name }}</a>
+                    {% if not forloop.last %}
+                        {% if forloop.counter|divisibleby:8 %}<br>{% else %}&nbsp;/&nbsp;{% endif %}
+                    {% endif %}
+                {% endfor %}
+            </div>
+            <iframe class="song-player" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id={{true_id}}&auto=1&height=66"></iframe>
+        </div>
+    </div>
+
+    <div class="lyrics" style="column-count: {{ lyrics_cols }};">
+        {% for line in lyrics_lines %}
+            <span class="lyric-line">{{ line }}</span>
+        {% empty %}
+            <span class="lyric-line">纯音乐，请欣赏</span>
+        {% endfor %}
+    </div>
+
+    <h1 id="comments">评论列表 (共 {{total_comments}} 条)</h1>
+    <div class="comment-list">
+        {% for comment in commentlist %}
+            <div class="comment-card" id="comment-{{ comment.id }}">
+                <div class="comment-meta">
+                    <span class="comment-name">{{ comment.name }}</span>
+                    <span class="comment-date">{{ comment.create_time|date:"Y年n月j日" }}</span>
+                </div>
+                <div class="comment-divider"></div>
+                <div class="comment-body">{{ comment.content|linebreaksbr|default:"没有留下评论" }}</div>
+                <div class="comment-actions">
+                    <div class="comment-like-row">
+                        <form class="comment-like-form" method="post" action="{% url 'like_comment' comment.id %}">
+                            {% csrf_token %}
+                            <button type="submit" class="comment-like-btn{% if comment.id in liked_ids %} liked{% endif %}" title="点赞">
+                                <span class="comment-like-icon"></span>
+                            </button>
+                        </form>
+                        <span class="comment-like-count">{{ comment.like_count }}</span>
+                    </div>
+                    {% if user.is_superuser or comment.user == user %}
+                    <form class="comment-delete-form" method="post" action="{% url 'delete_comment' comment.id %}">
+                        {% csrf_token %}
+                        <button type="submit" class="comment-delete-btn" title="删除">&times;</button>
+                    </form>
+                    {% endif %}
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+    {% if comment_page.paginator.num_pages > 1 %}
+    <div class="pagination">
+        {% if comment_page.has_previous %}
+            <a href="?cpage=1#comments">&laquo;</a>
+        {% else %}
+            <span class="disabled">&laquo;</span>
+        {% endif %}
+
+        {% if comment_page.has_previous %}
+            <a href="?cpage={{ comment_page.previous_page_number }}#comments">‹</a>
+        {% else %}
+            <span class="disabled">‹</span>
+        {% endif %}
+
+        {% for num in comment_page.paginator.page_range %}
+            {% if num == comment_page.number %}
+                <span class="current-page">{{ num }}</span>
+            {% elif num >= comment_page.number|add:"-2" and num <= comment_page.number|add:"2" %}
+                <a href="?cpage={{ num }}#comments">{{ num }}</a>
+            {% elif num == comment_page.number|add:"-3" or num == comment_page.number|add:"3" %}
+                <span>…</span>
+            {% endif %}
+        {% endfor %}
+
+        {% if comment_page.has_next %}
+            <a href="?cpage={{ comment_page.next_page_number }}#comments">›</a>
+        {% else %}
+            <span class="disabled">›</span>
+        {% endif %}
+
+        {% if comment_page.has_next %}
+            <a href="?cpage={{ comment_page.paginator.num_pages }}#comments">&raquo;</a>
+        {% else %}
+            <span class="disabled">&raquo;</span>
+        {% endif %}
+
+        <form method="get" class="page-jump">
+            <input type="number" name="cpage" min="1" max="{{ comment_page.paginator.num_pages }}" placeholder="{{ comment_page.number }}">
+            <button type="submit">跳转</button>
+        </form>
+    </div>
+    {% endif %}
+
+    <div class="comment-form-bar">
+        <div class="comment-form-label">写下你的评论！</div>
+        <form method="post">
+            {% csrf_token %}
+            <textarea name="content" rows="1" placeholder="写下你想说的话..." required></textarea>
+            <button type="submit">发布</button>
+            {% if user.is_authenticated %}
+                <label class="comment-anon-label">
+                    <input type="checkbox" name="anonymous"> 匿名发布
+                </label>
+            {% endif %}
+        </form>
+    </div>
+    <div class="song-bottom-spacer"></div>
+{% endblock %}

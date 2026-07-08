@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block title %}{{ name }} - 歌手主页{% endblock %}
+
+{% block content %}
+    <div class="singer-profile">
+        <div class="singer-profile-left">
+            <img class="singer-profile-img" src="{{ image_base }}singer{{ id }}.jpg" alt="{{ name }}">
+            <form class="fav-form" method="post" action="{% url 'favorite_singer' id %}">
+                {% csrf_token %}
+                <button type="submit" class="fav-btn{% if is_favorited %} favorited{% endif %}">
+                    <span class="fav-icon"></span> 收藏
+                </button>
+            </form>
+        </div>
+        <div class="singer-profile-info">
+            <div class="singer-profile-name">{{ name }}</div>
+            <div class="singer-profile-source">
+                来源：<a href="{{ source_url }}" target="_blank">{{ source_url }}</a>
+            </div>
+            <div class="singer-profile-desc">{{ desc|linebreaksbr|default:"暂无简介" }}</div>
+        </div>
+    </div>
+
+    <h1>热门作品</h1>
+    <div class="song-grid">
+    {% for song in song_page %}
+        <div class="song-card">
+            <span class="song-card-num">{{ song_page.start_index|add:forloop.counter0 }}</span>
+            <img class="song-card-img" src="{{ image_base }}song{{ song.id }}.jpg" alt="{{ song.name }}">
+            <div class="song-card-info">
+                <a class="song-card-title" href="{% url 'song' song.id %}">{{ song.name }}</a>
+                <div class="song-card-singers">
+                    {% for singer in song.singers.all %}
+                        <a href="{% url 'singer' singer.id %}">{{ singer.name }}</a>
+                        {% if not forloop.last %}&nbsp;/&nbsp;{% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    {% empty %}
+        <p style="text-align:center;color:#999;margin-top:40px;">暂无作品</p>
+    {% endfor %}
+    </div>
+
+    {% if song_page.paginator.num_pages > 1 %}
+        {% include "_pagination.html" with page=song_page %}
+    {% endif %}
+{% endblock %}

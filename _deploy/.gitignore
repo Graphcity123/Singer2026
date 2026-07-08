@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+db.sqlite3
+singer_data.json
+song_data.json
+crawler/
+.env
+data/images/
