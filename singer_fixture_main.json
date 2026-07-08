@@ -2498,17 +2498,6 @@
   },
   {
     "model": "web.Singer",
-    "pk": 228,
-    "fields": {
-      "id": 228,
-      "name": "南久",
-      "desc": "该歌手在网易云上无页面, 故无简介",
-      "source_url": "https://music.163.com",
-      "image_url": "https://p2.music.126.net/0KcMYyKmWR-6eCkR8znePw==/18198016951567516.jpg"
-    }
-  },
-  {
-    "model": "web.Singer",
     "pk": 229,
     "fields": {
       "id": 229,
