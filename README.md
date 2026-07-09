@@ -10,6 +10,12 @@
 - [数据分析实验报告](analysis/实验报告.md) — 最佳拍档 / 常用词 / 独特词三篇分析合并
 - [数据分析代码](analysis/) — 6 个脚本 + 3 个子模块
 
+## 相关链接
+
+- GitHub：https://github.com/Graphcity123/Singer2026
+- 在线演示：https://graphcities.pythonanywhere.com
+- 课程：清华大学 2026 暑期 · 程序设计训练（Python）
+
 ## 数据规模
 
 | 数据类型 | 数量 |
@@ -225,12 +231,6 @@ application = get_wsgi_application()
 - 可通过 `/manage/users/` 查看全站用户活动统计
 - Django Admin 面板：`/admin/`
 
-
-## 相关链接
-
-- GitHub：https://github.com/Graphcity123/Singer2026
-- 在线演示：https://graphcities.pythonanywhere.com
-- 课程：清华大学 2026 暑期 · 程序设计训练（Python）
 
 ---
 
