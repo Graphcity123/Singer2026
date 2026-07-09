@@ -1,0 +1,5836 @@
+HOYO-MiX & 陈致逸 Yu-Peng Chen : 37
+三Z-STUDIO & 杨武韬 : 26
+HOYO-MiX & 杨武韬 : 26
+孙燕姿 & 李偲菘 : 16
+HOYO-MiX & 王可鑫 Eli.W : 13
+万妮达Vinida Weng & HARIKIRI : 13
+功夫胖KUNGFU-PEN & GAI周延 : 11
+GAI周延 & 功夫胖KUNGFU-PEN : 9
+GAI周延 & KEY.L刘聪 : 9
+洛天依 & WOVOP : 8
+萧亚轩 & 陈伟 : 8
+单依纯 & 常石磊 : 8
+盛宇D-SHINE & GAI周延 : 8
+KEY.L刘聪 & GAI周延 : 8
+蔡徐坤 & CHOICE37 : 8
+小凌 & 徐良 : 7
+陈奕迅 & Eric Kwok : 7
+蔡依林 & 周杰伦 : 7
+杨千嬅 & 雷颂德 : 7
+GAI周延 & 盛宇D-SHINE : 7
+功夫胖KUNGFU-PEN & KEY.L刘聪 : 7
+蔡徐坤 & Sonny : 7
+蔡徐坤 & HAE : 7
+三Z-STUDIO & 雷声 : 7
+HOYO-MiX & 雷声 : 7
+孙燕姿 & 李伟菘 : 6
+HOYO-MiX & 崔瀚普TSAR : 6
+梁咏琪 & 李偲菘 : 6
+INDEcompany & Top Barry : 6
+周深 & 钱雷 : 6
+盛宇D-SHINE & 功夫胖KUNGFU-PEN : 6
+功夫胖KUNGFU-PEN & 盛宇D-SHINE : 6
+范玮琪 & 陈小霞 : 6
+盛宇D-SHINE & KEY.L刘聪 : 6
+万妮达Vinida Weng & 万妮达 : 6
+三Z-STUDIO & 周斌 : 6
+HOYO-MiX & 周斌 : 6
+铁痕电台-MSR & Alec Justice : 6
+陈奕迅 & 陈小霞 : 5
+Ghost (王琳凯) & Ghost : 5
+Dizzy Dizzo (蔡诗芸) & Dizzy Dizzo : 5
+邹沛沛 & Pank : 5
+洛天依Official & ilem : 5
+蔡徐坤 & Max Ulver : 5
+蔡徐坤 & Daniel Schulz : 5
+知更鸟 & 王可鑫 Eli.W : 5
+Chevy & 王可鑫 Eli.W : 5
+刘珂矣 & 百慕三石 : 5
+梁静茹 & 李宗盛 : 5
+萧亚轩 & Jae Chong : 5
+张信哲 & 曹俊鸿 : 5
+张杰 & 曲世聪 : 5
+法老 & 泠风 : 5
+KEY.L刘聪 & 盛宇D-SHINE : 5
+王菲 & C. Y. Kong : 5
+法老 & 小精灵 : 5
+小精灵 & 法老 : 5
+蔡徐坤 & Se.A : 5
+万妮达Vinida Weng & KEY.L刘聪 : 5
+洛天依 & MOCKER44. : 5
+窦靖童 & Ernest Choi : 5
+铁痕电台-MSR & Mike Truman : 5
+铁痕电台-MSR & Lottie Truman : 5
+陈奕迅 & Christopher Chak : 4
+宋雨琦 & Siixk Jun : 4
+Wiz_H张子豪 & 梨冻紧 : 4
+庄东茹（豆芽鱼） & 是的麦克雷 : 4
+Pank & 邹沛沛 : 4
+SASIOVERLXRD & JinJiBeWater_隼 : 4
+JinJiBeWater_隼 & SASIOVERLXRD : 4
+庄东茹（豆芽鱼） & 乐火能量 : 4
+JinJiBeWater_隼 & 连麻Swimming : 4
+张惠妹 & 陶喆 : 4
+梁咏琪 & Eric Kwok : 4
+彭佳慧 & 陈国华 : 4
+张杰 & 谭旋 : 4
+王菲 & 张亚东 : 4
+黄霄雲 & 瞿子千 : 4
+郭静 & 韦礼安 : 4
+郭静 & 陈小霞 : 4
+郭静 & 王雅君 : 4
+袁娅维TIA RAY & Khris Riddick-Tynes : 4
+泠风 & 法老 : 4
+朱旭BooBoo & 王朝1982 : 4
+芮恩 & 林倛玉 : 4
+曾沛慈 & 张简君伟 : 4
+那英 & 钱雷 : 4
+张惠妹 & 张雨生 : 4
+KEY.L刘聪 & 功夫胖KUNGFU-PEN : 4
+HOYO-MiX & 李洋 Yang Lee : 4
+法老 & 杨和苏KeyNG : 4
+GAI周延 & 布瑞吉Bridge : 4
+布瑞吉Bridge & GAI周延 : 4
+孙燕姿 & 林倛玉 : 4
+梁静茹 & 五月天 阿信 : 4
+KEY.L刘聪 & 万妮达Vinida Weng : 4
+HOYO-MiX & 文驰Vinchi : 4
+张惠妹 & 林倛玉 : 4
+李佳薇 & 李偲菘 : 4
+窦靖童 & Leah Dou : 4
+窦靖童 & The Invisible Men : 4
+袁娅维TIA RAY & Paul E. Phamous : 4
+洛天依Official & ChiliChill乐团 : 3
+梁静茹 & 伍冠谚 : 3
+杨千嬅 & 黄家驹 : 3
+梨冻紧 & Wiz_H张子豪 : 3
+冰洁 & 郑浩Z-Hao : 3
+卫兰 & 雷颂德 : 3
+蔡徐坤 & Andreas Ringblom : 3
+TINY7 & 罗凯元 : 3
+张信哲 & 李宗盛 : 3
+RICHNOMADIC & SASIOVERLXRD : 3
+RICHNOMADIC & JinJiBeWater_隼 : 3
+王赫野 & 刘昊霖 : 3
+蒋雪儿Snow.J & 刘涛 : 3
+连麻Swimming & JinJiBeWater_隼 : 3
+黄丽玲 & 周兴哲 : 3
+五月天 & 五月天 阿信 : 3
+孙燕姿 & 林一峰 : 3
+FIVESTAR & Starling8 : 3
+DRODUMANA & Starling8 : 3
+DRODUMANA & FIVESTAR : 3
+Starling8 & FIVESTAR : 3
+h3R3 & 林达浪 : 3
+林达浪 & h3R3 : 3
+刘惜君 & 郭顶 : 3
+颜人中 & 郑国锋 : 3
+张学友 & 李偲菘 : 3
+梁静茹 & 彭学斌 : 3
+Aki阿杰 & 银临 : 3
+那英 & 袁惟仁 : 3
+唐伯虎Annie & 伯爵Johnny : 3
+张学友 & 郭子 : 3
+林忆莲 & 李宗盛 : 3
+菲菲公主（陆绮菲） & 安苏羽 : 3
+刘珂矣 & 刘凯 : 3
+王心凌 & 林俊杰 : 3
+洛天依Official & 星葵77 : 3
+陈奕迅 & 小柯 : 3
+徐佳莹 & 苏通达 : 3
+高旭 & h3R3 : 3
+龚琳娜 & 法老 : 3
+萧亚轩 & 小安 : 3
+艾热 AIR & 王以太 : 3
+张碧晨 & 汪苏泷 : 3
+杨秋儒 & 法老 : 3
+陈小春 & 陶喆 : 3
+G.E.M.邓紫棋 & Lupo Groinig : 3
+郭静 & 范玮琪 : 3
+袁娅维TIA RAY & Leon Thomas : 3
+G.E.M.邓紫棋 & Skot Suyama : 3
+王菲 & 柳重言 : 3
+艾志恒Asen & 马思唯 : 3
+马思唯 & 艾志恒Asen : 3
+杨千嬅 & 于逸尧 : 3
+艾热 AIR & 艾热AIR : 3
+王赫野 & 刘涛 : 3
+杨丞琳 & 陈威全 : 3
+芮恩 & 林迈可 : 3
+G.E.M.邓紫棋 & 黄家驹 : 3
+杨丞琳 & 吴青峰 : 3
+范玮琪 & 王蓝茵 : 3
+张惠妹 & 涂惠源 : 3
+张学友 & 玉置浩二 : 3
+许美静 & 陈佳明 : 3
+张学友 & 桑田佳祐 : 3
+王菲 & 袁惟仁 : 3
+陈奕迅 & 梁翘柏 : 3
+陈奕迅 & 陈辉阳 : 3
+薛之谦 & 周以力 : 3
+薛之谦 & 郭冠廷 : 3
+胡彦斌 & 李宗盛 : 3
+喉结蜥蜴 & 法老 : 3
+喉结蜥蜴 & 小精灵 : 3
+法老 & 隆历奇 : 3
+杨和苏KeyNG & 法老 : 3
+隆历奇 & 法老 : 3
+JarStick & 法老 : 3
+MC HotDog 热狗 & 张震岳 : 3
+GAI周延 & 老道 : 3
+单依纯 & 黄家驹 : 3
+莫文蔚 & 张洪量 : 3
+黄丽玲 & 施佳阳 : 3
+黄丽玲 & 金大洲 : 3
+王菲 & 陈小霞 : 3
+梁静茹 & 郭文贤 : 3
+张韶涵 & 阿沁 : 3
+张韶涵 & 陈伟 : 3
+蔡依林 & 黄晟峰 : 3
+万妮达Vinida Weng & VaVa娃娃 : 3
+VaVa娃娃 & 万妮达Vinida Weng : 3
+黄龄 & 常石磊 : 3
+洛天依 & QGRay : 3
+未知歌手 & 无 : 3
+洛天依Official & COP : 3
+洛天依Official & 阿良良木健 : 3
+HOYO-MiX & 苑迪萌 Dimeng Yuan : 3
+于梓贝 & 杨武韬 : 3
+三Z-STUDIO & 余宗儒 : 3
+HOYO-MiX & 余宗儒 : 3
+HOYO-MiX & 林一凡Fan : 3
+三Z-STUDIO & 宋培彦 : 3
+HOYO-MiX & 宋培彦 : 3
+塞壬唱片-MSR & DJ OKAWARI : 3
+塞壬唱片-MSR & Erik Castro : 3
+Erik Castro & David Lin : 3
+塞壬唱片-MSR & David Lin : 3
+David Lin & Erik Castro : 3
+塞壬唱片-MSR & Adam Gubman : 3
+铁痕电台-MSR & Aurora Sky : 3
+Salty Salt & VISION SOUND : 3
+VISION SOUND & Salty Salt : 3
+铁痕电台-MSR & VISION SOUND : 3
+铁痕电台-MSR & Salty Salt : 3
+铁痕电台-MSR & HeartStrings : 3
+Mike Truman & Lottie Truman : 3
+Lottie Truman & Mike Truman : 3
+铁痕电台-MSR & Gareth Coker : 3
+ChiliChill乐团 & 无 : 3
+袁娅维TIA RAY & 常石磊 : 3
+袁娅维TIA RAY & Oak Felder : 3
+袁娅维TIA RAY & William Zaire Simmons : 3
+袁娅维TIA RAY & Trevor David Brown : 3
+袁娅维TIA RAY & 袁娅维 : 3
+袁娅维TIA RAY & Trey Campbell : 3
+袁娅维TIA RAY & Tushar Apte : 3
+袁娅维TIA RAY & 邓伊伦 : 3
+袁娅维TIA RAY & DEN : 3
+袁娅维TIA RAY & Nigel郑伟杰 : 3
+卓文萱 & 曹格 : 2
+宋雨琦 & Taneisha Jackson : 2
+林子祥 & 黄家驹 : 2
+李克勤 & 黄家驹 : 2
+庄东茹（豆芽鱼） & 丁登音乐 : 2
+Ice Paper & FOX胡天渝 : 2
+FOX胡天渝 & Ice Paper : 2
+毛不易 & 钱雷 : 2
+刘惜君 & 薛之谦 : 2
+黄丽玲 & 李荣浩 : 2
+黄丽玲 & 游政豪 : 2
+Gareth.T & 叶崇恩 : 2
+SASIOVERLXRD & RICHNOMADIC : 2
+JinJiBeWater_隼 & RICHNOMADIC : 2
+三Z-STUDIO & ChiliChill乐团 : 2
+HOYO-MiX & ChiliChill乐团 : 2
+艾志恒Asen & THOME : 2
+黄丽玲 & 刘勇志 : 2
+刘若英 & 玉城千春 : 2
+王睿卓 & 拜德盖Viigho : 2
+梁咏琪 & 林天爱 : 2
+王心凌 & 张简君伟 : 2
+陈奕迅 & Vincent Chow : 2
+SETI & mac ova seas : 2
+邹沛沛 & 李铭熙 : 2
+小凌 & 郑国锋 : 2
+韩红 & 崔浚荣 : 2
+孙楠 & 崔浚荣 : 2
+蒋雪儿Snow.J & 蒋雪儿 : 2
+礼越 & 孙思达 : 2
+杨丞琳 & 小冷 : 2
+范玮琪 & 陶喆 : 2
+张信哲 & 王力宏 : 2
+张惠妹 & 王力宏 : 2
+蔡依林 & 王力宏 : 2
+蔡依林 & 陶喆 : 2
+萧亚轩 & 王力宏 : 2
+菲菲公主（陆绮菲） & IN-K : 2
+罗言 & 马思唯 : 2
+张惠妹 & 林俊杰 : 2
+付思遥 & 艾志恒Asen : 2
+刘惜君 & 秋言 : 2
+林达浪 & GZ : 2
+林达浪 & 木秦 : 2
+木秦 & GZ : 2
+freezepain & Hiromimua : 2
+Sin Wecokat & Hiromimua : 2
+黄丽玲 & 张简君伟 : 2
+艾志恒Asen & mac ova seas : 2
+艾志恒Asen & MULA SAKEE : 2
+艾志恒Asen & DIGI GHETTO : 2
+mac ova seas & MULA SAKEE : 2
+mac ova seas & DIGI GHETTO : 2
+MULA SAKEE & mac ova seas : 2
+MULA SAKEE & DIGI GHETTO : 2
+DIGI GHETTO & mac ova seas : 2
+DIGI GHETTO & MULA SAKEE : 2
+洛天依 & 张卡斯 : 2
+梁咏琪 & 陈辉阳 : 2
+颜人中 & 余竑龙 : 2
+DRODUMANA & Ruby : 2
+Ruby & DRODUMANA : 2
+张杰 & 唐湘智 : 2
+张学友 & John Laudon : 2
+阿YueYue & 楚明玉 : 2
+陈楚生 & 陆虎 : 2
+黄龄 & 许嵩 : 2
+张学友 & 殷文琦 : 2
+曾沛慈 & 黄柏勋 : 2
+王菲 & 钱雷 : 2
+莫文蔚 & 李宗盛 : 2
+江语晨 & 詹宇豪 : 2
+江语晨 & 陈少荣 : 2
+谢安琪 & Eric Kwok : 2
+河图 & 银临 : 2
+付思遥 & mac ova seas : 2
+KIV & THOME : 2
+丁当 & 五月天 阿信 : 2
+张靓颖 & 薛之谦 : 2
+张杰 & 文一丁 : 2
+SASIOVERLXRD & 连麻Swimming : 2
+连麻Swimming & SASIOVERLXRD : 2
+张杰 & 梁伟丰 : 2
+张杰 & 刘迦宁 : 2
+LEGGO & Capper : 2
+袁娅维TIA RAY & Top Barry : 2
+freezepain & CVRCH : 2
+周柏豪 & 陈光荣 : 2
+王杰 & 陈志远 : 2
+王杰 & 王文清 : 2
+萧亚轩 & 吴克群 : 2
+曾沛慈 & 徐佳莹 : 2
+王唯旖 & 纪铭乐 : 2
+鹿晗 & Matthew Tishler : 2
+丁当 & V.K克 : 2
+王艳薇 & 陶山 Skot Suyama : 2
+刘大拿 & 蔡健雅 : 2
+张叶蕾 & 阿沁 : 2
+陈小春 & 伍乐城 : 2
+王以太 & 艾热 AIR : 2
+yihuik苡慧 & 郑润泽 : 2
+萧亚轩 & 倪子冈 : 2
+古巨基 & 雷颂德 : 2
+Gareth.T & Teddy Fan : 2
+容祖儿 & 汪苏泷 : 2
+孙盛希 & 张简君伟 : 2
+马思唯 & HARIKIRI : 2
+HARIKIRI & 马思唯 : 2
+胡彦斌 & Jony J : 2
+陈小春 & 蔡振南 : 2
+双笙（陈元汐） & 徐梦圆 : 2
+任然 & Xun : 2
+黄龄 & 丁培峰 : 2
+华晨宇 & 西楼 : 2
+FIVESTAR & DRODUMANA : 2
+Starling8 & DRODUMANA : 2
+杨丞琳 & 金大洲 : 2
+杨丞琳 & 陈颖见 : 2
+王艳薇 & Skot Suyama 陶山 : 2
+谢安琪 & Christopher Chak : 2
+洛天依Official & 大河内航太 : 2
+法老 & 龙崎 : 2
+龙崎 & 法老 : 2
+DJ阿智 & h3R3 : 2
+王菲 & 中島 : 2
+王以太 & 张怿龙 : 2
+刘至佳 & 王以太 : 2
+刘至佳 & 张怿龙 : 2
+连麻Swimming & RICHNOMADIC : 2
+RICHNOMADIC & 连麻Swimming : 2
+银临 & 灰原穷 : 2
+何曼婷 & 郑国锋 : 2
+艾热 AIR & NINEONE : 2
+NINEONE#乃万 & NINEONE : 2
+芮恩 & 周杰伦 : 2
+黄龄 & 宋阳 : 2
+王赫野 & 李浩瑞 : 2
+王赫野 & 林晨阳 : 2
+任素汐 & 瞿子千 : 2
+陈小春 & 周杰伦 : 2
+孙盛希 & 剃刀蔣 : 2
+单依纯 & 鱼椒盐 : 2
+梨冻紧 & NaCho : 2
+法老 & Mc光光 : 2
+Mc光光 & 法老 : 2
+徐佳莹 & 韦礼安 : 2
+派克特（PACT） & 功夫胖KUNGFU-PEN : 2
+VaVa娃娃 & 盛宇D-SHINE : 2
+布瑞吉Bridge & 盛宇D-SHINE : 2
+布瑞吉Bridge & 功夫胖KUNGFU-PEN : 2
+黄霄雲 & 刘昊霖 : 2
+王睿卓 & 沈学风.硕果 : 2
+李大奔BENZO & 李大奔 : 2
+杨丞琳 & 张简君伟 : 2
+许嵩 & 李毅杰 : 2
+刘书含Rose & 王朝1982 : 2
+郭静 & 林俊杰 : 2
+莫文蔚 & Meyna Co : 2
+黄龄 & 关大洲 : 2
+杨丞琳 & 温奕哲 : 2
+陈慧娴 & 马饲野康二 : 2
+陈慧娴 & 罗大佑 : 2
+莫文蔚 & 王治平 : 2
+苏运莹 & 蔡健雅 : 2
+张韶涵 & 周杰伦 : 2
+张惠妹 & 黄韵仁 : 2
+张韶涵 & Hermanni Kovalainen : 2
+张韶涵 & 李天龙 : 2
+张雨生 & 陈志远 : 2
+张惠妹 & Won Tae Yeon : 2
+张惠妹 & 赵奎满 : 2
+黄龄 & 自游诗 : 2
+Ghost (王琳凯) & 周杰伦 : 2
+范玮琪 & 王雅君 : 2
+张韶涵 & 王蓝茵 : 2
+李克勤 & 立川俊之 : 2
+罗文 & 顾嘉辉 : 2
+王菲 & 梁弘志 : 2
+张学友 & 顾嘉辉 : 2
+萨顶顶 & 彭勃 : 2
+张学友 & 张宇 : 2
+王菲 & 郭子 : 2
+潘玮柏 & 李念和 : 2
+徐若瑄 & 林俊杰 : 2
+蔡依林 & 李偲菘 : 2
+陈奕迅 & 柳重言 : 2
+薛凯琪 & 方大同 : 2
+徐佳莹 & 林俊杰 : 2
+徐佳莹 & 伍佰 : 2
+徐佳莹 & 郑楠 : 2
+方大同 & Edward Chan : 2
+陈楚生 & 陈粒 : 2
+陈楚生 & 仓雁彬 : 2
+陈奕迅 & 林俊杰 : 2
+陈奕迅 & C. Y. Kong : 2
+陈奕迅 & 徐伟贤 : 2
+薛之谦 & 郭顶 : 2
+薛之谦 & 茶茶 : 2
+薛之谦 & 方毅 : 2
+薛之谦 & 李荣浩 : 2
+薛之谦 & 张洢豪 : 2
+陶喆 & 朱敬然 : 2
+毛不易 & 王子zione : 2
+未知歌手 & 罗大佑 : 2
+张杰 & 许嵩 : 2
+周深 & ilem : 2
+周深 & 周以力 : 2
+胡彦斌 & 周杰伦 : 2
+法老 & JarStick : 2
+法老 & 李毅杰PISSY : 2
+法老 & 杨秋儒 : 2
+法老 & 喉结蜥蜴 : 2
+杨和苏KeyNG & 隆历奇 : 2
+杨和苏KeyNG & 李毅杰PISSY : 2
+杨和苏KeyNG & 小精灵 : 2
+杨和苏KeyNG & 喉结蜥蜴 : 2
+杨秋儒 & JarStick : 2
+隆历奇 & 杨和苏KeyNG : 2
+隆历奇 & 李毅杰PISSY : 2
+隆历奇 & 小精灵 : 2
+隆历奇 & 喉结蜥蜴 : 2
+JarStick & 杨和苏KeyNG : 2
+JarStick & 隆历奇 : 2
+JarStick & 李毅杰PISSY : 2
+JarStick & 小精灵 : 2
+JarStick & 杨秋儒 : 2
+JarStick & 喉结蜥蜴 : 2
+Buzzy & 法老 : 2
+活死人 & 杨和苏KeyNG : 2
+活死人 & 隆历奇 : 2
+活死人 & 李毅杰PISSY : 2
+活死人 & 小精灵 : 2
+活死人 & 法老 : 2
+活死人 & 喉结蜥蜴 : 2
+小精灵 & 杨和苏KeyNG : 2
+小精灵 & 隆历奇 : 2
+小精灵 & 李毅杰PISSY : 2
+小精灵 & 喉结蜥蜴 : 2
+李毅杰PISSY & 杨和苏KeyNG : 2
+李毅杰PISSY & 隆历奇 : 2
+李毅杰PISSY & 小精灵 : 2
+李毅杰PISSY & 法老 : 2
+李毅杰PISSY & 喉结蜥蜴 : 2
+喉结蜥蜴 & 杨和苏KeyNG : 2
+喉结蜥蜴 & 隆历奇 : 2
+喉结蜥蜴 & 李毅杰PISSY : 2
+幼稚园杀手 & 法老 : 2
+张学友 & 黎沸挥 : 2
+张学友 & 吴国敬 : 2
+张震岳 & MC HotDog 热狗 : 2
+GAI周延 & RANZER叶润泽 : 2
+蔡徐坤 & KSHMR : 2
+蔡徐坤 & 袁娅维TIA RAY : 2
+杨宗纬 & 翁孝良 : 2
+张信哲 & 翁孝良 : 2
+刘惜君 & 黄家驹 : 2
+李玟 & 黄家驹 : 2
+周笔畅 & 黄家驹 : 2
+安崎 & 黄家驹 : 2
+叶蒨文 & 黄家驹 : 2
+炎明熹 & 黄家驹 : 2
+蔡依林 & 陈星翰 : 2
+孙燕姿 & 伍家辉 : 2
+孙燕姿 & 黄韵仁 : 2
+孙燕姿 & 郭文贤 : 2
+孙燕姿 & 彭学斌 : 2
+孙燕姿 & 陈文华 : 2
+莫文蔚 & 邓智伟 : 2
+莫文蔚 & 张震岳 : 2
+黄丽玲 & 周杰伦 : 2
+张碧晨 & 周杰伦 : 2
+杨丞琳 & 都智文 : 2
+杨丞琳 & 郁采真Volcano : 2
+杨丞琳 & 刘嘉星Juice : 2
+梁静茹 & 林倛玉 : 2
+梁静茹 & 潘协庆 : 2
+梁静茹 & 黄韵玲 : 2
+梁静茹 & 鸦片丹 : 2
+梁静茹 & 方文良 : 2
+梁静茹 & 易桀齐 : 2
+郭静 & 阿超 : 2
+郭静 & 陈韦伶 : 2
+郭静 & 戴蕙心 : 2
+张韶涵 & 范玮琪 : 2
+单依纯 & 唐汉霄 : 2
+单依纯 & 王子 : 2
+萧亚轩 & 都智文 : 2
+萧亚轩 & SAKURA : 2
+萧亚轩 & 饶善强 : 2
+张韶涵 & 钱雷 : 2
+张韶涵 & 赵泳鑫 : 2
+蔡依林 & Miriam Nervo : 2
+蔡依林 & Edward Chan : 2
+蔡依林 & 许哲珮 : 2
+蔡依林 & Sten Iggy : 2
+王心凌 & 伍佰 : 2
+王心凌 & Kannan Chandren : 2
+曾沛慈 & 宇珩 : 2
+曾沛慈 & 韦礼安 : 2
+曾沛慈 & 小路 : 2
+曾沛慈 & 林家谦 : 2
+曾沛慈 & Han Sung Ho : 2
+蔡旻佑 & Han Sung Ho : 2
+汪东城 & Han Sung Ho : 2
+万妮达Vinida Weng & Vinida : 2
+万妮达Vinida Weng & 严浩翔 : 2
+万妮达Vinida Weng & SRR三儿 : 2
+严浩翔 & 万妮达Vinida Weng : 2
+c0de731 & KEY.L刘聪 : 2
+c0de731 & 万妮达Vinida Weng : 2
+万妮达Vinida Weng & 盛宇D-SHINE : 2
+VaVa娃娃 & KEY.L刘聪 : 2
+盛宇D-SHINE & 万妮达Vinida Weng : 2
+KEY.L刘聪 & VaVa娃娃 : 2
+万妮达Vinida Weng & Capper : 2
+Capper & 万妮达Vinida Weng : 2
+万妮达Vinida Weng & TizzyT : 2
+黄霄雲 & 刘吉宁 : 2
+洛天依 & 昨日的青空酱 : 2
+洛天依 & 花水r : 2
+梁咏琪 & 郑华娟 : 2
+梁咏琪 & 彭学斌 : 2
+梁咏琪 & 金培达 : 2
+张惠妹 & 郭子 : 2
+李佳薇 & 饶善强 : 2
+李佳薇 & 伍家辉 : 2
+李佳薇 & Skot Suyama : 2
+黄龄 & 罗大佑 : 2
+范玮琪 & 非非 : 2
+范玮琪 & 潘协庆 : 2
+言和 & ilem : 2
+乐正绫 & COP : 2
+洛天依Official & JUSF周存 : 2
+洛天依Official & 墨老板 : 2
+洛天依Official & 瞿子千 : 2
+苏运莹 & 苏运莹Sue : 2
+韩红 & 王备 : 2
+黄霄雲 & 文驰Vinchi : 2
+黄霄雲 & Sarah Solly Solovay : 2
+黄霄雲 & Jesse Finkelstein : 2
+黄霄雲 & Willim : 2
+黄霄雲 & Ruben den Boer : 2
+黄霄雲 & Victor Pool : 2
+Vicetone & Sarah Solly Solovay : 2
+Vicetone & Jesse Finkelstein : 2
+Vicetone & Willim : 2
+Vicetone & Ruben den Boer : 2
+Vicetone & Victor Pool : 2
+WILLIM缪维霖 & Sarah Solly Solovay : 2
+WILLIM缪维霖 & Jesse Finkelstein : 2
+WILLIM缪维霖 & Willim : 2
+WILLIM缪维霖 & Ruben den Boer : 2
+WILLIM缪维霖 & Victor Pool : 2
+谭维维 & 舟也 : 2
+窦靖童 & 范晓萱 : 2
+HOYO-MiX & 蔡近翰Zoe : 2
+三Z-STUDIO & Philip Strand : 2
+HOYO-MiX & Philip Strand : 2
+Mili & Yamato Kasai : 2
+Mili & Cassie Wei : 2
+塞壬唱片-MSR & Yamato Kasai : 2
+塞壬唱片-MSR & Cassie Wei : 2
+左乙 & David Lin : 2
+塞壬唱片-MSR & David Westbom : 2
+Aurora Sky & Lucien X : 2
+铁痕电台-MSR & Lucien X : 2
+铁痕电台-MSR & Kirara Magic : 2
+N2V & EGGY : 2
+铁痕电台-MSR & EGGY : 2
+Cody Matthew Johnson & Alec Justice : 2
+Alec Justice & Cody Matthew Johnson : 2
+铁痕电台-MSR & Cody Matthew Johnson : 2
+Hybrid & Mike Truman : 2
+Hybrid & Lottie Truman : 2
+铁痕电台-MSR & Adam Gubman : 2
+袁娅维TIA RAY & 段炼 : 2
+袁娅维TIA RAY & 胡小鸥 : 2
+袁娅维TIA RAY & 李俊聪 : 2
+袁娅维TIA RAY & Jewell Fortenberry : 2
+袁娅维TIA RAY & Derrick Sepnio : 2
+袁娅维TIA RAY & Fergus Chow : 2
+袁娅维TIA RAY & Malay : 2
+马伯骞Victor Ma & Paul E. Phamous : 2
+马伯骞Victor Ma & 袁娅维TIA RAY : 2
+马伯骞Victor Ma & Tushar Apte : 2
+袁娅维TIA RAY & Anonymous : 2
+袁娅维TIA RAY & Debbie Aramide : 2
+袁娅维TIA RAY & 陶乐然DOLLARZOO : 2
+袁娅维TIA RAY & Drea Rose : 2
+袁娅维TIA RAY & 刘旗 : 2
+黄丽玲 & Skot Suyama : 1
+卓文萱 & 人工卫星 : 1
+黄鸿升 & 人工卫星 : 1
+艾热 AIR & 陈粒 : 1
+Ziba & 陈粒 : 1
+卓文萱 & 张简君伟 : 1
+张子墨z!mooo & Top Barry : 1
+Top Barry & 张子墨z!mooo : 1
+张学友 & 伍佰 : 1
+范玮琪 & 中島 : 1
+卓文萱 & 卫斯理 : 1
+卢广仲 & 许媛婷 : 1
+卢广仲 & 佳旺 : 1
+卢广仲 & 陈文华 : 1
+石凯 & 郭子潇 : 1
+万妮达Vinida Weng & 郭子潇 : 1
+冯沁苑(买辣椒也用券) & 高橋優 : 1
+卓文萱 & 谭志华 : 1
+Ghost (王琳凯) & 曹格 : 1
+张新成 & 曹格 : 1
+金志文 & 巫启贤 : 1
+卓文萱 & CSHA : 1
+孙盛希 & 郑润泽 : 1
+TizzyT & 河合奈保子 : 1
+GALI & step.jad依加 : 1
+step.jad依加 & GALI : 1
+宋雨琦 & Cheatkey : 1
+刘大拿 & 王艳薇 : 1
+陈奕迅 & 黄家驹 : 1
+张学友 & 黄家驹 : 1
+刘德华 & 黄家驹 : 1
+黄家强 & 黄家驹 : 1
+谭咏麟 & 黄家驹 : 1
+曾志伟 & 黄家驹 : 1
+罗家英 & 黄家驹 : 1
+汪明荃 & 黄家驹 : 1
+钟镇涛 & 黄家驹 : 1
+Maria Cordero & 黄家驹 : 1
+莫文蔚 & 黄家驹 : 1
+容祖儿 & 黄家驹 : 1
+梁咏琪 & 黄家驹 : 1
+彭健新 & 黄家驹 : 1
+泰迪罗宾 & 黄家驹 : 1
+林敏骢 & 黄家驹 : 1
+许志安 & 黄家驹 : 1
+梁汉文 & 黄家驹 : 1
+苏永康 & 黄家驹 : 1
+关淑怡 & 黄家驹 : 1
+林依轮 & 黄家驹 : 1
+陈洁灵 & 黄家驹 : 1
+侧田 & 黄家驹 : 1
+方大同 & 黄家驹 : 1
+at17 & 黄家驹 : 1
+周柏豪 & 黄家驹 : 1
+刘浩龙 & 黄家驹 : 1
+张继聪 & 黄家驹 : 1
+蓝奕邦 & 黄家驹 : 1
+应昌佑 & 黄家驹 : 1
+王菀之 & 黄家驹 : 1
+方皓玟 & 黄家驹 : 1
+郑欣宜 & 黄家驹 : 1
+EO2 & 黄家驹 : 1
+小肥 & 黄家驹 : 1
+方力申 & 黄家驹 : 1
+余文乐 & 黄家驹 : 1
+吴君如 & 黄家驹 : 1
+吴雨霏 & 黄家驹 : 1
+吴国敬 & 黄家驹 : 1
+吕方 & 黄家驹 : 1
+李彩桦 & 黄家驹 : 1
+林保怡 & 黄家驹 : 1
+泳儿 & 黄家驹 : 1
+洪卓立 & 黄家驹 : 1
+徐小凤 & 黄家驹 : 1
+高皓正 & 黄家驹 : 1
+区瑞强 & 黄家驹 : 1
+张敬轩 & 黄家驹 : 1
+许怀欣 & 黄家驹 : 1
+陈山葱 & 黄家驹 : 1
+陈百祥 & 黄家驹 : 1
+麦浚龙 & 黄家驹 : 1
+傅颖 & 黄家驹 : 1
+黄伊汶 & 黄家驹 : 1
+杨爱瑾 & 黄家驹 : 1
+温碧霞 & 黄家驹 : 1
+叶丽仪 & 黄家驹 : 1
+农夫 & 黄家驹 : 1
+刘美君 & 黄家驹 : 1
+蔡卓妍 & 黄家驹 : 1
+郑少秋 & 黄家驹 : 1
+郑希怡 & 黄家驹 : 1
+邓颖芝 & 黄家驹 : 1
+卢巧音 & 黄家驹 : 1
+卢冠廷 & 黄家驹 : 1
+戴梦梦 & 黄家驹 : 1
+谢安琪 & 黄家驹 : 1
+邝美云 & 黄家驹 : 1
+谭锡禧 & 黄家驹 : 1
+关智斌 & 黄家驹 : 1
+关楚耀 & 黄家驹 : 1
+梁静茹 & SoulJa : 1
+严爵 & SoulJa : 1
+范玮琪 & 张洪量 : 1
+鹿晗 & Beau : 1
+鹿晗 & A-Dee : 1
+梁静茹 & 宇珩 : 1
+梁静茹 & 张正宗 : 1
+Ghost (王琳凯) & Golden Landis Von Jones : 1
+Ghost (王琳凯) & Michael Olmo : 1
+Ghost (王琳凯) & Omer Fedi : 1
+Ghost (王琳凯) & Keegan Bach : 1
+24kGoldn & Golden Landis Von Jones : 1
+24kGoldn & Michael Olmo : 1
+24kGoldn & Omer Fedi : 1
+24kGoldn & Keegan Bach : 1
+24kGoldn & Ghost : 1
+iann dior & Golden Landis Von Jones : 1
+iann dior & Michael Olmo : 1
+iann dior & Omer Fedi : 1
+iann dior & Keegan Bach : 1
+iann dior & Ghost : 1
+徐泽（要不要买菜） & 邵帅 : 1
+苏运莹 & 歪歪超 : 1
+Kui Kui & 歪歪超 : 1
+梁静茹 & 人工卫星 : 1
+GAI周延 & 黎沸挥 : 1
+LBI利比 & 鹿柯的宁叔 : 1
+梁静茹 & 曹轩宾 : 1
+瘦子E.SO & Dizzy Dizzo : 1
+杨宗纬 & 高晓松 : 1
+卫兰 & 张宇 : 1
+单依纯 & 浦玉 : 1
+Ghost (王琳凯) & 李宗盛 : 1
+余佳运 & 李宗盛 : 1
+单依纯 & 范晓萱 : 1
+刘惜君 & 陈耀川 : 1
+梁静茹 & 李正帆 : 1
+罗言 & Don Spike : 1
+罗言 & Andreas Stone : 1
+罗言 & Ricky Hanley : 1
+张芸京 & Chen Wei Quan : 1
+张芸京 & 庾澄庆 : 1
+罗凯元 & TINY7 : 1
+宝石Gem & 王朝1982 : 1
+张芸京 & 陈彦辉 : 1
+张芸京 & 梁小燕 : 1
+鹿晗 & Jamie Scott : 1
+鹿晗 & Nicolas Squires : 1
+鹿晗 & Michael Needle : 1
+张芸京 & 石头 : 1
+圈圈菌 & 庾澄庆 : 1
+张芸京 & 陈忠义 : 1
+刘若英 & David Usher : 1
+刘若英 & Jeff Pearce : 1
+黄立行 & David Usher : 1
+黄立行 & Jeff Pearce : 1
+刘若英 & 中島 : 1
+洛天依Official & 乌龟Sui : 1
+林倛玉 & 张乐声 : 1
+张芸京 & 五月天怪兽 : 1
+陈奕迅 & AGA : 1
+范玮琪 & 杨子朴 : 1
+孙怡 & 杨子朴 : 1
+阚清子 & 杨子朴 : 1
+江语晨 & 杨子朴 : 1
+何宣林 & 杨子朴 : 1
+卢巧音 & 雷颂德 : 1
+王力宏 & 雷颂德 : 1
+孙燕姿 & 刘宝龙 : 1
+颜人中 & 史大卫 : 1
+h3R3 & 赵珂 : 1
+赵珂 & h3R3 : 1
+王艳薇 & 文慧如 : 1
+何曼婷 & 杨杰 : 1
+蒋雪儿Snow.J & 黄钧泽C-Jay : 1
+刘若英 & 深白色二人组 : 1
+刘若英 & 潘协庆 : 1
+法老 & MC HotDog 热狗 : 1
+MC HotDog 热狗 & 法老 : 1
+刘宇宁 & 胡静宜 : 1
+刘宇宁 & 徐大耳朵 : 1
+姚晓棠 & 胡静宜 : 1
+姚晓棠 & 徐大耳朵 : 1
+容祖儿 & 周杰伦 : 1
+容祖儿 & 伍家辉 : 1
+邹沛沛 & 胥睿 : 1
+姚晓棠 & 火星电台 : 1
+陈楚生 & 火星电台 : 1
+梁静茹 & 光良 : 1
+潘玮柏 & 乌龟组合 : 1
+张韶涵 & 乌龟组合 : 1
+刘若英 & Bobby Chen Sheng : 1
+卫兰 & 苏来 : 1
+薛之谦 & 朱莉叶 : 1
+韩红 & 朱莉叶 : 1
+韩红 & 薛之谦 : 1
+freezepain & YAYI : 1
+Hiromimua & YAYI : 1
+vitamin & YAYI : 1
+沈以诚 & 徐秉龙 : 1
+刘若英 & 陈小霞 : 1
+Gareth.T & Big Spoon : 1
+Gareth.T & 揽佬SKAI ISYOURGOD : 1
+揽佬SKAI ISYOURGOD & Big Spoon : 1
+揽佬SKAI ISYOURGOD & Gareth.T : 1
+揽佬SKAI ISYOURGOD & 叶崇恩 : 1
+THOME & 艾志恒Asen : 1
+王睿卓 & 刘昊霖 : 1
+杨坤 & 刘昊霖 : 1
+杨坤 & 拜德盖Viigho : 1
+王赫野 & 拜德盖Viigho : 1
+FIVESTAR & NINI : 1
+NINI & FIVESTAR : 1
+LILTASHI & NINI : 1
+LILTASHI & FIVESTAR : 1
+黄丽玲 & Lee Yeong Hyeon : 1
+黄丽玲 & Park Kyeong Jin : 1
+莫文蔚 & 卢冠廷 : 1
+马也_Crabbit & HEAT J : 1
+马也_Crabbit & xxxmiracle : 1
+xxxmiracle & HEAT J : 1
+Cole先生 & HEAT J : 1
+Cole先生 & xxxmiracle : 1
+张碧晨 & 方炯嘉 : 1
+庄东茹（豆芽鱼） & LvJam : 1
+LvJam & 乐火能量 : 1
+曾沛慈 & Kenn Wu : 1
+BigYear大年 & Morelearn 27 : 1
+BigYear大年 & 灯灯灯泡 : 1
+DRODUMANA & Morelearn 27 : 1
+DRODUMANA & 灯灯灯泡 : 1
+Zkaaai & 张简君伟 : 1
+郁可唯 & 简宁 : 1
+李荣浩 & 刘嘉星 : 1
+小凌 & 江辰 : 1
+颜人中 & 陈小霞 : 1
+项睿娴 & 纪铭乐 : 1
+单依纯 & 林晨阳 : 1
+单依纯 & 李浩瑞 : 1
+单依纯 & 刘昊霖 : 1
+彭佳慧 & 李偲菘 : 1
+罗言 & LSGCsikoriot : 1
+LSGCsikoriot & 罗言 : 1
+徐佳莹 & 艾怡良 : 1
+唐伯虎Annie & 夏馥郁香 : 1
+封茗囧菌 & 江辰 : 1
+陈绮贞 & 五月天 阿信 : 1
+升音 Sound & mac ova seas : 1
+邹沛沛 & 邢益豪 : 1
+邢益豪 & 李铭熙 : 1
+阿YueYue & 小时姑娘 : 1
+洛天依 & 见过夏天P : 1
+张叶蕾 & 林倛玉 : 1
+Stake & Starling8 : 1
+Starling8 & Stake : 1
+项睿娴 & 不蓝 : 1
+蒋雪儿Snow.J & 祝何 : 1
+Capper & 周震南 : 1
+周震南 & Capper : 1
+张惠妹 & 吴青峰 : 1
+Top Barry & CHILLSENONE : 1
+CHILLSENONE & Top Barry : 1
+杜宣达 & Beyonc : 1
+唐伯虎Annie & 芮英杰 : 1
+张学友 & 林隆璇 : 1
+王贰浪 & 崔子格 : 1
+彭佳慧 & 阿沁 : 1
+F.I.R. & 阿沁 : 1
+Zkaaai & 阿弟仔 : 1
+鹿晗 & ChangP : 1
+鹿晗 & Pilo : 1
+银临 & 江辰 : 1
+万妮达Vinida Weng & 王懿W1 : 1
+陈壹千 & 阿藤芳史 : 1
+范玮琪 & 王力宏 : 1
+孙燕姿 & 王力宏 : 1
+孙燕姿 & 陶喆 : 1
+黄立行 & 王力宏 : 1
+黄立行 & 陶喆 : 1
+张信哲 & 陶喆 : 1
+王力宏 & 陶喆 : 1
+潘玮柏 & 王力宏 : 1
+潘玮柏 & 陶喆 : 1
+王心凌 & 王力宏 : 1
+王心凌 & 陶喆 : 1
+彭佳慧 & 王力宏 : 1
+彭佳慧 & 陶喆 : 1
+杨丞琳 & 王力宏 : 1
+杨丞琳 & 陶喆 : 1
+陶喆 & 王力宏 : 1
+蔡琴 & 王力宏 : 1
+蔡琴 & 陶喆 : 1
+江蕙 & 王力宏 : 1
+江蕙 & 陶喆 : 1
+苏芮 & 王力宏 : 1
+苏芮 & 陶喆 : 1
+庾澄庆 & 王力宏 : 1
+庾澄庆 & 陶喆 : 1
+顺子 & 王力宏 : 1
+顺子 & 陶喆 : 1
+动力火车 & 王力宏 : 1
+动力火车 & 陶喆 : 1
+张清芳 & 王力宏 : 1
+张清芳 & 陶喆 : 1
+周华健 & 王力宏 : 1
+周华健 & 陶喆 : 1
+伍思凯 & 王力宏 : 1
+伍思凯 & 陶喆 : 1
+张宇 & 王力宏 : 1
+张宇 & 陶喆 : 1
+周杰伦 & 王力宏 : 1
+周杰伦 & 陶喆 : 1
+李玟 & 王力宏 : 1
+李玟 & 陶喆 : 1
+吴宗宪 & 王力宏 : 1
+吴宗宪 & 陶喆 : 1
+陶晶莹 & 王力宏 : 1
+陶晶莹 & 陶喆 : 1
+林慧萍 & 王力宏 : 1
+林慧萍 & 陶喆 : 1
+许茹芸 & 王力宏 : 1
+许茹芸 & 陶喆 : 1
+萧亚轩 & 陶喆 : 1
+徐若瑄 & 王力宏 : 1
+徐若瑄 & 陶喆 : 1
+信乐团 & 王力宏 : 1
+信乐团 & 陶喆 : 1
+游鸿明 & 王力宏 : 1
+游鸿明 & 陶喆 : 1
+范逸臣 & 王力宏 : 1
+范逸臣 & 陶喆 : 1
+迪克牛仔 & 王力宏 : 1
+迪克牛仔 & 陶喆 : 1
+李心洁 & 王力宏 : 1
+李心洁 & 陶喆 : 1
+S.H.E & 王力宏 : 1
+S.H.E & 陶喆 : 1
+周渝民 & 王力宏 : 1
+周渝民 & 陶喆 : 1
+朱孝天 & 王力宏 : 1
+朱孝天 & 陶喆 : 1
+Energy & 王力宏 : 1
+Energy & 陶喆 : 1
+可米小子 & 王力宏 : 1
+可米小子 & 陶喆 : 1
+B.A.D & 王力宏 : 1
+B.A.D & 陶喆 : 1
+黄立成&麻吉 & 王力宏 : 1
+黄立成&麻吉 & 陶喆 : 1
+Tension & 王力宏 : 1
+Tension & 陶喆 : 1
+林志炫 & 王力宏 : 1
+林志炫 & 陶喆 : 1
+罗志祥 & 王力宏 : 1
+罗志祥 & 陶喆 : 1
+欧汉声 & 王力宏 : 1
+欧汉声 & 陶喆 : 1
+光良 & 王力宏 : 1
+光良 & 陶喆 : 1
+品冠 & 王力宏 : 1
+品冠 & 陶喆 : 1
+万芳 & 王力宏 : 1
+万芳 & 陶喆 : 1
+温岚 & 王力宏 : 1
+温岚 & 陶喆 : 1
+丁文琪 & 王力宏 : 1
+丁文琪 & 陶喆 : 1
+林晓培 & 王力宏 : 1
+林晓培 & 陶喆 : 1
+袁惟仁 & 王力宏 : 1
+袁惟仁 & 陶喆 : 1
+张惠春 & 王力宏 : 1
+张惠春 & 陶喆 : 1
+康康 & 王力宏 : 1
+康康 & 陶喆 : 1
+黄韵玲 & 王力宏 : 1
+黄韵玲 & 陶喆 : 1
+黄嘉千 & 王力宏 : 1
+黄嘉千 & 陶喆 : 1
+许慧欣 & 王力宏 : 1
+许慧欣 & 陶喆 : 1
+路嘉欣 & 王力宏 : 1
+路嘉欣 & 陶喆 : 1
+萧潇 & 王力宏 : 1
+萧潇 & 陶喆 : 1
+江美琪 & 王力宏 : 1
+江美琪 & 陶喆 : 1
+Lisa Djaati & 王力宏 : 1
+Lisa Djaati & 陶喆 : 1
+袁娅维TIA RAY & 陈稷坤 : 1
+花粥 & 言寺 : 1
+颜人中 & 陈志杰 : 1
+周杰伦 & 小柯 : 1
+那英 & 小柯 : 1
+容祖儿 & 曾家玮 : 1
+马思唯 & 袁娅维TIA RAY : 1
+袁娅维TIA RAY & 马思唯 : 1
+马思唯 & 罗言 : 1
+薛之谦 & 罗小黑 : 1
+FIVESTAR & MoreLearn 27 : 1
+DRODUMANA & MoreLearn 27 : 1
+Starling8 & MoreLearn 27 : 1
+司南 & 颜光 : 1
+en（王翊恩） & 孙长磊_Sun : 1
+Herme4 & Zy : 1
+Zy & Herme4 : 1
+沈以诚 & 吴青峰 : 1
+阿YueYue & 王梓同 : 1
+阿YueYue & 和汇慧 : 1
+苏运莹 & 孙长磊 : 1
+苏运莹 & 石家庄男孩 : 1
+崔十八 & 孙长磊 : 1
+崔十八 & 石家庄男孩 : 1
+宝石Gem & 汪苏泷 : 1
+陈楚生 & 汪苏泷 : 1
+李玖哲 & 汪苏泷 : 1
+萧敬腾 & 崔瀚普TSAR : 1
+王杰 & 汤小康 : 1
+司南 & 王林坛 : 1
+梁静茹 & 熊天平 : 1
+王杰 & 林东松 : 1
+周兴哲 & Won Tae Yeon : 1
+周兴哲 & Cho Kyuman : 1
+汪苏泷 & Won Tae Yeon : 1
+汪苏泷 & Cho Kyuman : 1
+黄丽玲 & 谭健常 : 1
+颜人中 & 谭健常 : 1
+王赫野 & 谭健常 : 1
+周兴哲 & 谭健常 : 1
+孙楠 & 谭健常 : 1
+庾澄庆 & 谭健常 : 1
+那英 & 谭健常 : 1
+汪苏泷 & 谭健常 : 1
+苏有朋 & 谭健常 : 1
+黄龄 & 谭健常 : 1
+林宥嘉 & 谭健常 : 1
+李佳薇 & 谭健常 : 1
+黄霄雲 & 谭健常 : 1
+王铮亮 & 谭健常 : 1
+张远 & 谭健常 : 1
+何炅 & 谭健常 : 1
+沈梦辰 & 谭健常 : 1
+李莎旻子 & 谭健常 : 1
+未知歌手 & 谭健常 : 1
+莫文蔚 & 钱雷 : 1
+黄子弘凡 & 朱登煜 : 1
+王铮亮 & 朱登煜 : 1
+菲菲公主（陆绮菲） & 廖光明 : 1
+鹿晗 & 孙长磊_Sun : 1
+鹿晗 & KUAN : 1
+freezepain & Sin Wecokat : 1
+Hiromimua & Sin Wecokat : 1
+ntil & Hiromimua : 1
+ntil & Sin Wecokat : 1
+刘惜君 & 祈合 : 1
+容祖儿 & 舒文 : 1
+容祖儿 & 徐继宗 : 1
+洛天依Official & 乌托邦P : 1
+洛天依Official & 亚细亚旷世奇才 : 1
+洛天依Official & 盐雾 : 1
+亞細亞曠世奇才 & 乌托邦P : 1
+亞細亞曠世奇才 & 亚细亚旷世奇才 : 1
+亞細亞曠世奇才 & 盐雾 : 1
+乌托邦P & 亚细亚旷世奇才 : 1
+乌托邦P & 盐雾 : 1
+王菲 & 梁翘柏 : 1
+容祖儿 & 陈光荣 : 1
+陈楚生 & 钱雷 : 1
+孙楠 & 钱雷 : 1
+周星星 & 潘成 : 1
+庄东茹（豆芽鱼） & 李雪萌 : 1
+LBI利比 & 张凌羽 : 1
+By2 & 汪苏泷 : 1
+yihuik苡慧 & 轮子 : 1
+蔡依林 & 林俊杰 : 1
+万妮达Vinida Weng & 王唯灿 : 1
+万妮达Vinida Weng & 百川 : 1
+万妮达Vinida Weng & GALI : 1
+GALI & 王唯灿 : 1
+GALI & 百川 : 1
+那英 & 刘志文 : 1
+那英 & Liu Kok Deng : 1
+张学友 & 巫启贤 : 1
+xxxmiracle & MoreLearn27 : 1
+xxxmiracle & 灯灯灯炮 : 1
+DRODUMANA & xxxmiracle : 1
+DRODUMANA & MoreLearn27 : 1
+DRODUMANA & 灯灯灯炮 : 1
+Zy & xxxmiracle : 1
+Zy & MoreLearn27 : 1
+Zy & 灯灯灯炮 : 1
+灯灯dengdeng & xxxmiracle : 1
+灯灯dengdeng & MoreLearn27 : 1
+灯灯dengdeng & 灯灯灯炮 : 1
+队长 & 郑润泽 : 1
+那英 & 周传雄 : 1
+李宗盛 & Mac Chew : 1
+张震岳 & 小春Kenzy : 1
+张震岳 & 瘦子E.SO : 1
+张震岳 & 大渊MUTA : 1
+双笙（陈元汐） & COP : 1
+封茗囧菌 & COP : 1
+Zy & RIX : 1
+黄龄 & 郭有柴 : 1
+那英 & 林隆璇 : 1
+陈小春 & 包小柏 : 1
+何曼婷 & 都智文 : 1
+武星 & 都智文 : 1
+菲菲公主（陆绮菲） & 词曲工坊 : 1
+张碧晨 & 袁大巍 : 1
+张碧晨 & 周琦 : 1
+冯沁苑(买辣椒也用券) & 竹内 : 1
+阿YueYue & 舒心 : 1
+阿YueYue & 季志豪 : 1
+蒋雪儿Snow.J & 贝若德华 : 1
+林忆莲 & Peter Svensson : 1
+王铮亮 & 陆虎 : 1
+张远 & 陆虎 : 1
+王栎鑫 & 陆虎 : 1
+苏醒 & 陆虎 : 1
+林忆莲 & Kevin Kumar : 1
+林忆莲 & Sean Kumar : 1
+林忆莲 & Geraldine Chung : 1
+任素汐 & 十八 : 1
+瓦依那 & 十八 : 1
+冰洁 & 折言 : 1
+徐佳莹 & 孙艺澄 : 1
+林宥嘉 & 阿肆 : 1
+袁娅维TIA RAY & Liang Fan : 1
+王宇宙Leto & 瞿子千 : 1
+梁咏琪 & 陈国华 : 1
+华晨宇 & Mike Chan : 1
+华晨宇 & Faizal Tahir : 1
+杨宗纬 & Mike Chan : 1
+杨宗纬 & Faizal Tahir : 1
+张信哲 & 江皓南 : 1
+沈以诚 & 都智文 : 1
+韩红 & 阿鲲 : 1
+金海心 & 胡力 : 1
+连麻Swimming & 刀脚 : 1
+刀脚 & 连麻Swimming : 1
+Zkaaai & 安洛贤 : 1
+王赫野 & 郭子阳 : 1
+freezepain & Harmonic Thaw : 1
+Hiromimua & Harmonic Thaw : 1
+Sin Wecokat & Harmonic Thaw : 1
+CVRCH & Hiromimua : 1
+CVRCH & Harmonic Thaw : 1
+卫兰 & 伍芝仪 : 1
+卫兰 & 方炯嘉 : 1
+卫兰 & 陈子龙 : 1
+yihuik苡慧 & 莫宇庭 : 1
+金海心 & 黄征 : 1
+王唯旖 & Eric-4z0y : 1
+宋雨琦 & 陶喆 : 1
+李大奔BENZO & 沧桑Cang333 : 1
+沧桑Cang333 & 李大奔BENZO : 1
+莫文蔚 & Mac Chew : 1
+孤矢 & Ice Paper : 1
+杜宣达 & 小柒 : 1
+江语晨 & 周杰伦 : 1
+TINY7 & 真荣 : 1
+马也_Crabbit & 马扬朔 : 1
+王心凌 & Buddy Holly : 1
+王心凌 & Norman Petty : 1
+DJ阿智 & 安苏羽 : 1
+林忆莲 & Eric Kwok : 1
+阿YueYue & 喔喔 : 1
+黄诗扶 & 郭丹 : 1
+绝对演绎 & 黄诗扶 : 1
+绝对演绎 & 郭丹 : 1
+金海心 & 文魁 : 1
+司南 & CMJ : 1
+JinJiBeWater_隼 & 杨和苏KeyNG : 1
+杨和苏KeyNG & JinJiBeWater_隼 : 1
+任然 & 朱鸽 : 1
+小来 & 朱鸽 : 1
+张芸京 & Jae Chong : 1
+张韶涵 & Jae Chong : 1
+Tension & Jae Chong : 1
+elephant DEE 徐熙娣 & Jae Chong : 1
+吴建豪 & Jae Chong : 1
+宋念宇 & Jae Chong : 1
+黄靖伦 & Jae Chong : 1
+玺恩 & Jae Chong : 1
+杨谨华 & Jae Chong : 1
+房祖名 & Jae Chong : 1
+Lollipop F & Jae Chong : 1
+未知歌手 & Jae Chong : 1
+GAI周延 & 薛忠铭 : 1
+戴佩妮 & 薛忠铭 : 1
+韩红 & 赵英俊 : 1
+郁可唯 & 赵英俊 : 1
+王心凌 & 赵英俊 : 1
+谭维维 & 赵英俊 : 1
+黄绮珊 & 赵英俊 : 1
+额尔古纳乐队 & 赵英俊 : 1
+法老 & Pharaoh : 1
+法老 & Adawa : 1
+阿达娃 & Pharaoh : 1
+阿达娃 & Adawa : 1
+张信哲 & 陈耀川 : 1
+乐正绫 & WOVOP : 1
+Dizzy Dizzo (蔡诗芸) & 梁永泰 : 1
+谭维维 & 昔日布道尔吉 : 1
+谭维维 & 安来宁 : 1
+谭维维 & 导演贾樟柯 : 1
+古巨基 & 梁翘柏 : 1
+Dizzy Dizzo (蔡诗芸) & Skot Suyama : 1
+梁咏琪 & 卢文韬 : 1
+李荣浩 & 卢文韬 : 1
+张碧晨 & 廖俊涛 : 1
+张靓颖 & 廖俊涛 : 1
+胡彦斌 & 马扬朔 : 1
+叶琼琳 & 马扬朔 : 1
+Dizzy Dizzo (蔡诗芸) & Swei水 : 1
+Dizzy Dizzo (蔡诗芸) & DP龙猪 : 1
+Dizzy Dizzo (蔡诗芸) & Rays陈袁 : 1
+杨谨华 & Swei水 : 1
+杨谨华 & DP龙猪 : 1
+杨谨华 & Rays陈袁 : 1
+孟佳 & Swei水 : 1
+孟佳 & DP龙猪 : 1
+孟佳 & Rays陈袁 : 1
+TINY7 & SETI : 1
+SETI & TINY7 : 1
+G.E.M.邓紫棋 & 潘云安 : 1
+三Z-STUDIO & Sihan : 1
+HOYO-MiX & Sihan : 1
+丁当 & 李宗盛 : 1
+丁当 & 刘沁 : 1
+艾志恒Asen & 付思遥 : 1
+THOME & mac ova seas : 1
+THOME & MULA SAKEE : 1
+THOME & 付思遥 : 1
+THOME & DIGI GHETTO : 1
+mac ova seas & THOME : 1
+mac ova seas & 付思遥 : 1
+付思遥 & THOME : 1
+付思遥 & MULA SAKEE : 1
+付思遥 & DIGI GHETTO : 1
+MULA SAKEE & THOME : 1
+MULA SAKEE & 付思遥 : 1
+DIGI GHETTO & THOME : 1
+DIGI GHETTO & 付思遥 : 1
+KIV & mac ova seas : 1
+KIV & MULA SAKEE : 1
+KIV & 付思遥 : 1
+KIV & DIGI GHETTO : 1
+王心凌 & 幂雅 : 1
+丁当 & 陈威全 : 1
+艾热 AIR & 李佳隆 : 1
+李佳隆 & 艾热 AIR : 1
+高旭 & 邹沛沛 : 1
+高旭 & 孙明旭 : 1
+冰洁 & 崔钉铜 : 1
+Wiz_H张子豪 & Ayo97 : 1
+Wiz_H张子豪 & 周思涵 : 1
+杨宗纬 & Ayo97 : 1
+杨宗纬 & 周思涵 : 1
+周思涵 & Ayo97 : 1
+丁当 & 林迈可 : 1
+freezepain & sleepyyer : 1
+freezepain & YaKio : 1
+CVRCH & sleepyyer : 1
+CVRCH & YaKio : 1
+sleepyyer & YaKio : 1
+wuli & sleepyyer : 1
+wuli & YaKio : 1
+YaKio & sleepyyer : 1
+LumynX & sleepyyer : 1
+LumynX & YaKio : 1
+梨冻紧 & 而生 : 1
+林忆莲 & Davy Chan : 1
+双笙（陈元汐） & 纯白P : 1
+刘若英 & 木兰号AKA陈韦伶 : 1
+张信哲 & 周林枫 : 1
+张杰 & 谭伊哲 : 1
+孙盛希 & Jae Chong : 1
+张叶蕾 & 魏虎虎 : 1
+古巨基 & 庄立帆 : 1
+黄晓明 & 庄立帆 : 1
+刘涛 & 庄立帆 : 1
+周杰 & 庄立帆 : 1
+黄奕 & 庄立帆 : 1
+马伊琍 & 庄立帆 : 1
+丁当 & 谢广太 : 1
+司南 & 米茶 : 1
+黄子弘凡 & Top Barry : 1
+mac ova seas & TOYOKI : 1
+TOYOKI & mac ova seas : 1
+苏运莹 & 李化禹 : 1
+冯沁苑(买辣椒也用券) & 玉城千春 : 1
+曾沛慈 & 东城卫-脩 : 1
+张学友 & 谷村新司 : 1
+谭维维 & 李宗盛 : 1
+宋雨琦 & Charlotte Wilson : 1
+队长 & 鹿晗 : 1
+鹿晗 & 队长 : 1
+王宇宙Leto & 罗嘉娴 : 1
+张震岳 & 罗嘉娴 : 1
+徐良 & 汪苏泷 : 1
+汪苏泷 & 徐良 : 1
+阿悄 & 徐良 : 1
+黄诗扶 & 铃木航海 : 1
+恋恋故人难 & 铃木航海 : 1
+王敬轩（妖扬） & 铃木航海 : 1
+Capper & LEGGO : 1
+Todd Malone & Capper : 1
+Todd Malone & LEGGO : 1
+刘大拿 & 徐伟贤 : 1
+郑润泽 & JD_Kwan : 1
+Hiromimua & CVRCH : 1
+Liberty & CVRCH : 1
+法老 & KnowKnow : 1
+法老 & 邓典果DDG : 1
+邓典果DDG & 法老 : 1
+邓典果DDG & KnowKnow : 1
+KnowKnow & 法老 : 1
+KnowKnow & 邓典果DDG : 1
+黄子弘凡 & 瞿子千 : 1
+姚晓棠 & 瞿子千 : 1
+曾舜晞 & 瞿子千 : 1
+孙楠 & 瞿子千 : 1
+杨丞琳 & 瞿子千 : 1
+王铮亮 & 瞿子千 : 1
+谭松韵 & 瞿子千 : 1
+未知歌手 & 瞿子千 : 1
+陈楚生 & 刘烨溦 : 1
+王赫野 & 刘烨溦 : 1
+周柏豪 & 林奕匡 : 1
+Dizzy Dizzo (蔡诗芸) & Max Martin : 1
+Dizzy Dizzo (蔡诗芸) & Savan Kotecha : 1
+Dizzy Dizzo (蔡诗芸) & Onika Maraj : 1
+Dizzy Dizzo (蔡诗芸) & Rickard Goransson : 1
+杨谨华 & Max Martin : 1
+杨谨华 & Savan Kotecha : 1
+杨谨华 & Onika Maraj : 1
+杨谨华 & Rickard Goransson : 1
+戚薇 & Max Martin : 1
+戚薇 & Savan Kotecha : 1
+戚薇 & Onika Maraj : 1
+戚薇 & Rickard Goransson : 1
+刘忻 & Max Martin : 1
+刘忻 & Savan Kotecha : 1
+刘忻 & Onika Maraj : 1
+刘忻 & Rickard Goransson : 1
+陈丽君 & Max Martin : 1
+陈丽君 & Savan Kotecha : 1
+陈丽君 & Onika Maraj : 1
+陈丽君 & Rickard Goransson : 1
+张予曦 & Max Martin : 1
+张予曦 & Savan Kotecha : 1
+张予曦 & Onika Maraj : 1
+张予曦 & Rickard Goransson : 1
+TINY7 & 叶润泽 : 1
+TINY7 & 陈思坦 : 1
+菲菲公主（陆绮菲） & Sapling : 1
+#0000FF & Sapling : 1
+陶喆 & Brad Olynyk : 1
+en（王翊恩） & 和汇慧 : 1
+en（王翊恩） & 王梓同 : 1
+周柏豪 & 周国贤 : 1
+单依纯 & 陈韵若 : 1
+郑融 & 陈光荣 : 1
+无面小生 & 莫得桑 : 1
+#0000FF & 莫得桑 : 1
+刘若英 & 赵奎满 : 1
+徐怀钰 & 赵奎满 : 1
+孔令奇 & 赵奎满 : 1
+未知歌手 & 张叶蕾 : 1
+任然 & 小5 : 1
+陈雪凝 & 大能人 : 1
+邹沛沛 & Max李玄 : 1
+Max李玄 & 邹沛沛 : 1
+张靓颖 & 周以力 : 1
+周星星 & 陈威全 : 1
+胡彦斌 & 董超凡FInX : 1
+mac ova seas & UDIGG : 1
+mac ova seas & CashTrippy : 1
+mac ova seas & 李大奔BENZO : 1
+李大奔BENZO & UDIGG : 1
+李大奔BENZO & CashTrippy : 1
+李大奔BENZO & mac ova seas : 1
+UDIGG & CashTrippy : 1
+UDIGG & mac ova seas : 1
+UDIGG & 李大奔BENZO : 1
+CashTrippy & UDIGG : 1
+CashTrippy & mac ova seas : 1
+CashTrippy & 李大奔BENZO : 1
+张韶涵 & 崔瀚普TSAR : 1
+曾沛慈 & 阿弟仔 : 1
+Trang Pháp & 阿弟仔 : 1
+马也_Crabbit & 叶三离 : 1
+GAI周延 & 陈贤德 : 1
+GAI周延 & 张弼 : 1
+Rapeter & SHarK : 1
+SHarK & Rapeter : 1
+JinJiBeWater_隼 & BOBBYNOPEACE : 1
+BOBBYNOPEACE & JinJiBeWater_隼 : 1
+Rapeter & Rapeter吴嘉轩 : 1
+杜宣达 & 曾缔 : 1
+杜宣达 & 譚旋 : 1
+邹沛沛 & Sasuke : 1
+Sasuke & 邹沛沛 : 1
+张韶涵 & T1 : 1
+邵帅 & 笛呆子囚牛 : 1
+邹沛沛 & 耶格 : 1
+Pank & 耶格 : 1
+杜宣达 & 张星禾 : 1
+Gareth.T & Nic Tsui : 1
+苏运莹 & Ice Paper : 1
+袁娅维TIA RAY & 伍乐城 : 1
+蔡淳佳 & 林倛玉 : 1
+徐佳莹 & 汪苏泷 : 1
+GALI & 徐明浩 : 1
+GALI & LEE JEONG JAE : 1
+GALI & Hemo : 1
+徐明浩 & LEE JEONG JAE : 1
+徐明浩 & Hemo : 1
+金志文 & 小曾 : 1
+鹿晗 & Jeannie Lurie : 1
+Zy & 海洋Bo : 1
+Zy & 费米Frieme : 1
+海洋Bo & 费米Frieme : 1
+费米Frieme & 海洋Bo : 1
+阚清子 & 林毅心 : 1
+江语晨 & 林毅心 : 1
+李心洁 & 林毅心 : 1
+李小冉 & 林毅心 : 1
+安崎 & 林毅心 : 1
+王贰浪 & 马良 : 1
+杨坤 & 汪峰 : 1
+单依纯 & 汪峰 : 1
+陈楚生 & 汪峰 : 1
+韩红 & 汪峰 : 1
+郁可唯 & 汪峰 : 1
+王心凌 & 汪峰 : 1
+孙楠 & 汪峰 : 1
+汪苏泷 & 汪峰 : 1
+何炅 & 汪峰 : 1
+李莎旻子 & 汪峰 : 1
+胡彦斌 & 汪峰 : 1
+谭维维 & 汪峰 : 1
+黄绮珊 & 汪峰 : 1
+古巨基 & 汪峰 : 1
+周深 & 汪峰 : 1
+宋亚轩 & 汪峰 : 1
+h3R3 & 高旭 : 1
+freezepain & kiosk : 1
+CVRCH & kiosk : 1
+sleepyyer & kiosk : 1
+LumynX & kiosk : 1
+单依纯 & 林天爱 : 1
+汪苏泷 & 林天爱 : 1
+林达浪 & 汪忠伟 : 1
+张惠妹 & 李荣浩 : 1
+冰洁 & 李遇知 : 1
+银临 & 鬼卞 : 1
+鬼卞 & 银临 : 1
+JZlee & 马思唯 : 1
+司南 & 黎子明 : 1
+TINY7 & KOV : 1
+科福KOV & TINY7 : 1
+科福KOV & KOV : 1
+王心凌 & 廖世杰 : 1
+王心凌 & Marion Elise Ravn : 1
+王心凌 & Marit Elisabeth larsen : 1
+王心凌 & Matt Rowe : 1
+何曼婷 & 无 : 1
+沈虫虫 & 无 : 1
+任然 & 池舟 : 1
+礼越 & 雨Rainy : 1
+萧亚轩 & Svante Halldin : 1
+萧亚轩 & Emil Tigerlantz : 1
+萧亚轩 & Per Eklund : 1
+萧亚轩 & Awa Manneh : 1
+郭顶 & Rachael Yamagata : 1
+Rachael Yamagata & 郭顶 : 1
+LBI利比 & 周泳成 : 1
+任然 & 青木月光 : 1
+法老 & 肯迪仔 : 1
+Mai & 法老 : 1
+Mai & 肯迪仔 : 1
+肯迪仔 & 法老 : 1
+NoLabelCrew & 法老 : 1
+NoLabelCrew & 肯迪仔 : 1
+张叶蕾 & Real Band : 1
+周深 & Jannik : 1
+汪苏泷 & 门尼 : 1
+司南 & Bye : 1
+张叶蕾 & 郭凯特 : 1
+洛天依 & flybanana : 1
+五月天 & 石头 : 1
+周深 & 石头 : 1
+郑浩Z-Hao & 张可 : 1
+冰洁 & 张可 : 1
+马雨阳 & 花粥 : 1
+周深 & Pianoboy高至豪 : 1
+王艳薇 & 李杰明 W.M.L : 1
+陈忻玥 & 李杰明 W.M.L : 1
+陈忻玥 & 王艳薇 : 1
+陈忻玥 & 陶山 Skot Suyama : 1
+Sophie Chen & 李杰明 W.M.L : 1
+Sophie Chen & 王艳薇 : 1
+Sophie Chen & 陶山 Skot Suyama : 1
+李杰明 & 李杰明 W.M.L : 1
+李杰明 & 王艳薇 : 1
+李杰明 & 陶山 Skot Suyama : 1
+杨丞琳 & 程锦远 : 1
+王铮亮 & 程锦远 : 1
+洛天依 & 奥莉安多幻想曲 : 1
+乐正绫 & 奥莉安多幻想曲 : 1
+阿YueYue & 栗可 : 1
+庄东茹（豆芽鱼） & 音融三喜 : 1
+庄东茹（豆芽鱼） & J.well : 1
+yihuik苡慧 & JD_Kwan : 1
+沈以诚 & moonik蛛蛛 : 1
+HEY HEI & CVRCH : 1
+SevenJoy & CVRCH : 1
+王贰浪 & 童子-T : 1
+萧亚轩 & Kevin Kumar : 1
+萧亚轩 & Sean Kumar : 1
+萧亚轩 & Geraldine Chung : 1
+倪子冈 & Kevin Kumar : 1
+倪子冈 & Sean Kumar : 1
+倪子冈 & Geraldine Chung : 1
+何曼婷 & 许嵩 : 1
+周传雄 & 陆虎 : 1
+孙楠 & 陈颂红 : 1
+那英 & 陈颂红 : 1
+阿肆 & 陈小霞 : 1
+杨宗纬 & 五月天 阿信 : 1
+艾热 AIR & Chris Martin : 1
+艾热 AIR & Guy Berryman : 1
+艾热 AIR & Jonny Buckland : 1
+艾热 AIR & Marcos Tovar : 1
+艾热 AIR & Mikkel S.Eriksen : 1
+艾热 AIR & Scott Zant : 1
+艾热 AIR & Tor Erik Hermansen : 1
+艾热 AIR & Venor Yard : 1
+艾热 AIR & Will Champion : 1
+潘玮柏 & Chris Martin : 1
+潘玮柏 & Guy Berryman : 1
+潘玮柏 & Jonny Buckland : 1
+潘玮柏 & Marcos Tovar : 1
+潘玮柏 & Mikkel S.Eriksen : 1
+潘玮柏 & Scott Zant : 1
+潘玮柏 & Tor Erik Hermansen : 1
+潘玮柏 & Venor Yard : 1
+潘玮柏 & Will Champion : 1
+G.E.M.邓紫棋 & Chris Martin : 1
+G.E.M.邓紫棋 & Guy Berryman : 1
+G.E.M.邓紫棋 & Jonny Buckland : 1
+G.E.M.邓紫棋 & Marcos Tovar : 1
+G.E.M.邓紫棋 & Mikkel S.Eriksen : 1
+G.E.M.邓紫棋 & Scott Zant : 1
+G.E.M.邓紫棋 & Tor Erik Hermansen : 1
+G.E.M.邓紫棋 & Venor Yard : 1
+G.E.M.邓紫棋 & Will Champion : 1
+韩红 & 林俊杰 : 1
+刘惜君 & Cannie晴子 : 1
+鹿晗 & 宝石Gem : 1
+邓超 & 宝石Gem : 1
+陈赫 & 宝石Gem : 1
+范志毅 & 宝石Gem : 1
+王勉 & 宝石Gem : 1
+唐伯虎Annie & 徐一鸣 : 1
+伯爵Johnny & 徐一鸣 : 1
+yihuik苡慧 & 陈怀恩 : 1
+yihuik苡慧 & 百川 : 1
+Aioz & 陈怀恩 : 1
+Aioz & 百川 : 1
+马思唯 & 朴宰范 : 1
+HARIKIRI & 朴宰范 : 1
+朴宰范 & 马思唯 : 1
+朴宰范 & HARIKIRI : 1
+胡彦斌 & 周以力 : 1
+Jony J & 周以力 : 1
+杨宗纬 & 伍冠谚 : 1
+杨宗纬 & 易桀齐 : 1
+杨旭 & 伍冠谚 : 1
+杨旭 & 易桀齐 : 1
+于冬然 & 伍冠谚 : 1
+于冬然 & 易桀齐 : 1
+范甲君 & 伍冠谚 : 1
+范甲君 & 易桀齐 : 1
+万妮达Vinida Weng & 许冠豪 : 1
+万妮达Vinida Weng & 4in : 1
+Dizzy Dizzo (蔡诗芸) & 许冠豪 : 1
+Dizzy Dizzo (蔡诗芸) & 4in : 1
+袁娅维TIA RAY & 许冠豪 : 1
+袁娅维TIA RAY & 4in : 1
+杨谨华 & 许冠豪 : 1
+杨谨华 & 4in : 1
+戚薇 & 许冠豪 : 1
+戚薇 & 4in : 1
+刘忻 & 许冠豪 : 1
+刘忻 & 4in : 1
+陈丽君 & 许冠豪 : 1
+陈丽君 & 4in : 1
+张予曦 & 许冠豪 : 1
+张予曦 & 4in : 1
+王琳 & 许冠豪 : 1
+王琳 & 4in : 1
+谢金燕 & 许冠豪 : 1
+谢金燕 & 4in : 1
+柳岩 & 许冠豪 : 1
+柳岩 & 4in : 1
+朱丹 & 许冠豪 : 1
+朱丹 & 4in : 1
+尚雯婕 & 许冠豪 : 1
+尚雯婕 & 4in : 1
+韩雪 & 许冠豪 : 1
+韩雪 & 4in : 1
+萨顶顶 & 许冠豪 : 1
+萨顶顶 & 4in : 1
+郭碧婷 & 许冠豪 : 1
+郭碧婷 & 4in : 1
+何洁 & 许冠豪 : 1
+何洁 & 4in : 1
+赵奕欢 & 许冠豪 : 1
+赵奕欢 & 4in : 1
+韩懿莹Miss & 许冠豪 : 1
+韩懿莹Miss & 4in : 1
+吴恙 & 许冠豪 : 1
+吴恙 & 4in : 1
+苗苗 & 许冠豪 : 1
+苗苗 & 4in : 1
+李溪芮 & 许冠豪 : 1
+李溪芮 & 4in : 1
+Joyce Jonathan & 许冠豪 : 1
+Joyce Jonathan & 4in : 1
+蔡文静 & 许冠豪 : 1
+蔡文静 & 4in : 1
+李嘉格 & 许冠豪 : 1
+李嘉格 & 4in : 1
+郭书瑶 & 许冠豪 : 1
+郭书瑶 & 4in : 1
+Yamy郭颖 & 许冠豪 : 1
+Yamy郭颖 & 4in : 1
+妮可 & 许冠豪 : 1
+妮可 & 4in : 1
+陈昊宇 & 许冠豪 : 1
+陈昊宇 & 4in : 1
+靳梦佳 & 许冠豪 : 1
+靳梦佳 & 4in : 1
+SUNI孙夏铃 & 许冠豪 : 1
+SUNI孙夏铃 & 4in : 1
+Pank & 词曲工坊 : 1
+罗湘骏eiteen & 词曲工坊 : 1
+Nomad & 词曲工坊 : 1
+袁娅维TIA RAY & 朴成日 : 1
+郁可唯 & 张简君伟 : 1
+王唯旖 & 灰色幽默 : 1
+黄霄雲 & 周杰伦 : 1
+方大同 & 柳重言 : 1
+礼越 & Ewen贰文 : 1
+周星星 & 金大洲 : 1
+陈小春 & 唐恬 : 1
+Starling8 & 虎皮蛋 : 1
+Starling8 & 沧桑Cang333 : 1
+沧桑Cang333 & 虎皮蛋 : 1
+沧桑Cang333 & Starling8 : 1
+虎皮蛋 & 沧桑Cang333 : 1
+虎皮蛋 & Starling8 : 1
+王贰浪 & 浅逸 : 1
+任然 & 葛雨晴 : 1
+古巨基 & 王力宏 : 1
+古巨基 & 周华健 : 1
+容祖儿 & 鄧智偉 : 1
+Ghost (王琳凯) & 陈伟 : 1
+萧亚轩 & 小冷 : 1
+杨宗纬 & 李哲 : 1
+宝石Gem & 李哲 : 1
+王宇宙Leto & 李哲 : 1
+队长 & 关天天 : 1
+洛天依Official & Bo Peep : 1
+Rapeter & 程思源 : 1
+程思源 & Rapeter : 1
+江语晨 & 赖佑政YoJam : 1
+张月 & 赖佑政YoJam : 1
+萧蔷 & 赖佑政YoJam : 1
+温峥嵘 & 赖佑政YoJam : 1
+叶一茜 & 赖佑政YoJam : 1
+陈瑶 & 赖佑政YoJam : 1
+王宇宙Leto & Zkaaai : 1
+乔浚丞 & Zkaaai : 1
+孙羽幽 & 徐良 : 1
+马也_Crabbit & Santa_SA : 1
+马也_Crabbit & 何泽镔 : 1
+Santa_SA & 何泽镔 : 1
+张芸京 & 陈伟 : 1
+郭采洁 & 阿肆 : 1
+冯沁苑(买辣椒也用券) & 赵倘若 : 1
+何曼婷 & 单小源 : 1
+刘大拿 & 王力宏 : 1
+郭静 & 陈科妤 : 1
+郭静 & 黄忠平 : 1
+袁娅维TIA RAY & LDebbie Aramide : 1
+陈小春 & 陈光荣 : 1
+卫兰 & Randy Chow : 1
+圈圈菌 & 林达浪 : 1
+圈圈菌 & h3R3 : 1
+孙盛希 & 孙盛希 Shi Shi : 1
+孙盛希 & sunkis 宋秉勤 : 1
+孙盛希 & 米奇林 MCKY : 1
+孙盛希 & 翁光炜 Wico Weng : 1
+sunkis 宋秉勤 & 孙盛希 Shi Shi : 1
+sunkis 宋秉勤 & 米奇林 MCKY : 1
+sunkis 宋秉勤 & 翁光炜 Wico Weng : 1
+古巨基 & 杨镇邦 : 1
+马也_Crabbit & Y.U : 1
+Y.U & 马也_Crabbit : 1
+曾沛慈 & Top Barry : 1
+淡淡 & Top Barry : 1
+黄灿灿 & Top Barry : 1
+菲菲公主（陆绮菲） & 齐修远 : 1
+Capper & kkluv : 1
+kkluv & Capper : 1
+THOME & KIV : 1
+萧亚轩 & 小柯 : 1
+TINY7 & 兰哲 : 1
+兰哲 & TINY7 : 1
+GAI周延 & Ranzer : 1
+Capper & CashTrippy : 1
+CashTrippy & Capper : 1
+周深 & 高桥优 : 1
+贝乐虎儿歌 & 林重冏 : 1
+贝乐虎儿歌 & 陈光荣 : 1
+Ghost (王琳凯) & 张简君伟 : 1
+Ghost (王琳凯) & 游政豪 : 1
+姚晓棠 & 张简君伟 : 1
+姚晓棠 & 游政豪 : 1
+王胜娚 & 花粥 : 1
+王心凌 & Lee Yong Min : 1
+王心凌 & Hwang Se Joon : 1
+李幸倪 & AGA : 1
+薛之谦 & 杨子朴 : 1
+洪一诺 & TizzyT : 1
+h3R3 & 罗可Lorkin : 1
+罗可Lorkin & h3R3 : 1
+冯沁苑(买辣椒也用券) & 余竑龙 : 1
+冯沁苑(买辣椒也用券) & 黄愚人 : 1
+Pank & 叶懿瓒 : 1
+Pank & OU海洋 : 1
+叶懿瓒 & Pank : 1
+叶懿瓒 & OU海洋 : 1
+OU海洋 & Pank : 1
+OU海洋 & 叶懿瓒 : 1
+黄龄 & 闫骁男 : 1
+高旭 & 路柯 : 1
+高旭 & Subs 张毅成 : 1
+Subs 张毅成 & 路柯 : 1
+马也_Crabbit & 吴子健REmi : 1
+刘丹萌 & 徐良 : 1
+Aki阿杰 & 徐东徽 : 1
+国风堂 & 徐东徽 : 1
+周星星 & Zealot周星星 : 1
+蔡依林 & Alexander Bard : 1
+蔡依林 & Anders Hansson : 1
+蔡依林 & Magnus Bengt : 1
+王赫野 & 苏二墨 : 1
+王铮亮 & 苏二墨 : 1
+高旭 & 高旭-FelixBennett : 1
+彭佳慧 & 罗大佑 : 1
+周兴哲 & G.E.M.邓紫棋 : 1
+郁可唯 & 薛之谦 : 1
+王唯旖 & 仓雁彬 : 1
+高旭 & Dracooo : 1
+Dracooo & 高旭 : 1
+古巨基 & 曹雪芬 : 1
+刘大拿 & Vincent Chow : 1
+Wiz_H张子豪 & Vincent Chow : 1
+Zkaaai & AGA : 1
+蔡依林 & 卫斯理 : 1
+礼越 & 王瑞杰 : 1
+冯沁苑(买辣椒也用券) & HUSH : 1
+古巨基 & 林健华 : 1
+李健 & Yoo Young Seok : 1
+王唯旖 & 徐林 : 1
+唐伯虎Annie & 徐东徽 : 1
+唐伯虎Annie & 孙义勇 : 1
+单依纯 & 朴呈旭 : 1
+毛不易 & 陈小霞 : 1
+非人哉 & 大河内航太 : 1
+法老 & 陆政廷Lil Jet : 1
+龙崎 & 陆政廷Lil Jet : 1
+龙崎 & 泠风 : 1
+陆政廷Lil Jet & 法老 : 1
+陆政廷Lil Jet & 龙崎 : 1
+陆政廷Lil Jet & 泠风 : 1
+泠风 & 龙崎 : 1
+泠风 & 陆政廷Lil Jet : 1
+古巨基 & 尤景仰 : 1
+张芸京 & 莫卿 : 1
+G.E.M.邓紫棋 & 林俊杰 : 1
+杨千嬅 & Barry Chung : 1
+周星星 & 苗小青 : 1
+张碧晨 & 黄超 : 1
+张杰 & 黄超 : 1
+杨千嬅 & 蔡德才 : 1
+王以太 & YUN : 1
+王以太 & 曲泓宇 : 1
+刘至佳 & YUN : 1
+刘至佳 & 曲泓宇 : 1
+梁咏琪 & 凌伟文 : 1
+古巨基 & 凌伟文 : 1
+司南 & WH宇恒 : 1
+国风堂 & WH宇恒 : 1
+黄丽玲 & 李英贤 : 1
+宋雨琦 & Galeyn Tenhaeff : 1
+宋雨琦 & Catalina Schweighauser : 1
+宋雨琦 & Joel Str : 1
+罗言 & 艾志恒Asen : 1
+袁娅维TIA RAY & 都訚睿 : 1
+杨宗纬 & 巫启贤 : 1
+张曦匀 & 王朝1982 : 1
+王贰浪 & Skot Suyama : 1
+王贰浪 & Kimberley : 1
+曾沛慈 & 陈隽一 : 1
+李心洁 & 陈隽一 : 1
+双笙（陈元汐） & 一之瀬 : 1
+任然 & 常定晨 : 1
+队长 & 黄礼格 : 1
+黄礼格 & 队长 : 1
+宋雨琦 & Oscar Scheller : 1
+宋雨琦 & Jesse Thomas : 1
+宋雨琦 & Naomi Wild : 1
+宋雨琦 & 刘柏辛Lexie : 1
+刘柏辛Lexie & Oscar Scheller : 1
+刘柏辛Lexie & Jesse Thomas : 1
+刘柏辛Lexie & Naomi Wild : 1
+刘柏辛Lexie & Siixk Jun : 1
+宋雨琦 & Mike Elizondo : 1
+宋雨琦 & Micky Ekko : 1
+司南 & 季奎奎 : 1
+沈以诚 & 接个吻 : 1
+接个吻，开一枪 & 接个吻 : 1
+薛明媛 & 接个吻 : 1
+李健 & 许飞 : 1
+礼越 & 林言祁 : 1
+单依纯 & 李泰祥 : 1
+卫兰 & Robert Lay : 1
+无面小生 & Happer : 1
+无面小生 & 口古口古 : 1
+ET & Happer : 1
+ET & 口古口古 : 1
+Happer & 口古口古 : 1
+口古口古 & Happer : 1
+任然 & 雪无影 : 1
+颜人中 & 苗小青 : 1
+无面小生 & 424 : 1
+无面小生 & GreyOcean : 1
+424 & GreyOcean : 1
+GreyOcean & 424 : 1
+阿YueYue & 爱写歌的小田 : 1
+戾格 & 爱写歌的小田 : 1
+小田音乐社 & 爱写歌的小田 : 1
+宋雨琦 & 李偲菘 : 1
+门尼 & 管健嘉晨 : 1
+银河快递 & 管健嘉晨 : 1
+银河快递 & 门尼 : 1
+何曼婷 & 清辰 : 1
+何曼婷 & 夕夕 : 1
+何曼婷 & 侯智傲 : 1
+郑国锋 & 清辰 : 1
+郑国锋 & 夕夕 : 1
+郑国锋 & 侯智傲 : 1
+艾热 AIR & 杭异凡 : 1
+法老 & 杭异凡 : 1
+法老 & 艾热 AIR : 1
+法老 & NINEONE : 1
+Wiz_H张子豪 & 杭异凡 : 1
+Wiz_H张子豪 & 艾热 AIR : 1
+Wiz_H张子豪 & NINEONE : 1
+杭异凡 & 艾热 AIR : 1
+杭异凡 & NINEONE : 1
+NINEONE#乃万 & 杭异凡 : 1
+NINEONE#乃万 & 艾热 AIR : 1
+派克特（PACT） & 杭异凡 : 1
+派克特（PACT） & 艾热 AIR : 1
+派克特（PACT） & NINEONE : 1
+姜云升 & 杭异凡 : 1
+姜云升 & 艾热 AIR : 1
+姜云升 & NINEONE : 1
+蔡健雅 & 齐秦 : 1
+蔡健雅 & 张震岳 : 1
+张震岳 & 齐秦 : 1
+王贰浪 & 廖俊涛 : 1
+王贰浪 & 笛呆子囚牛 : 1
+金海心 & 刘大江 : 1
+王贰浪 & 周有才 : 1
+司南 & Mango Daddy : 1
+莫文蔚 & Akiyama Sayuri : 1
+马思唯 & Bohan 冷博涵 : 1
+马思唯 & J.Mag : 1
+HARIKIRI & Bohan 冷博涵 : 1
+HARIKIRI & J.Mag : 1
+Bohan 冷博涵 & HARIKIRI : 1
+Bohan 冷博涵 & 马思唯 : 1
+Bohan 冷博涵 & J.Mag : 1
+J.Mag & HARIKIRI : 1
+J.Mag & Bohan 冷博涵 : 1
+J.Mag & 马思唯 : 1
+法老 & KKECHO : 1
+KKECHO & 法老 : 1
+何曼婷 & 罗艺恒 : 1
+孙子涵 & 罗艺恒 : 1
+王睿卓 & Muyoi : 1
+Ghost (王琳凯) & Muyoi : 1
+Top Barry & Rapeter : 1
+Rapeter & Top Barry : 1
+Pank & 罗凯元 : 1
+罗凯元 & Pank : 1
+颜人中 & 邹念慈 : 1
+VaVa娃娃 & 邹念慈 : 1
+杜宣达 & 周杰伦 : 1
+韦礼安 & JerryC : 1
+陈壹千 & 罗旭阳 : 1
+en（王翊恩） & 阿沁 : 1
+双笙（陈元汐） & 千年破晓 : 1
+司南 & 银临 : 1
+Aki阿杰 & litterzy : 1
+HITA & litterzy : 1
+Assen捷 & litterzy : 1
+W.K. & litterzy : 1
+吾恩 & litterzy : 1
+人衣大人 & litterzy : 1
+佑可猫 & litterzy : 1
+泠鸢yousa & litterzy : 1
+三无Marblue & litterzy : 1
+裂天 & litterzy : 1
+特曼 & litterzy : 1
+括号君 & litterzy : 1
+未知歌手 & litterzy : 1
+礼越 & 礼拜六 : 1
+Starling8 & NickTheWorld : 1
+NickTheWorld & Starling8 : 1
+姚晓棠 & Max李玄 : 1
+姚晓棠 & KIMWAITT : 1
+马也_Crabbit & 雷智皓 : 1
+姚晓棠 & 阿沁 : 1
+张含韵 & 阿沁 : 1
+NIDA & 王可鑫 Eli.W : 1
+LBI利比 & 盛骁 : 1
+yihuik苡慧 & step.jad : 1
+卢广仲 & 陶喆 : 1
+陶喆 & 卢广仲 : 1
+谢安琪 & 周博贤 : 1
+黄龄 & Phong Max : 1
+Tăng Duy Tân & Phong Max : 1
+YMIR & 王可鑫 Eli.W : 1
+郁可唯 & 衣睿 : 1
+鹿晗 & SQUARELOUD : 1
+马思唯 & Gary Cheung : 1
+马思唯 & KnowKnow : 1
+KnowKnow & Gary Cheung : 1
+KnowKnow & 马思唯 : 1
+陈小春 & 周以力 : 1
+周星星 & 周思涵 : 1
+洛天依Official & 乌龟sui : 1
+乐正绫 & 乌龟sui : 1
+宋雨琦 & Jop Pangemanan : 1
+宋雨琦 & Kyle Faulkner : 1
+宋雨琦 & Audun Agnar Guldbrandsen : 1
+沙一汀EL & Cha Cha Malone : 1
+沙一汀EL & Giselle : 1
+沙一汀EL & oceanfromtheblue : 1
+柳多恋 & Cha Cha Malone : 1
+柳多恋 & Giselle : 1
+柳多恋 & oceanfromtheblue : 1
+柳多恋 & 沙一汀EL : 1
+黄霄雲 & 李浩瑞 : 1
+黄霄雲 & 林晨阳 : 1
+黄霄雲 & 刘涛 : 1
+张鑫 & h3R3 : 1
+王赫野 & 刘不住 : 1
+谭维维 & 刘不住 : 1
+曾沛慈 & 艾怡良 : 1
+张月 & 艾怡良 : 1
+杜宣达 & 郑宇界 : 1
+王菲 & 范炜 : 1
+陈慧娴 & 河合奈保子 : 1
+王菲 & 武汉三四五六音乐文化传播有限公司 : 1
+Suki刘舒妤 & Mas Dewangga : 1
+Suki刘舒妤 & Jova Devito : 1
+孙盛希 & 刘思鉴 : 1
+刘思鉴 & 孙盛希 : 1
+金志文 & 丁于 : 1
+陈冰 & 丁于 : 1
+洛天依Official & Z新豪 : 1
+范玮琪 & 董健剑 : 1
+范玮琪 & 青竹 : 1
+孙怡 & 董健剑 : 1
+孙怡 & 青竹 : 1
+阚清子 & 董健剑 : 1
+阚清子 & 青竹 : 1
+江语晨 & 董健剑 : 1
+江语晨 & 青竹 : 1
+何宣林 & 董健剑 : 1
+何宣林 & 青竹 : 1
+曾沛慈 & 董健剑 : 1
+曾沛慈 & 青竹 : 1
+李心洁 & 董健剑 : 1
+李心洁 & 青竹 : 1
+Trang Pháp & 董健剑 : 1
+Trang Pháp & 青竹 : 1
+李小冉 & 董健剑 : 1
+李小冉 & 青竹 : 1
+安崎 & 董健剑 : 1
+安崎 & 青竹 : 1
+张月 & 董健剑 : 1
+张月 & 青竹 : 1
+萧蔷 & 董健剑 : 1
+萧蔷 & 青竹 : 1
+温峥嵘 & 董健剑 : 1
+温峥嵘 & 青竹 : 1
+叶一茜 & 董健剑 : 1
+叶一茜 & 青竹 : 1
+陈瑶 & 董健剑 : 1
+陈瑶 & 青竹 : 1
+淡淡 & 董健剑 : 1
+淡淡 & 青竹 : 1
+黄灿灿 & 董健剑 : 1
+黄灿灿 & 青竹 : 1
+赵子琪 & 董健剑 : 1
+赵子琪 & 青竹 : 1
+徐洁儿 & 董健剑 : 1
+徐洁儿 & 青竹 : 1
+谢楠 & 董健剑 : 1
+谢楠 & 青竹 : 1
+乌兰图雅 & 董健剑 : 1
+乌兰图雅 & 青竹 : 1
+王濛 & 董健剑 : 1
+王濛 & 青竹 : 1
+者来女 & 董健剑 : 1
+者来女 & 青竹 : 1
+陶昕然 & 董健剑 : 1
+陶昕然 & 青竹 : 1
+唐艺昕 & 董健剑 : 1
+唐艺昕 & 青竹 : 1
+侯宇 & 董健剑 : 1
+侯宇 & 青竹 : 1
+维妮娜 & 董健剑 : 1
+维妮娜 & 青竹 : 1
+陈凯琳 & 董健剑 : 1
+陈凯琳 & 青竹 : 1
+代斯 & 董健剑 : 1
+代斯 & 青竹 : 1
+万千惠 & 董健剑 : 1
+万千惠 & 青竹 : 1
+张慧雯 & 董健剑 : 1
+张慧雯 & 青竹 : 1
+徐梦洁 & 董健剑 : 1
+徐梦洁 & 青竹 : 1
+张艺上 & 董健剑 : 1
+张艺上 & 青竹 : 1
+陈小春 & 陶昌廷 : 1
+礼越 & 疯狂的羊 : 1
+礼越 & 小鱼 : 1
+礼越 & 新航 : 1
+谢安琪 & 徐继宗 : 1
+王以太 & 艾热AIR : 1
+Aki阿杰 & 异新音乐-潮汐tide : 1
+剑网3 & 异新音乐-潮汐tide : 1
+Vk & 异新音乐-潮汐tide : 1
+五音Jw & 异新音乐-潮汐tide : 1
+花粥 & 陈伟伦 : 1
+蔡依林 & 蔡健雅 : 1
+蔡依林 & 小寒 : 1
+袁娅维TIA RAY & 李煊乐 : 1
+h3R3 & 王子 : 1
+黄丽玲 & 黄义达 : 1
+陈雪凝 & 栗先达 : 1
+陈慧娴 & 陈辉阳 : 1
+陈壹千 & 许杉月 : 1
+陈壹千 & 王澳楠EVE : 1
+王澳楠EVE & 许杉月 : 1
+王艳薇 & 宇珩 : 1
+LBI利比 & Loong.G Monet : 1
+沈以诚 & 薛永嘉 : 1
+孙盛希 & 米奇林MCKY : 1
+孙盛希 & hush : 1
+HUSH & 孙盛希 : 1
+HUSH & 剃刀蔣 : 1
+HUSH & hush : 1
+郑润泽 & 罗言 : 1
+罗言 & 郑润泽 : 1
+王唯旖 & 夏伟淳 : 1
+毛不易 & 简弘亦 : 1
+Pank & 吴炳文 : 1
+吴炳文 & Pank : 1
+王赫野 & 玖零三壹 : 1
+张碧晨 & 玖零三壹 : 1
+王贰浪 & 如花如岳 : 1
+单依纯 & 郭一凡 : 1
+周兴哲 & 派伟俊 : 1
+周兴哲 & mac ova seas : 1
+周兴哲 & 吕尚霖LuuX : 1
+汪苏泷 & 派伟俊 : 1
+汪苏泷 & mac ova seas : 1
+汪苏泷 & 吕尚霖LuuX : 1
+Zkaaai & 谭末秋 : 1
+刘凯 & 刘珂矣 : 1
+王宇宙Leto & vi1 : 1
+乔浚丞 & vi1 : 1
+NaCho & 梨冻紧 : 1
+礼越 & 黄十一 : 1
+周星星 & 吴周烁 : 1
+周星星 & 佳旺 : 1
+王唯旖 & 孙长磊_ sun : 1
+谢安琪 & 徐浩 : 1
+法老 & 弹壳Danko : 1
+弹壳Danko & Mc光光 : 1
+弹壳Danko & 法老 : 1
+Mc光光 & 弹壳Danko : 1
+张杰 & 王可鑫 Eli.W : 1
+徐佳莹 & JerryC : 1
+汪苏泷 & 韦礼安 : 1
+汪苏泷 & JerryC : 1
+杨宗纬 & 唐湘智 : 1
+张碧晨 & 唐湘智 : 1
+艾志恒Asen & Maikon Flocka Flame : 1
+Maikon Flocka Flame & 艾志恒Asen : 1
+艾热 AIR & 舟也 : 1
+艾热 AIR & Monster.G.Z : 1
+艾热 AIR & 时代少年团 严浩翔 : 1
+艾热 AIR & 谢帝 : 1
+艾热 AIR & 盛宇D-SHINE : 1
+艾热 AIR & 功夫胖KUNGFU-PEN : 1
+派克特（PACT） & 舟也 : 1
+派克特（PACT） & Monster.G.Z : 1
+派克特（PACT） & 时代少年团 严浩翔 : 1
+派克特（PACT） & 谢帝 : 1
+派克特（PACT） & 盛宇D-SHINE : 1
+派克特（PACT） & 艾热AIR : 1
+VaVa娃娃 & 舟也 : 1
+VaVa娃娃 & Monster.G.Z : 1
+VaVa娃娃 & 时代少年团 严浩翔 : 1
+VaVa娃娃 & 谢帝 : 1
+VaVa娃娃 & 功夫胖KUNGFU-PEN : 1
+VaVa娃娃 & 艾热AIR : 1
+严浩翔 & 舟也 : 1
+严浩翔 & Monster.G.Z : 1
+严浩翔 & 时代少年团 严浩翔 : 1
+严浩翔 & 谢帝 : 1
+严浩翔 & 盛宇D-SHINE : 1
+严浩翔 & 功夫胖KUNGFU-PEN : 1
+严浩翔 & 艾热AIR : 1
+谢帝 & 舟也 : 1
+谢帝 & Monster.G.Z : 1
+谢帝 & 时代少年团 严浩翔 : 1
+谢帝 & 盛宇D-SHINE : 1
+谢帝 & 功夫胖KUNGFU-PEN : 1
+谢帝 & 艾热AIR : 1
+盛宇D-SHINE & 舟也 : 1
+盛宇D-SHINE & Monster.G.Z : 1
+盛宇D-SHINE & 时代少年团 严浩翔 : 1
+盛宇D-SHINE & 谢帝 : 1
+盛宇D-SHINE & 艾热AIR : 1
+功夫胖KUNGFU-PEN & 舟也 : 1
+功夫胖KUNGFU-PEN & Monster.G.Z : 1
+功夫胖KUNGFU-PEN & 时代少年团 严浩翔 : 1
+功夫胖KUNGFU-PEN & 谢帝 : 1
+功夫胖KUNGFU-PEN & 艾热AIR : 1
+布瑞吉Bridge & 舟也 : 1
+布瑞吉Bridge & Monster.G.Z : 1
+布瑞吉Bridge & 时代少年团 严浩翔 : 1
+布瑞吉Bridge & 谢帝 : 1
+布瑞吉Bridge & 艾热AIR : 1
+ICE杨长青 & 舟也 : 1
+ICE杨长青 & Monster.G.Z : 1
+ICE杨长青 & 时代少年团 严浩翔 : 1
+ICE杨长青 & 谢帝 : 1
+ICE杨长青 & 盛宇D-SHINE : 1
+ICE杨长青 & 功夫胖KUNGFU-PEN : 1
+ICE杨长青 & 艾热AIR : 1
+黄旭BooM & 舟也 : 1
+黄旭BooM & Monster.G.Z : 1
+黄旭BooM & 时代少年团 严浩翔 : 1
+黄旭BooM & 谢帝 : 1
+黄旭BooM & 盛宇D-SHINE : 1
+黄旭BooM & 功夫胖KUNGFU-PEN : 1
+黄旭BooM & 艾热AIR : 1
+早安 & 舟也 : 1
+早安 & Monster.G.Z : 1
+早安 & 时代少年团 严浩翔 : 1
+早安 & 谢帝 : 1
+早安 & 盛宇D-SHINE : 1
+早安 & 功夫胖KUNGFU-PEN : 1
+早安 & 艾热AIR : 1
+李尔新 & 舟也 : 1
+李尔新 & Monster.G.Z : 1
+李尔新 & 时代少年团 严浩翔 : 1
+李尔新 & 谢帝 : 1
+李尔新 & 盛宇D-SHINE : 1
+李尔新 & 功夫胖KUNGFU-PEN : 1
+李尔新 & 艾热AIR : 1
+贰万 & 舟也 : 1
+贰万 & Monster.G.Z : 1
+贰万 & 时代少年团 严浩翔 : 1
+贰万 & 谢帝 : 1
+贰万 & 盛宇D-SHINE : 1
+贰万 & 功夫胖KUNGFU-PEN : 1
+贰万 & 艾热AIR : 1
+BrAnTB白景屹 & 舟也 : 1
+BrAnTB白景屹 & Monster.G.Z : 1
+BrAnTB白景屹 & 时代少年团 严浩翔 : 1
+BrAnTB白景屹 & 谢帝 : 1
+BrAnTB白景屹 & 盛宇D-SHINE : 1
+BrAnTB白景屹 & 功夫胖KUNGFU-PEN : 1
+BrAnTB白景屹 & 艾热AIR : 1
+万妮达Vinida Weng & Tizzy T : 1
+TizzyT & Tizzy T : 1
+Aki阿杰 & 异新-灰原穷 : 1
+HITA & 异新-灰原穷 : 1
+Gareth.T & 叶崇恩Patrick Yip : 1
+罗言 & Capper : 1
+Capper & 罗言 : 1
+黄诗扶 & 祝青 : 1
+黄诗扶 & 雾敛 : 1
+黄诗扶 & 卢一帆 : 1
+国风堂 & 祝青 : 1
+国风堂 & 雾敛 : 1
+国风堂 & 卢一帆 : 1
+祝青 & 雾敛 : 1
+祝青 & 卢一帆 : 1
+陈奕迅 & 方大同 : 1
+姚晓棠 & 詹宇豪 : 1
+王赫野 & 詹宇豪 : 1
+龚琳 & 江辰 : 1
+唐伯虎Annie & 张博文 : 1
+张信哲 & Jean Michel Ou : 1
+YAYI & freezepain : 1
+张靓颖 & 鹿柯的宁叔 : 1
+王以太 & 鹿柯的宁叔 : 1
+刘大拿 & 龚芝怡 : 1
+刘思达 & 龚芝怡 : 1
+郭采洁 & 杨坤 : 1
+金志文 & 冷碗碗 : 1
+吉克隽逸 & 沈学风.硕果 : 1
+张信哲 & 郑志宏 : 1
+王靖雯不胖 & 郑志宏 : 1
+何曼婷 & 浅紫 : 1
+DRODUMANA & Choco : 1
+DRODUMANA & 虎皮蛋 : 1
+虎皮蛋 & Choco : 1
+虎皮蛋 & DRODUMANA : 1
+Choco & DRODUMANA : 1
+Choco & 虎皮蛋 : 1
+哈利白特 & Zkaaai : 1
+冯沁苑(买辣椒也用券) & 中野領太 : 1
+Zy & 柴行敏 : 1
+黄霄雲 & 西楼 : 1
+黄龄 & 邓福如 AF : 1
+yihuik苡慧 & 郭子阳 : 1
+周兴哲 & Eric 周兴哲 : 1
+刘惜君 & 李子恒 : 1
+林晓峰 & 李子恒 : 1
+萧亚轩 & 黄晟峰 : 1
+张碧晨 & 钱雷 : 1
+Zy & 彭青 : 1
+张信哲 & 黎沸挥 : 1
+Zy & 六棱锥 : 1
+三棱镜 & 六棱锥 : 1
+银临 & 潮汐-tide : 1
+卓文萱 & 宋世尧 : 1
+李荣浩 & 萧煌奇 : 1
+DRODUMANA & 李佳隆 : 1
+Ruby & 李佳隆 : 1
+李佳隆 & DRODUMANA : 1
+李佳隆 & Ruby : 1
+王楚钦 & 邵帅 : 1
+梁靖崑 & 邵帅 : 1
+麦浚龙 & 伍乐城 : 1
+谢安琪 & 伍乐城 : 1
+谭维维 & 格非 : 1
+菲菲公主（陆绮菲） & 左良甫 : 1
+邓裕兴XDar & 左良甫 : 1
+容祖儿 & 伍仲衡 : 1
+刘宇宁 & 宇恒 : 1
+刘宇宁 & 黄诗扶 : 1
+张靓颖 & 宇恒 : 1
+张靓颖 & 黄诗扶 : 1
+沙一汀EL & 马赫mood : 1
+马赫mood & 沙一汀EL : 1
+任宥纶 & 瞿子千 : 1
+林忆莲 & Tutus x Bears : 1
+杨坤 & 赵誉乔 : 1
+陈嘉桦 & 赵誉乔 : 1
+林忆莲 & 常石磊 : 1
+郁可唯 & 武部聡志 : 1
+郁可唯 & 刘大江 : 1
+Dizzy Dizzo (蔡诗芸) & Mikkel Remee Sigvardt : 1
+Dizzy Dizzo (蔡诗芸) & Thomas Troelsen : 1
+杨谨华 & Mikkel Remee Sigvardt : 1
+杨谨华 & Thomas Troelsen : 1
+朱丹 & Mikkel Remee Sigvardt : 1
+朱丹 & Thomas Troelsen : 1
+尚雯婕 & Mikkel Remee Sigvardt : 1
+尚雯婕 & Thomas Troelsen : 1
+李溪芮 & Mikkel Remee Sigvardt : 1
+李溪芮 & Thomas Troelsen : 1
+李嘉格 & Mikkel Remee Sigvardt : 1
+李嘉格 & Thomas Troelsen : 1
+马也_Crabbit & 邓俊浩 : 1
+邓亦宇 & 邓俊浩 : 1
+杨丞琳 & 黄淑惠 : 1
+yihuik苡慧 & 陈宥毓 : 1
+LBI利比 & 查航 : 1
+LBI利比 & 王珺昊 : 1
+Starling8 & Choco : 1
+Choco & Starling8 : 1
+张碧晨 & T1 : 1
+李承铉 & T1 : 1
+yihuik苡慧 & 林俊杰 : 1
+姚晓棠 & 陈隽一 : 1
+弦子 & 陈隽一 : 1
+林达浪 & 赵鹏杰 : 1
+Dizzy Dizzo (蔡诗芸) & 陈粒 : 1
+尚雯婕 & 陈粒 : 1
+王睿卓 & 林晨阳 : 1
+Pank & eiteen : 1
+罗湘骏eiteen & eiteen : 1
+罗湘骏eiteen & Pank : 1
+王赫野 & 梦然 : 1
+张靓颖 & 梦然 : 1
+莫文蔚 & 林健华 : 1
+张学友 & Gustav Jonsson : 1
+张学友 & Markus Sepehrmanesh : 1
+张学友 & Tommy Tyser : 1
+Aki阿杰 & 少司命 : 1
+HITA & 少司命 : 1
+令狐襄儿 & 少司命 : 1
+大门E & 少司命 : 1
+祈Inory & 少司命 : 1
+慕寒 & 少司命 : 1
+橙翼 & 少司命 : 1
+五色石南叶 & 少司命 : 1
+小曲儿 & 少司命 : 1
+洛少爷 & 少司命 : 1
+咻咻满 & 少司命 : 1
+陈亦洺 & 少司命 : 1
+伦桑 & 少司命 : 1
+黄霄雲 & 闻震 : 1
+周深 & 彭飞 : 1
+林倛玉 & 黄伟文 : 1
+Amsden 黄俊荣 & 黄伟文 : 1
+张韶涵 & 林晨阳 : 1
+张韶涵 & 李浩瑞 : 1
+张韶涵 & 刘涛 : 1
+李大奔BENZO & 华云龙KLE : 1
+华云龙KLE & 李大奔BENZO : 1
+GALI & 李大奔BENZO : 1
+李大奔BENZO & GALI : 1
+GALI & Rapeter : 1
+Rapeter & GALI : 1
+王朝1982 & 朱旭BooBoo : 1
+陈慧娴 & M. L. Diego : 1
+陈慧娴 & M. T. Diego : 1
+冰洁 & 孙思达 : 1
+陈慧娴 & 陈小霞 : 1
+张杰 & 刘逸君 : 1
+张韶涵 & Henrik Tala : 1
+张韶涵 & Ilanguaq Lumholt : 1
+无面小生 & 道雀Bzz : 1
+无面小生 & 卦者灵风 : 1
+道雀Bzz & 卦者灵风 : 1
+道雀Bzz & 无面小生 : 1
+卦者灵风 & 道雀Bzz : 1
+卦者灵风 & 无面小生 : 1
+张韶涵 & 王雅君 : 1
+陈慧娴 & 桑田佳祐 : 1
+张韶涵 & 吴青峰 : 1
+吉克隽逸 & Sam Lin : 1
+黄子弘凡 & Sam Lin : 1
+刘宇宁 & Sam Lin : 1
+姚晓棠 & Sam Lin : 1
+王赫野 & Sam Lin : 1
+张碧晨 & Sam Lin : 1
+张靓颖 & Sam Lin : 1
+谭维维 & Sam Lin : 1
+王源 & Sam Lin : 1
+天赐的声音 & Sam Lin : 1
+张碧晨 & 五月天 怪兽 : 1
+汪苏泷 & 五月天 怪兽 : 1
+莫文蔚 & 李荣浩 : 1
+黄子弘凡 & 成礼 : 1
+张远 & 成礼 : 1
+路滨琪 & 成礼 : 1
+THOME & kkluv : 1
+姚可杰 & 陈志远 : 1
+邰正宵 & 陈志远 : 1
+星星月亮太阳 & 陈志远 : 1
+冰洁 & 郑浩 : 1
+蛋黄 & 郑浩 : 1
+胡彦斌 & 小虫 : 1
+杨坤 & 菲道尔 : 1
+张碧晨 & 菲道尔 : 1
+黄丽玲 & 张俊波 : 1
+黄丽玲 & 曲多美 : 1
+黄子弘凡 & 张俊波 : 1
+黄子弘凡 & 曲多美 : 1
+杨千嬅 & 陈辉阳 : 1
+张芸京 & 蓝又时 : 1
+DJ阿布 & h3R3 : 1
+黄诗扶 & WH宇恒 : 1
+C-BLOCK & KEY.L刘聪 : 1
+C-BLOCK & GAI周延 : 1
+陈慧娴 & Ralph Siegel : 1
+陈慧娴 & Robert Jung : 1
+杨宗纬 & 蔡健雅 : 1
+任素汐 & 樊冲 : 1
+en（王翊恩） & 小毒 : 1
+en（王翊恩） & 瀛爷 : 1
+en（王翊恩） & 季奎奎 : 1
+郁可唯 & 郁可唯 Yisa Yu : 1
+郁可唯 & 董冬冬 Dong Dongdong : 1
+未知歌手 & 郁可唯 Yisa Yu : 1
+未知歌手 & 董冬冬 Dong Dongdong : 1
+GAI周延 & 剃刀蔣 : 1
+GAI周延 & 蔡依林 : 1
+周深 & 剃刀蔣 : 1
+周深 & 蔡依林 : 1
+云之泣 & 银临 : 1
+弹壳Danko & 王子 : 1
+容祖儿 & 陈雪燃 : 1
+宝石Gem & 小虫 : 1
+en（王翊恩） & 王力宏 : 1
+周震南 & 周杰伦 : 1
+好乐无荒 & 瞿子千 : 1
+好乐无荒 & 刘昊霖 : 1
+菲菲公主（陆绮菲） & IN - K : 1
+张惠妹 & 小虫 : 1
+李大奔BENZO & Yunu : 1
+李大奔BENZO & 朴宰范 : 1
+朴宰范 & Yunu : 1
+pH-1 & Yunu : 1
+pH-1 & 朴宰范 : 1
+马也_Crabbit & Fanko冯思源 : 1
+王赫野 & 王艳薇 : 1
+黄霄雲 & 王艳薇 : 1
+陈楚生 & 王铮亮 : 1
+张碧晨 & 林倛玉 : 1
+徐佳莹 & 林倛玉 : 1
+卓文萱 & 阿弟仔 : 1
+韩红 & 印青 : 1
+王朝1982 & 卦者灵风 : 1
+朱旭BooBoo & 卦者灵风 : 1
+卦者灵风 & 王朝1982 : 1
+袁娅维TIA RAY & 蔡近翰Zoe : 1
+刘大拿 & 曹格 : 1
+周星星 & 金若晨 : 1
+杨宗纬 & 谭旋 : 1
+张碧晨 & 谭旋 : 1
+无面小生 & 万乐体 : 1
+万乐体 & 无面小生 : 1
+陈奕迅 & 周杰伦 : 1
+邓丽君 & 湯尼 : 1
+李克勤 & 长谷川集平 : 1
+莫文蔚 & 赵照 : 1
+草蜢 & Francois Bernheim : 1
+草蜢 & Elisabeth Depardieu : 1
+草蜢 & Bernard Estardy : 1
+草蜢 & Perrier : 1
+张学友 & 伍思凯 : 1
+甄妮 & 顾嘉辉 : 1
+孟庭苇 & 陈耀川 : 1
+张国荣 & 叶良俊 : 1
+邓丽君 & 中島 : 1
+周润发 & 罗大佑 : 1
+林子祥 & 黄霑 : 1
+关菊英 & 杨云标 : 1
+黎瑞恩 & 顾嘉辉 : 1
+黄凯芹 & Dong Ni Lu : 1
+余剑明 & Dong Ni Lu : 1
+谭咏麟 & Thierry Geoffroy : 1
+谭咏麟 & Christian Vi : 1
+关淑怡 & Thierry Geoffroy : 1
+关淑怡 & Christian Vi : 1
+关淑怡 & F. GREGORIAN : 1
+草蜢 & F. GREGORIAN : 1
+刘德华 & Andrew Tauson : 1
+吴婉芳 & Andrew Tauson : 1
+邝美云 & ED YAMAGUCHI : 1
+邝美云 & OKADA SHIRO : 1
+李克勤 & 胡伟立 : 1
+关淑怡 & 胡伟立 : 1
+杨千嬅 & 任贤齐 : 1
+周慧敏 & Miyuki Nakajima : 1
+张敬轩 & Christopher Chak : 1
+刘德华 & Tony Tam : 1
+庾澄庆 & 陈晓娟 : 1
+李克勤 & 小栗昌彦 : 1
+王菲 & 浜田省吾 : 1
+蔡国权 & 许冠杰 : 1
+刘小慧 & 郑华娟 : 1
+刘小慧 & 陈进兴 : 1
+谭咏麟 & 简宁 : 1
+孙燕姿 & HUSH : 1
+邓丽君 & Ka Hing Lam : 1
+张敬轩 & Victor Lau : 1
+张敬轩 & 蔡志浩 : 1
+庾澄庆 & 小虫 : 1
+许冠英 & 许冠杰 : 1
+刘小慧 & Pramuan Prompong : 1
+蔡健雅 & 游鸿明 : 1
+草蜢 & 蔡一智 : 1
+草蜢 & 蔡一杰 : 1
+郑伊健 & 陈光荣 : 1
+黄凯芹 & Hiu Dong Lui : 1
+黄凯芹 & On Sau Lee : 1
+关菊英 & 顾嘉辉 : 1
+关正杰 & 顾嘉辉 : 1
+张学友 & 许冠杰 : 1
+陈慧娴 & 许冠杰 : 1
+张敬轩 & 周博贤 : 1
+陈慧娴 & Matsude : 1
+陈慧娴 & Takahashi : 1
+关淑怡 & 卢东尼 : 1
+邝美云 & 顾嘉辉 : 1
+黄敏华 & Leslie Mandoki : 1
+黄敏华 & Laszlo Bencker : 1
+王菲 & 李子恒 : 1
+彭羚 & 梁文福 : 1
+关正杰 & 齐秦 : 1
+李克勤 & 黄尚伟 : 1
+张国荣 & 蔡德才 : 1
+张学友 & 王菀之 : 1
+张国荣 & 陈晓娟 : 1
+张学友 & 苏越 : 1
+许慧欣 & 陈忠义 : 1
+许慧欣 & Kyeong Hye Han : 1
+许慧欣 & Geon Yoon : 1
+刘德华 & 周治平 : 1
+孟庭苇 & 陈小霞 : 1
+孟庭苇 & 游鸿明 : 1
+张国荣 & Eric Kwok : 1
+张国荣 & Davy Chan : 1
+潘玮柏 & 意大利 : 1
+苏芮 & 李念和 : 1
+张柏芝 & 傅佩嘉 : 1
+张柏芝 & 陈辉阳 : 1
+张柏芝 & 潘协庆 : 1
+张玉华 & 玉城千春 : 1
+张玉华 & 易桀齐 : 1
+张玉华 & 黄丹仪 : 1
+杨千嬅 & C. Y. Kong : 1
+杨千嬅 & Eric Kwok : 1
+谭咏麟 & 金贤植 : 1
+谭咏麟 & Projcct Moonlight Cafe : 1
+谭咏麟 & 熊美玲 : 1
+谭咏麟 & 林秋离 : 1
+邓丽君 & Indonesian Folk Song : 1
+李克勤 & 陈辉阳 : 1
+陈慧琳 & 陈辉阳 : 1
+李克勤 & 五十嵐浩晃 : 1
+周慧敏 & 五十嵐浩晃 : 1
+许慧欣 & 木兰号AKA陈韦伶 : 1
+By2 & 李志源 : 1
+张惠妹 & RUSSELL HARRIS : 1
+何洁 & 吴梦奇 : 1
+黄雅莉 & 彭青 : 1
+戚薇 & 林天爱 : 1
+黄小琥 & 萧煌奇 : 1
+蔡淳佳 & J.F Porry : 1
+江映蓉 & 郑金光 : 1
+林依晨 & 蓝又时 : 1
+徐若瑄 & Marcus Black : 1
+徐若瑄 & Tony Malm : 1
+徐若瑄 & Anders Dannvik : 1
+徐若瑄 & Markus Sjobe : 1
+陈洁仪 & 陈佳明 : 1
+By2 & 林宇中 : 1
+周笔畅 & 黄友桢 : 1
+周笔畅 & 赵辰龙 : 1
+金莎 & 崔迪 : 1
+孙俪 & 李海鹰 : 1
+柏菲音乐 & 李海鹰 : 1
+王心凌 & 翁乙仁 : 1
+李霄云 & 周佳佑 : 1
+金莎 & 姚云 : 1
+郁可唯 & 刘子乐 : 1
+王心凌 & 彭学斌 : 1
+By2 & 林天爱 : 1
+郭采洁 & 官炜棠 : 1
+周笔畅 & 小柯 : 1
+李翊君 & 吴梵 : 1
+陈洁仪 & 黃韻玲 : 1
+郁可唯 & 潘协庆 : 1
+张韶涵 & 花輪 : 1
+张韶涵 & 小王子 : 1
+T.R.Y. & 张超 : 1
+郭采洁 & 饶善强 : 1
+林依晨 & 王蓝茵 : 1
+郁可唯 & 曹正杰 : 1
+梓渝 & 赵家锐 : 1
+张杰 & 火星电台 : 1
+毛不易 & 董冬冬 : 1
+周深 & 董冬冬 : 1
+王源 & 董冬冬 : 1
+水木年华 & 李健 : 1
+莫文蔚 & 齐秦 : 1
+龚琳娜 & 刘逸君 : 1
+银河快递 & 刘逸君 : 1
+蔡程昱 & 刘逸君 : 1
+陈辉 & 刘逸君 : 1
+房东的猫 & 刘逸君 : 1
+贺俊雄 & 刘逸君 : 1
+孟慧圆 & 刘逸君 : 1
+王赫野 & 卢文韬 : 1
+Rapeter & 卢文韬 : 1
+杭异凡 & 卢文韬 : 1
+周华健 & 黄韵仁 : 1
+陈洁仪 & 梁文福 : 1
+Beyond & 黄家驹 : 1
+好妹妹乐队 & 秦昊 : 1
+古巨基 & Dick Lee : 1
+赵景旭（Winky诗） & 赵景旭 : 1
+张赫煊 & 亢竹青 : 1
+By2 & 詹于萱 : 1
+张杰 & 梁晓雪 : 1
+胡歌 & 程振兴 : 1
+王心凌 & 吕绍淳 : 1
+至上励合 & Choi Pilkang : 1
+萧敬腾 & 鲍比达 : 1
+徐佳莹 & 黄建为 : 1
+徐佳莹 & 梁文福 : 1
+徐佳莹 & 五月天 阿信 : 1
+徐佳莹 & ALEX : 1
+徐佳莹 & SAN : 1
+徐佳莹 & 吴青峰 : 1
+徐佳莹 & 唐汉霄 : 1
+徐佳莹 & 陈君豪 : 1
+徐佳莹 & 羽田 : 1
+徐佳莹 & 裘德 : 1
+徐佳莹 & 阿肆 : 1
+徐佳莹 & 宋冬野 : 1
+徐佳莹 & 方大同 : 1
+徐佳莹 & Edward Chan : 1
+徐佳莹 & 蛋堡 : 1
+蛋堡 & 徐佳莹 : 1
+徐佳莹 & 陈粒 : 1
+徐佳莹 & HAOR许书豪 : 1
+韦礼安 & HAOR许书豪 : 1
+徐佳莹 & 蔡健雅 : 1
+张靓颖 & 蔡健雅 : 1
+徐佳莹 & 陈怀恩 : 1
+单依纯 & 玉城千春 : 1
+陈楚生 & 玉城千春 : 1
+余佳运 & 郭顶 : 1
+陈楚生 & 郭顶 : 1
+鲁怀德 & 郭顶 : 1
+曹杨Young & 郭顶 : 1
+于文文 & 陈粒 : 1
+陈楚生 & 徐佳莹 : 1
+陈楚生 & 苏通达 : 1
+陈楚生 & 李伟菘 : 1
+周深 & 李伟菘 : 1
+宝石Gem & 陈小霞 : 1
+陈楚生 & 陈小霞 : 1
+李玖哲 & 陈小霞 : 1
+王栎鑫 & 陈小霞 : 1
+陈楚生 & 马頔 : 1
+张碧晨 & 马頔 : 1
+陈楚生 & 陈伟伦 : 1
+陈楚生 & 杜冰儿 : 1
+陈楚生 & 杜飞儿 : 1
+张信哲 & 陈粒 : 1
+陈楚生 & Peter Svensson : 1
+陈楚生 & 黄少峰 : 1
+关智斌 & 唐汉霄 : 1
+徐良 & 唐汉霄 : 1
+瘦子E.SO & 唐汉霄 : 1
+弹壳Danko & 唐汉霄 : 1
+宝石Gem & 唐汉霄 : 1
+陈楚生 & 唐汉霄 : 1
+品冠 & 唐汉霄 : 1
+李玖哲 & 唐汉霄 : 1
+张远 & 唐汉霄 : 1
+胡彦斌 & 唐汉霄 : 1
+王栎鑫 & 唐汉霄 : 1
+蔡国庆 & 唐汉霄 : 1
+胡兵 & 唐汉霄 : 1
+林志颖 & 唐汉霄 : 1
+陆毅 & 唐汉霄 : 1
+唐禹哲 & 唐汉霄 : 1
+苏见信 (信) & 唐汉霄 : 1
+许绍洋 & 唐汉霄 : 1
+俞灏明 & 唐汉霄 : 1
+张栋梁 & 唐汉霄 : 1
+郑嘉颖 & 唐汉霄 : 1
+蓝正龙 & 唐汉霄 : 1
+魏巡 & 唐汉霄 : 1
+魏哲鸣 & 唐汉霄 : 1
+马伯骞Victor Ma & 唐汉霄 : 1
+王耀庆 & 唐汉霄 : 1
+伯远 & 唐汉霄 : 1
+何展成 & 唐汉霄 : 1
+Jeff Satur & 唐汉霄 : 1
+八三夭 阿璞 & 唐汉霄 : 1
+苏小玎 & 唐汉霄 : 1
+马晓龙 & 唐汉霄 : 1
+张桢子 & 仓雁彬 : 1
+容祖儿 & 泽日生 : 1
+陈楚生 & 泽日生 : 1
+杨坤 & 乔浚丞 : 1
+陈楚生 & 乔浚丞 : 1
+陈楚生 & 薛忠铭 : 1
+萱萱 & 薛忠铭 : 1
+吉克隽逸 & 曾子岚 : 1
+陈楚生 & 曾子岚 : 1
+陈楚生 & 殷锺泰 : 1
+陈楚生 & 飞鸟凉 : 1
+陈楚生 & The Bezz : 1
+MARiA & The Bezz : 1
+陈楚生 & 卢冠廷 : 1
+胡彦斌 & 卢冠廷 : 1
+陈楚生 & 高枫 : 1
+韩红 & 高枫 : 1
+郁可唯 & 高枫 : 1
+王心凌 & 高枫 : 1
+孙楠 & 高枫 : 1
+汪苏泷 & 高枫 : 1
+胡彦斌 & 高枫 : 1
+谭维维 & 高枫 : 1
+黄绮珊 & 高枫 : 1
+古巨基 & 高枫 : 1
+周深 & 高枫 : 1
+宋亚轩 & 高枫 : 1
+张淇 & 高枫 : 1
+毛阿敏 & 高枫 : 1
+陈楚生 & 周迪 : 1
+汪苏泷 & 周迪 : 1
+陈楚生 & 查航 : 1
+陈楚生 & 王梓赫Ray : 1
+陈楚生 & 吴梦奇 : 1
+王铮亮 & 吴梦奇 : 1
+张远 & 吴梦奇 : 1
+张杰 & 吴梦奇 : 1
+王栎鑫 & 吴梦奇 : 1
+陆虎 & 吴梦奇 : 1
+苏醒 & 吴梦奇 : 1
+阿穆隆 & 吴梦奇 : 1
+吉杰 & 吴梦奇 : 1
+魏晨 & 吴梦奇 : 1
+俞灏明 & 吴梦奇 : 1
+姚政 & 吴梦奇 : 1
+郭彪 & 吴梦奇 : 1
+林俊杰 & 蔡健雅 : 1
+林俊杰 & 王嘉尔 : 1
+王嘉尔 & 林俊杰 : 1
+MC HotDog 热狗 & 林俊杰 : 1
+林俊杰 & 李偲菘 : 1
+林俊杰 & 李宗盛 : 1
+陈奕迅 & 钱雷 : 1
+金莎 & 林俊杰 : 1
+王菲 & 小柯 : 1
+陈奕迅 & 谢国维 : 1
+陈奕迅 & 黎晓阳 : 1
+陈奕迅 & 蔡政勋 : 1
+陈奕迅 & Kenix Cheang : 1
+陈奕迅 & 陈奂仁 : 1
+陈奕迅 & Davy Chan : 1
+陈奕迅 & 钟达茵 : 1
+陈奕迅 & 陈建骐 : 1
+陈奕迅 & 小安 : 1
+陈奕迅 & 李峻一 : 1
+陈奕迅 & 陈晓娟 : 1
+陈奕迅 & 翁玮盈 : 1
+eason and the duo band & 翁玮盈 : 1
+陈奕迅 & 林家谦 : 1
+陈奕迅 & 陈佳明 : 1
+陈奕迅 & 周国贤 : 1
+薛之谦 & 董嘉鸿 : 1
+薛之谦 & 汪苏泷 : 1
+薛之谦 & 林倛玉 : 1
+薛之谦 & 赵英俊 : 1
+薛之谦 & 郭聪明 : 1
+薛之谦 & 门尼 : 1
+薛之谦 & 彭学斌 : 1
+汪苏泷 & 盒子 : 1
+汪苏泷 & 金若晨 : 1
+汪苏泷 & 李志源 : 1
+吉克隽逸 & 蔡健雅 : 1
+汪苏泷 & 蔡健雅 : 1
+阿悄 & 汪苏泷 : 1
+h3R3 & 汪苏泷 : 1
+汪苏泷 & h3R3 : 1
+汪苏泷 & 周兴哲 : 1
+于文文 & 周兴哲 : 1
+汪苏泷 & 刘颜嘉 : 1
+林希儿 & 刘颜嘉 : 1
+林希儿 & 汪苏泷 : 1
+吉克隽逸 & 金大洲 : 1
+汪苏泷 & 金大洲 : 1
+Rosy赵露思 & 汪苏泷 : 1
+汪苏泷 & 贺仙人 : 1
+李荣浩 & 钱雷 : 1
+周杰伦 & 钱雷 : 1
+李荣浩 & 郑宇界 : 1
+李荣浩 & C. Y. Kong : 1
+李荣浩 & 黄家驹 : 1
+ICE杨长青 & 李荣浩 : 1
+毛不易 & 五月天 阿信 : 1
+李荣浩 & 五月天 阿信 : 1
+萧敬腾 & 五月天 阿信 : 1
+莫诗旎 & 许嵩 : 1
+刘美麟 & 许嵩 : 1
+朱婷婷 & 许嵩 : 1
+方大同 & Derrick Sepnio : 1
+方大同 & T-Ma : 1
+方大同 & 桑田佳祐 : 1
+薛凯琪 & 桑田佳祐 : 1
+方大同 & Michael Masser : 1
+葛仲珊 & 方大同 : 1
+Zion.T & 方大同 : 1
+Crush & 方大同 : 1
+陶喆 & 翁清溪 : 1
+关诗敏 & 陶喆 : 1
+陶喆 & 邓雨贤 : 1
+陶喆 & 陈熙 Josh Chen : 1
+陶喆 & 左宏元 : 1
+陶喆 & Bryan Tay : 1
+单依纯 & 陈钰彬 : 1
+陶喆 & 陈钰彬 : 1
+陶喆 & E.Y. Harburg : 1
+陶喆 & Harold Arlen : 1
+陶喆 & ACDC : 1
+毛不易 & 赵兆 : 1
+毛不易 & 蔡如岳 : 1
+单依纯 & 林子祥 : 1
+毛不易 & 林子祥 : 1
+单依纯 & 樊冲 : 1
+毛不易 & 樊冲 : 1
+毛不易 & YUMA : 1
+中島美嘉 & YUMA : 1
+毛不易 & 小柯 : 1
+毛不易 & 谷村新司 : 1
+毛不易 & 方大同 : 1
+李克勤 & 伍乐城 : 1
+杨千嬅 & 伍乐城 : 1
+单依纯 & 伍乐城 : 1
+毛不易 & 伍乐城 : 1
+刘惜君 & 伍乐城 : 1
+李玟 & 伍乐城 : 1
+周笔畅 & 伍乐城 : 1
+李健 & 伍乐城 : 1
+王源 & 伍乐城 : 1
+安崎 & 伍乐城 : 1
+林晓峰 & 伍乐城 : 1
+未知歌手 & 伍乐城 : 1
+张智霖 & 伍乐城 : 1
+马赛克 & 伍乐城 : 1
+魔动闪霸 & 伍乐城 : 1
+Mike 曾比特 & 伍乐城 : 1
+炎明熹 & 伍乐城 : 1
+毛不易 & 王以柚 : 1
+毛不易 & 赵佳霖 : 1
+李克勤 & Eric Kwok : 1
+毛不易 & Eric Kwok : 1
+谭咏麟 & 罗大佑 : 1
+Maria Cordero & 罗大佑 : 1
+林子祥 & 罗大佑 : 1
+李克勤 & 罗大佑 : 1
+杨千嬅 & 罗大佑 : 1
+方力申 & 罗大佑 : 1
+单依纯 & 罗大佑 : 1
+毛不易 & 罗大佑 : 1
+刘惜君 & 罗大佑 : 1
+李玟 & 罗大佑 : 1
+那英 & 罗大佑 : 1
+周笔畅 & 罗大佑 : 1
+李健 & 罗大佑 : 1
+安崎 & 罗大佑 : 1
+林晓峰 & 罗大佑 : 1
+陈豪 & 罗大佑 : 1
+马德钟 & 罗大佑 : 1
+糖妹 & 罗大佑 : 1
+吴若希 & 罗大佑 : 1
+叶蒨文 & 罗大佑 : 1
+马赛克 & 罗大佑 : 1
+林夏薇 & 罗大佑 : 1
+魔动闪霸 & 罗大佑 : 1
+Mike 曾比特 & 罗大佑 : 1
+炎明熹 & 罗大佑 : 1
+谭俊彦 & 罗大佑 : 1
+张杰 & 包胡尔查 : 1
+毛不易 & 曹雄小熊老师 : 1
+张杰 & 曹轩宾 : 1
+张杰 & 杨子朴 : 1
+张杰 & 刘大江 : 1
+张杰 & 陆虎 : 1
+张杰 & 徐佳莹 : 1
+张杰 & 苏通达 : 1
+张杰 & 八三夭 阿璞 : 1
+张杰 & 唐磊 : 1
+张杰 & 杨和苏KeyNG : 1
+张杰 & 钱雷 : 1
+张杰 & 卢冠廷 : 1
+张杰 & 曾明维 : 1
+张杰 & 小柯 : 1
+华晨宇 & 老王乐队 : 1
+张杰 & 老王乐队 : 1
+张杰 & 逃跑计划 : 1
+张杰 & 李洋 Yang Lee : 1
+张杰 & Ashley Hicklin : 1
+张杰 & Eric Lumiere : 1
+张杰 & Karim Mika : 1
+张杰 & 织田哲郎 : 1
+张杰 & 张简君伟 : 1
+张杰 & 黄韵仁Eric NG : 1
+张杰 & 李偲菘 : 1
+张杰 & 李伟菘 : 1
+张靓颖 & 谭旋 : 1
+张杰 & 谢帝 : 1
+张杰 & Peter Habib : 1
+张杰 & Adam Nierow : 1
+谢帝 & 张杰 : 1
+谢帝 & Peter Habib : 1
+谢帝 & Adam Nierow : 1
+张杰 & 黎沸辉 : 1
+张杰 & 朱金泰 Rockin Zhu : 1
+王力宏 & 赵佳霖 : 1
+周华健 & 赵佳霖 : 1
+张杰 & 赵佳霖 : 1
+成龙 & 赵佳霖 : 1
+谢霆锋 & 赵佳霖 : 1
+张杰 & 谢娜 : 1
+张杰 & Nick Pyo : 1
+张杰 & Kim Heeyoung : 1
+逆战：未来 & Nick Pyo : 1
+逆战：未来 & Kim Heeyoung : 1
+张杰 & 羽田 : 1
+张杰 & 刘天健 : 1
+周深 & 夏伟淳 : 1
+周深 & 陆虎 : 1
+周深 & 音融三喜 : 1
+周深 & 李宗盛 : 1
+周深 & 茶茶 : 1
+周深 & TerryZhong钟天利 : 1
+周深 & 王子zione : 1
+TerryZhong钟天利 & 王子zione : 1
+周深 & 赵家锐 : 1
+周深 & 蔡近翰Zoe : 1
+周深 & 舒楠 : 1
+张也 & 舒楠 : 1
+周深 & Austin Heller : 1
+周深 & Jake Neumar : 1
+周深 & Paula Winger : 1
+周深 & 崔克檐 : 1
+周深 & 磯村由紀子 : 1
+五月天 & ilem : 1
+周深 & Catherine Beatrice Cheadle : 1
+周深 & Mads Vathne Lervik : 1
+周深 & BJarte Ludvigsen : 1
+周深 & 娄祖钰 : 1
+周深 & 罗锟 : 1
+宋亚轩 & 罗锟 : 1
+周深 & 季奎奎 : 1
+古巨基 & 伍佰 : 1
+周深 & 伍佰 : 1
+汪苏泷 & Xuan Tan : 1
+周深 & Xuan Tan : 1
+周深 & 徐佳莹 : 1
+周深 & 苏靖凯 : 1
+周深 & 小涛 : 1
+周深 & 姜皓天Tim : 1
+赵雷 & 钱雷 : 1
+赵雷 & 钟志刚 : 1
+Jony J & 胡彦斌 : 1
+张靓颖 & 周杰伦 : 1
+李玖哲 & 陈伟 : 1
+胡彦斌 & 陈伟 : 1
+胡彦斌 & 李永驻 : 1
+张钰琪 & 李永驻 : 1
+胡彦斌 & 太一 : 1
+希林娜依高 & 太一 : 1
+张碧晨 & 黎晓阳 : 1
+张碧晨 & 谢国维 : 1
+胡彦斌 & 黎晓阳 : 1
+胡彦斌 & 谢国维 : 1
+胡彦斌 & 张宇 : 1
+白举纲 & 张宇 : 1
+张钰琪 & 周杰伦 : 1
+胡彦斌 & 艾伦 : 1
+胡彦斌 & 涂惠源 : 1
+伯远 & 涂惠源 : 1
+GAI周延 & 谭旋 : 1
+胡彦斌 & 谭旋 : 1
+胡彦斌 & 陈粒 : 1
+胡彦斌 & 蔡政勋 : 1
+单依纯 & 王力宏 : 1
+王力宏 & James Gicho : 1
+王力宏 & Pontus Sodergvist : 1
+胡彦斌 & 彭程 : 1
+王力宏 & Samuel Waermo : 1
+王力宏 & Pontus Soderqvist : 1
+王力宏 & 季忠平 : 1
+范晓萱 & 季忠平 : 1
+王力宏 & 陈伟 : 1
+方大同 & 王力宏 : 1
+王力宏 & 方大同 : 1
+王力宏 & 何庆远 : 1
+王力宏 & 欧阳靖 : 1
+王力宏 & 崔惟楷 : 1
+王力宏 & 林俊杰 : 1
+欧阳靖 & 王力宏 : 1
+王力宏 & 袁惟仁 : 1
+王力宏 & Matthew Sheeran : 1
+王力宏 & Ed Sheeran : 1
+王力宏 & 游鸿明 : 1
+彭羚 & 游鸿明 : 1
+王力宏 & 侯德健 : 1
+王力宏 & 洪晟文 : 1
+华晨宇 & 草东没有派对 : 1
+华晨宇 & 康士坦的变化球 : 1
+华晨宇 & 常石磊 : 1
+黄绮珊 & 常石磊 : 1
+华晨宇 & 王福龄 : 1
+苏诗丁 & 王福龄 : 1
+华晨宇 & G.E.M.邓紫棋 : 1
+华晨宇 & 钱雷 : 1
+华晨宇 & 王子zione : 1
+华晨宇 & D : 1
+华晨宇 & 陈粒 : 1
+郭顶 & 王智翔 : 1
+郭顶 & 陈磊 : 1
+郭顶 & 陈彼得 : 1
+万妮达Vinida Weng & 雷蕾 : 1
+万妮达Vinida Weng & 法老 : 1
+万妮达Vinida Weng & 小精灵 : 1
+法老 & 雷蕾 : 1
+法老 & 万妮达Vinida Weng : 1
+小精灵 & 雷蕾 : 1
+小精灵 & 万妮达Vinida Weng : 1
+喉结蜥蜴 & 雷蕾 : 1
+喉结蜥蜴 & 万妮达Vinida Weng : 1
+法老 & 徐骁宇DEAN K : 1
+鬼卞 & 徐骁宇DEAN K : 1
+HRBELIAL（贝利） & 徐骁宇DEAN K : 1
+Saber梁维嘉 & 徐骁宇DEAN K : 1
+丹镇北京 & 徐骁宇DEAN K : 1
+张馨月 & 杨和苏KeyNG : 1
+法老 & Mai : 1
+酷癌KooEye & Mai : 1
+法老 & 周夏影 : 1
+By2 & 法老 : 1
+By2 & 周夏影 : 1
+法老 & gowe - I wonder instrumental : 1
+泠风 & gowe - I wonder instrumental : 1
+法老 & Buzzy : 1
+法老 & 鼠尾草 : 1
+杨和苏KeyNG & JarStick : 1
+杨和苏KeyNG & Buzzy : 1
+杨和苏KeyNG & 杨秋儒 : 1
+杨和苏KeyNG & 鼠尾草 : 1
+杨秋儒 & 杨和苏KeyNG : 1
+杨秋儒 & 隆历奇 : 1
+杨秋儒 & 李毅杰PISSY : 1
+杨秋儒 & Buzzy : 1
+杨秋儒 & 小精灵 : 1
+杨秋儒 & 鼠尾草 : 1
+杨秋儒 & 喉结蜥蜴 : 1
+隆历奇 & JarStick : 1
+隆历奇 & Buzzy : 1
+隆历奇 & 杨秋儒 : 1
+隆历奇 & 鼠尾草 : 1
+JarStick & Buzzy : 1
+JarStick & 鼠尾草 : 1
+Buzzy & 杨和苏KeyNG : 1
+Buzzy & JarStick : 1
+Buzzy & 隆历奇 : 1
+Buzzy & 李毅杰PISSY : 1
+Buzzy & 小精灵 : 1
+Buzzy & 杨秋儒 : 1
+Buzzy & 鼠尾草 : 1
+Buzzy & 喉结蜥蜴 : 1
+活死人 & JarStick : 1
+活死人 & Buzzy : 1
+活死人 & 杨秋儒 : 1
+活死人 & 鼠尾草 : 1
+小精灵 & JarStick : 1
+小精灵 & Buzzy : 1
+小精灵 & 杨秋儒 : 1
+小精灵 & 鼠尾草 : 1
+李毅杰PISSY & JarStick : 1
+李毅杰PISSY & Buzzy : 1
+李毅杰PISSY & 杨秋儒 : 1
+李毅杰PISSY & 鼠尾草 : 1
+喉结蜥蜴 & JarStick : 1
+喉结蜥蜴 & Buzzy : 1
+喉结蜥蜴 & 杨秋儒 : 1
+喉结蜥蜴 & 鼠尾草 : 1
+鼠尾草 & 杨和苏KeyNG : 1
+鼠尾草 & JarStick : 1
+鼠尾草 & 隆历奇 : 1
+鼠尾草 & 李毅杰PISSY : 1
+鼠尾草 & Buzzy : 1
+鼠尾草 & 小精灵 : 1
+鼠尾草 & 杨秋儒 : 1
+鼠尾草 & 法老 : 1
+鼠尾草 & 喉结蜥蜴 : 1
+法老 & Jarstick : 1
+杨和苏KeyNG & 龙崎 : 1
+杨和苏KeyNG & Jarstick : 1
+龙崎 & 隆历奇 : 1
+龙崎 & Jarstick : 1
+龙崎 & 李毅杰PISSY : 1
+龙崎 & 小精灵 : 1
+龙崎 & 杨和苏KeyNG : 1
+龙崎 & 喉结蜥蜴 : 1
+隆历奇 & 龙崎 : 1
+隆历奇 & Jarstick : 1
+JarStick & 龙崎 : 1
+JarStick & Jarstick : 1
+活死人 & 龙崎 : 1
+活死人 & Jarstick : 1
+小精灵 & 龙崎 : 1
+小精灵 & Jarstick : 1
+李毅杰PISSY & 龙崎 : 1
+李毅杰PISSY & Jarstick : 1
+喉结蜥蜴 & 龙崎 : 1
+喉结蜥蜴 & Jarstick : 1
+法老 & Spylent : 1
+Spylent & 法老 : 1
+法老 & 王以太 : 1
+王以太 & 法老 : 1
+超级橘子Orange & 法老 : 1
+法老 & MC脏脏 : 1
+MC脏脏 & 法老 : 1
+法老 & 戴思蒙德 : 1
+戴思蒙德 & 法老 : 1
+法老 & situasian张太郎 : 1
+高天佐 & situasian张太郎 : 1
+郑宇界 & 法老 : 1
+未知歌手 & 法老 : 1
+龚琳娜 & 泠风 : 1
+法老 & 幼稚园杀手 : 1
+法老 & EINK : 1
+幼稚园杀手 & EINK : 1
+EINK & 幼稚园杀手 : 1
+EINK & 法老 : 1
+法老 & 早安 : 1
+早安 & 小精灵 : 1
+早安 & 法老 : 1
+小精灵 & 早安 : 1
+法老 & P-Kid : 1
+法老 & 某幻君 : 1
+杨秋儒 & P-Kid : 1
+杨秋儒 & 某幻君 : 1
+P-Kid & 法老 : 1
+P-Kid & JarStick : 1
+P-Kid & 杨秋儒 : 1
+P-Kid & 某幻君 : 1
+JarStick & P-Kid : 1
+JarStick & 某幻君 : 1
+某幻君 & 法老 : 1
+某幻君 & P-Kid : 1
+某幻君 & JarStick : 1
+某幻君 & 杨秋儒 : 1
+法老 & 周剑光 : 1
+泠风 & 周剑光 : 1
+法老 & XXXL : 1
+XXXL & 法老 : 1
+法老 & 赵辰龙 : 1
+龚琳娜 & 赵辰龙 : 1
+杭异凡 & 法老 : 1
+杭异凡 & 赵辰龙 : 1
+幼稚园杀手 & 赵辰龙 : 1
+南征北战NZBZ & 法老 : 1
+南征北战NZBZ & 赵辰龙 : 1
+周传雄 & 陈信荣 : 1
+颜人中 & 周传雄 : 1
+杨坤 & 罗大佑 : 1
+杨丞琳 & 罗大佑 : 1
+林志炫 & 罗大佑 : 1
+周传雄 & 罗大佑 : 1
+萧敬腾 & 罗大佑 : 1
+黄霄雲 & 罗大佑 : 1
+张远 & 罗大佑 : 1
+陆虎 & 罗大佑 : 1
+孟慧圆 & 罗大佑 : 1
+大张伟 & 罗大佑 : 1
+张淇 & 罗大佑 : 1
+安又琪 & 罗大佑 : 1
+许靖韵 & 罗大佑 : 1
+邓见超 & 罗大佑 : 1
+焦迈奇 & 罗大佑 : 1
+Faye 詹雯婷 & 罗大佑 : 1
+马嘉祺 & 罗大佑 : 1
+周传雄 & 涂惠源 : 1
+陆虎 & 涂惠源 : 1
+马嘉祺 & 涂惠源 : 1
+陈慧琳 & 周传雄 : 1
+周传雄 & 杨和苏KeyNG : 1
+杨和苏KeyNG & 周传雄 : 1
+周传雄 & G.E.M.邓紫棋 : 1
+周传雄 & Lupo Groinig : 1
+萱萱 & G.E.M.邓紫棋 : 1
+萱萱 & Lupo Groinig : 1
+张学友 & 黄明洲 : 1
+张学友 & 凌伟文 : 1
+高慧君 & 凌伟文 : 1
+张学友 & 戚小恋 : 1
+张学友 & 徐日勤 : 1
+汤宝如 & 徐日勤 : 1
+张学友 & 童安格 : 1
+张学友 & 米米CLUB : 1
+张学友 & 小椋佳 : 1
+张学友 & 片山圭司 : 1
+张学友 & 黄韵玲 : 1
+张学友 & 涂惠源 : 1
+张学友 & 何家文 : 1
+张学友 & 庾澄庆 : 1
+张学友 & 德永英明 : 1
+张学友 & 陈辉阳 : 1
+梅艳芳 & 陈辉阳 : 1
+张学友 & Harry Mikael Sommerdahl : 1
+张学友 & Jasmine Baird : 1
+张学友 & Keiji Katayama : 1
+张学友 & Dick Lee : 1
+张学友 & 来生 : 1
+张学友 & J.Y. Park : 1
+张学友 & 雷颂德 : 1
+张学友 & 彭海桐 : 1
+张学友 & Kowk Sze : 1
+张学友 & 李伟菘 : 1
+张震岳 & ORANGE : 1
+GAI周延 & 李宗盛 : 1
+MC HotDog 热狗 & 李宗盛 : 1
+张震岳 & 李宗盛 : 1
+黄旭BooM & 李宗盛 : 1
+侯佩岑 & 张震岳 : 1
+Ghost (王琳凯) & 伍佰 : 1
+张震岳 & 伍佰 : 1
+MC HotDog 热狗 & 功夫胖KUNGFU-PEN : 1
+MC HotDog 热狗 & 派克特 : 1
+张震岳 & 功夫胖KUNGFU-PEN : 1
+张震岳 & 派克特 : 1
+派克特（PACT） & 张震岳 : 1
+派克特（PACT） & MC HotDog 热狗 : 1
+派克特（PACT） & 派克特 : 1
+功夫胖KUNGFU-PEN & 张震岳 : 1
+功夫胖KUNGFU-PEN & MC HotDog 热狗 : 1
+功夫胖KUNGFU-PEN & 派克特 : 1
+王赫野 & 陈小霞 : 1
+张震岳 & 陈小霞 : 1
+华晨宇 & 大张伟 : 1
+张震岳 & 大张伟 : 1
+魏如萱 & 大张伟 : 1
+黄子弘凡 & 火星电台 : 1
+张震岳 & 火星电台 : 1
+张震岳 & 橘子 : 1
+MC HotDog 热狗 & 姚中仁 : 1
+张震岳 & 姚中仁 : 1
+关颖 & 姚中仁 : 1
+功夫胖KUNGFU-PEN & RANZER叶润泽 : 1
+GAI周延 & 伍佰 : 1
+GAI周延 & ZJ余帛书 : 1
+Gosh Music & ZJ余帛书 : 1
+功夫胖KUNGFU-PEN & 布瑞吉Bridge : 1
+布瑞吉Bridge & KEY.L刘聪 : 1
+GAI周延 & Choi : 1
+GAI周延 & Joon Young : 1
+GAI周延 & 加木 : 1
+加木 & Choi : 1
+加木 & Joon Young : 1
+GAI周延 & Tank : 1
+刘柏辛Lexie & Tank : 1
+盛宇D-SHINE & 老道 : 1
+布瑞吉Bridge & 老道 : 1
+GAI周延 & 崔健 : 1
+GAI周延 & 谢帝 : 1
+谢帝 & GAI周延 : 1
+盛宇D-SHINE & RANZER叶润泽 : 1
+RANZER叶润泽 & GAI周延 : 1
+RANZER叶润泽 & 盛宇D-SHINE : 1
+GAI周延 & 黄霑 : 1
+GAI周延 & 刘天健 : 1
+陈冰 & 刘天健 : 1
+GAI周延 & 徐日勤 : 1
+盛宇D-SHINE & 徐日勤 : 1
+功夫胖KUNGFU-PEN & 徐日勤 : 1
+梁汉文 & 李永驻 : 1
+GAI周延 & 李永驻 : 1
+陈小春 & 李永驻 : 1
+布瑞吉Bridge & 李永驻 : 1
+林晓峰 & 李永驻 : 1
+谢天华 & 李永驻 : 1
+GAI周延 & 陶喆 : 1
+王赫野 & 陶喆 : 1
+蔡徐坤 & 林宥嘉 : 1
+蔡徐坤 & 张彤禧Selina : 1
+蔡徐坤 & Nick Anderson : 1
+蔡徐坤 & Christian Gates : 1
+蔡徐坤 & Jeffrey Z. : 1
+蔡徐坤 & Larm : 1
+蔡徐坤 & Fidel Rosales : 1
+蔡徐坤 & David Brant : 1
+蔡徐坤 & Bijan : 1
+蔡徐坤 & John A Fallon IV : 1
+蔡徐坤 & Gino Borri : 1
+蔡徐坤 & LIL G : 1
+蔡徐坤 & EachONE : 1
+蔡徐坤 & Chawoo : 1
+蔡徐坤 & alan lin : 1
+蔡徐坤 & chillaxe : 1
+蔡徐坤 & 张艺兴 : 1
+蔡徐坤 & Julien Maurice Moore : 1
+蔡徐坤 & Andrew Bazzi : 1
+蔡徐坤 & MZMC : 1
+张艺兴 & Julien Maurice Moore : 1
+张艺兴 & Andrew Bazzi : 1
+张艺兴 & MZMC : 1
+韩沐伯 & 张艺兴 : 1
+韩沐伯 & Julien Maurice Moore : 1
+韩沐伯 & Andrew Bazzi : 1
+韩沐伯 & MZMC : 1
+李权哲 & 张艺兴 : 1
+李权哲 & Julien Maurice Moore : 1
+李权哲 & Andrew Bazzi : 1
+李权哲 & MZMC : 1
+娄滋博 & 张艺兴 : 1
+娄滋博 & Julien Maurice Moore : 1
+娄滋博 & Andrew Bazzi : 1
+娄滋博 & MZMC : 1
+郑艺彬 & 张艺兴 : 1
+郑艺彬 & Julien Maurice Moore : 1
+郑艺彬 & Andrew Bazzi : 1
+郑艺彬 & MZMC : 1
+王子异 & 张艺兴 : 1
+王子异 & Julien Maurice Moore : 1
+王子异 & Andrew Bazzi : 1
+王子异 & MZMC : 1
+林超泽 & 张艺兴 : 1
+林超泽 & Julien Maurice Moore : 1
+林超泽 & Andrew Bazzi : 1
+林超泽 & MZMC : 1
+蔡徐坤 & 王嘉尔 : 1
+蔡徐坤 & BOYTOY : 1
+黄明昊 (Justin) & 王嘉尔 : 1
+黄明昊 (Justin) & BOYTOY : 1
+卜凡 & 王嘉尔 : 1
+卜凡 & BOYTOY : 1
+王子异 & 王嘉尔 : 1
+王子异 & BOYTOY : 1
+蔡徐坤 & PICO太郎 : 1
+朱正廷 & PICO太郎 : 1
+王子异 & PICO太郎 : 1
+周锐 & PICO太郎 : 1
+周彦辰 & PICO太郎 : 1
+张信哲 & 胡斯汉 : 1
+薛之谦 & 胡斯汉 : 1
+张信哲 & 叶良俊 : 1
+张信哲 & 林隆璇 : 1
+张信哲 & 藤原育郎 : 1
+黄霄雲 & 藤原育郎 : 1
+张信哲 & 谭旋 : 1
+刘嘉玲 & 曹俊鸿 : 1
+周兴哲 & 王力宏 : 1
+张信哲 & 松本俊明 : 1
+陈沁 & 松本俊明 : 1
+华晨宇 & 翁孝良 : 1
+张韶涵 & 翁孝良 : 1
+动力火车 & 翁孝良 : 1
+那英 & 翁孝良 : 1
+何炅 & 翁孝良 : 1
+陈卓璇 & 翁孝良 : 1
+陈粒 & 翁孝良 : 1
+张杰 & 翁孝良 : 1
+胡德夫 & 翁孝良 : 1
+阿雅 & 翁孝良 : 1
+魏如萱 & 翁孝良 : 1
+艾怡良 & 翁孝良 : 1
+王伟忠 & 翁孝良 : 1
+夏日入侵企画 & 翁孝良 : 1
+马嘉祺 & 翁孝良 : 1
+陈立农 & 翁孝良 : 1
+坏特 ?te & 翁孝良 : 1
+全体观众 & 翁孝良 : 1
+张信哲 & 林华勇 : 1
+白小白 & 林华勇 : 1
+张信哲 & 张祐奇 : 1
+张信哲 & 季忠平 : 1
+那英 & 季忠平 : 1
+范文芳 & 曹俊鸿 : 1
+张信哲 & 陈佳明 : 1
+张韶涵 & 陈佳明 : 1
+张信哲 & 陈珊妮 : 1
+张信哲 & 谭杰希 : 1
+胡夏 & 谭杰希 : 1
+姚晓棠 & 李宗盛 : 1
+裘德 & 李宗盛 : 1
+张信哲 & 黄国伦 : 1
+张信哲 & 殷文琦 : 1
+张信哲 & 唐汉霄 : 1
+张信哲 & 伍思凯 : 1
+张信哲 & 翁大涵 : 1
+吉克隽逸 & 翁大涵 : 1
+张信哲 & 赵英俊 : 1
+张信哲 & 周杰伦 : 1
+陈卓璇 & 周杰伦 : 1
+张信哲 & 林俊杰 : 1
+张信哲 & 李伟菘 : 1
+张信哲 & 久石譲 : 1
+张信哲 & 陈复明 : 1
+张信哲 & 张国荣 : 1
+李健 & 黄国伦 : 1
+李健 & 竹内 : 1
+李健 & 简宁 : 1
+李健 & 林家庆 : 1
+李健 & 赵照 : 1
+周杰伦 & 庾澄庆 : 1
+李健 & 庾澄庆 : 1
+谢霆锋 & 庾澄庆 : 1
+李健 & 伊藤薫 : 1
+林子祥 & 立川俊之 : 1
+周柏豪 & 立川俊之 : 1
+单依纯 & 立川俊之 : 1
+李玟 & 立川俊之 : 1
+李健 & 立川俊之 : 1
+林晓峰 & 立川俊之 : 1
+马赛克 & 立川俊之 : 1
+魔动闪霸 & 立川俊之 : 1
+李健 & 刘锦泽 : 1
+李健 & 徐日勤 : 1
+毛不易 & 黄家驹 : 1
+李健 & 黄家驹 : 1
+林晓峰 & 黄家驹 : 1
+马赛克 & 黄家驹 : 1
+魔动闪霸 & 黄家驹 : 1
+Mike 曾比特 & 黄家驹 : 1
+李健 & TAMAKI KOUJI : 1
+岳云鹏 & 许镜清 : 1
+岳云鹏 & 熊天平 : 1
+李健 & 许镜清 : 1
+李健 & 熊天平 : 1
+李健 & 卢庚戌 : 1
+水木年华 & 卢庚戌 : 1
+老狼 & 卢庚戌 : 1
+叶世荣 & 卢庚戌 : 1
+李健 & 邢天溯 : 1
+李健 & 李健根据西班牙民谣改写 : 1
+旅行团乐队 & 韦伟 : 1
+吴青峰 & 韦伟 : 1
+吴青峰 & 郑宇界 : 1
+吴青峰 & 高橋優 : 1
+陈粒 & 陳粒 : 1
+吴青峰 & 陳粒 : 1
+吴青峰 & 久石譲 : 1
+李乐祺 (Lucky) & 久石譲 : 1
+吴青峰 & 彭飞 : 1
+吴青峰 & 阿肆 : 1
+陈粒 & Dolores O : 1
+吴青峰 & Dolores O : 1
+吴青峰 & 李偲菘 : 1
+蔡依林 & 杨宥闲 : 1
+蔡依林 & Richard Craker : 1
+蔡依林 & Rhys Fletcher : 1
+吴青峰 & 蔡依林 : 1
+吴青峰 & 陈星翰 : 1
+吴青峰 & 杨宥闲 : 1
+吴青峰 & Richard Craker : 1
+吴青峰 & Rhys Fletcher : 1
+吴青峰 & 铃凯 : 1
+李宇春 & 吴青峰 : 1
+吴青峰 & 王力宏 : 1
+魏如萱 & 吴青峰 : 1
+吴青峰 & 李伟菘 : 1
+吴青峰 & 裘德 Jude Chiu : 1
+裘德 & 裘德 Jude Chiu : 1
+吴青峰 & 朴树 : 1
+吴青峰 & 邓雨贤 : 1
+吴青峰 & 邓泽西 JerseyDeng : 1
+吴青峰 & 伍家辉 : 1
+孙燕姿 & 吴青峰 : 1
+吴青峰 & 萨顶顶 : 1
+吴青峰 & 彭勃 : 1
+Robin Guthrie & 吴青峰 : 1
+吴青峰 & Robin Guthrie : 1
+吴青峰 & 林宥嘉 : 1
+吴青峰 & 陈建骐 : 1
+吴青峰 & 汪峰 : 1
+吴青峰 & 刘胡轶 : 1
+吴青峰 & 伍思凯 : 1
+未知歌手 & 吴青峰 : 1
+小野リサ & 吴青峰 : 1
+林嘉欣 & 吴青峰 : 1
+吴青峰 & 陈其钢 : 1
+吴青峰 & AURORA : 1
+吴青峰 & Glen Roberts : 1
+吴青峰 & Magnus Skylstad : 1
+吴青峰 & 叶玫君 Mei Yeh : 1
+吴青峰 & 陈君豪 : 1
+AURORA & 吴青峰 : 1
+AURORA & Glen Roberts : 1
+AURORA & Magnus Skylstad : 1
+AURORA & 叶玫君 Mei Yeh : 1
+AURORA & 陈君豪 : 1
+孙燕姿 & 五月天 : 1
+孙燕姿 & F.I.R. : 1
+孙燕姿 & 郭子 : 1
+孙燕姿 & 饶善强 : 1
+孙燕姿 & 游鸿明 : 1
+孙燕姿 & 黄慧文 : 1
+孙燕姿 & 陈忠义 : 1
+孙燕姿 & 五月天 阿信 : 1
+孙燕姿 & 大野愛果 : 1
+倉木麻衣 & 大野愛果 : 1
+孙燕姿 & 黄晟峰 : 1
+孙燕姿 & 刘志文 : 1
+孙燕姿 & 李庭光 : 1
+孙燕姿 & 汪拾米 : 1
+孙燕姿 & 梁思桦 : 1
+G.E.M.邓紫棋 & Teddy : 1
+G.E.M.邓紫棋 & DEE.P : 1
+G.E.M.邓紫棋 & Rebecca Johnson : 1
+G.E.M.邓紫棋 & Sol : 1
+蔡健雅 & 陈文华 : 1
+孙燕姿 & 文慧如 : 1
+G.E.M.邓紫棋 & 罗锟 : 1
+G.E.M.邓紫棋 & 周杰伦 : 1
+G.E.M.邓紫棋 & Ludwig van Beethoven : 1
+G.E.M.邓紫棋 & 队长 : 1
+G.E.M.邓紫棋 & 黄礼格 : 1
+G.E.M.邓紫棋 & 五月天 阿信 : 1
+G.E.M.邓紫棋 & 黄大炜 : 1
+G.E.M.邓紫棋 & Arthur Kent : 1
+G.E.M.邓紫棋 & Dee Sylvia : 1
+G.E.M.邓紫棋 & Faizal Tahir : 1
+G.E.M.邓紫棋 & Mike Chan : 1
+G.E.M.邓紫棋 & Mage : 1
+G.E.M.邓紫棋 & ja : 1
+莫文蔚 & 左安安 : 1
+莫文蔚 & 陈小霞 : 1
+莫文蔚 & 安正勋 : 1
+黄品源 & 安正勋 : 1
+莫文蔚 & 陈晓娟 : 1
+莫文蔚 & Hua-Juan Zheng : 1
+莫文蔚 & Hong-Liang Zhang : 1
+莫文蔚 & Jonathan Lee : 1
+莫文蔚 & Xiao-Juan Chen : 1
+莫文蔚 & Xiao-Xia Chen : 1
+莫文蔚 & An-An Zuo : 1
+莫文蔚 & 王梓轩 : 1
+莫文蔚 & 王一隆 : 1
+莫文蔚 & 华晨宇 : 1
+莫文蔚 & 常石磊 : 1
+莫文蔚 & 吴俊霖 : 1
+莫文蔚 & 薛忠铭 : 1
+莫文蔚 & 伍佰 : 1
+莫文蔚 & 郭一凡 : 1
+莫文蔚 & 村下孝蔵 : 1
+莫文蔚 & 李伟菘 : 1
+莫文蔚 & 伦永亮 : 1
+莫文蔚 & 金木义则 : 1
+任贤齐 & 金木义则 : 1
+莫文蔚 & John Alagia : 1
+莫文蔚 & 郑华娟 : 1
+莫文蔚 & 张佳添 : 1
+莫文蔚 & 佳旺 : 1
+莫文蔚 & 陈文华 : 1
+莫文蔚 & 安栋 : 1
+莫文蔚 & 松任谷由実 : 1
+莫文蔚 & 蔡健雅 : 1
+莫文蔚 & 阿Bert : 1
+麦浚龙 & 阿Bert : 1
+莫文蔚 & 伍家辉 : 1
+莫文蔚 & 李偲菘 : 1
+莫文蔚 & 林子祥 : 1
+黄丽玲 & 王力宏 : 1
+王赫野 & 王力宏 : 1
+黄丽玲 & Kim Bo Min : 1
+黄丽玲 & 林毅心 : 1
+黄丽玲 & Lee Hyun Jeong : 1
+黄丽玲 & 蔡明仁 : 1
+姚晓棠 & 蔡明仁 : 1
+黄丽玲 & 徐光义 : 1
+黄丽玲 & Mad Soul Child : 1
+黄丽玲 & 周显哲 : 1
+黄丽玲 & 陈佳明 : 1
+王赫野 & 陈佳明 : 1
+汪苏泷 & 陈佳明 : 1
+黄龄 & 陈佳明 : 1
+林宥嘉 & 陈佳明 : 1
+黄霄雲 & 陈佳明 : 1
+未知歌手 & 陈佳明 : 1
+黄丽玲 & Jean-Michel Ou : 1
+张信哲 & Jean-Michel Ou : 1
+颜人中 & Jean-Michel Ou : 1
+王赫野 & Jean-Michel Ou : 1
+周兴哲 & Jean-Michel Ou : 1
+庾澄庆 & Jean-Michel Ou : 1
+汪苏泷 & Jean-Michel Ou : 1
+苏有朋 & Jean-Michel Ou : 1
+黄龄 & Jean-Michel Ou : 1
+林宥嘉 & Jean-Michel Ou : 1
+李佳薇 & Jean-Michel Ou : 1
+黄霄雲 & Jean-Michel Ou : 1
+何炅 & Jean-Michel Ou : 1
+李莎旻子 & Jean-Michel Ou : 1
+未知歌手 & Jean-Michel Ou : 1
+黄丽玲 & 陈雪燃 : 1
+黄丽玲 & 陈晓娟 : 1
+黄丽玲 & 卢文韬 : 1
+黄丽玲 & 阿沁 : 1
+黄丽玲 & 林俊杰 : 1
+黄丽玲 & 张杰 : 1
+黄丽玲 & 金贵晟 : 1
+黄丽玲 & 黄一 : 1
+黄丽玲 & 彭学斌 : 1
+吉克隽逸 & 彭学斌 : 1
+黄丽玲 & 方泂 : 1
+苏见信 (信) & 方泂 : 1
+王菲 & Adrian Chan : 1
+王菲 & 李健 : 1
+王菲 & 陈晓娟 : 1
+王菲 & 窦鹏 : 1
+王菲 & 黄卓颖 : 1
+王菲 & 赵英俊 : 1
+王菲 & 陈辉阳 : 1
+王菲 & Alex San : 1
+王菲 & 张宇 : 1
+王菲 & 秦咏诚 : 1
+王菲 & Sophie Zelmani : 1
+王菲 & Lars Halapi : 1
+王菲 & 林功信 : 1
+王菲 & 黄国伦 : 1
+王菲 & 郭亮 : 1
+王菲 & 常宇宏 : 1
+王菲 & Dolores O : 1
+王菲 & Robin Guthrie : 1
+王菲 & Elizabeth Fraser : 1
+王菲 & Simon Raymonde : 1
+王菲 & Cocteau Twins : 1
+王菲 & 杨明煌 : 1
+王菲 & 汤尼 : 1
+王菲 & 蔡健雅 : 1
+杨丞琳 & 徐佳莹 : 1
+王菲 & 李冰 : 1
+en（王翊恩） & 陈威全 : 1
+杨丞琳 & 伍佰 : 1
+杨丞琳 & 韦景云 : 1
+杨丞琳 & 佳芳同学 : 1
+杨丞琳 & 阿鸠 : 1
+杨丞琳 & 林俊杰 : 1
+杨丞琳 & 彭妮 : 1
+杨丞琳 & 生命树_小王子 : 1
+杨丞琳 & Jeon : 1
+杨丞琳 & Jun Gyu : 1
+杨丞琳 & Roxanne Seeman : 1
+杨丞琳 & Olav Fossheim : 1
+杨丞琳 & Kine Ludvigsen : 1
+杨丞琳 & 陈辉阳 : 1
+杨丞琳 & 左安安 : 1
+杨丞琳 & 张向荣 : 1
+杨丞琳 & 魏文浩 : 1
+杨丞琳 & 李子维Wei Lee : 1
+杨丞琳 & 苏亦承 : 1
+杨丞琳 & 潘协庆 : 1
+杨丞琳 & 施佳阳 : 1
+杨丞琳 & 杨阳 : 1
+杨丞琳 & 饶善强 : 1
+杨丞琳 & 杨格Mono : 1
+杨丞琳 & 袁景翔Sean : 1
+杨丞琳 & 孙睦涵ATO : 1
+杨丞琳 & 谢君妍Juny : 1
+杨丞琳 & Qian Zhao : 1
+杨丞琳 & 杨明煌 : 1
+杨丞琳 & 吴旭文 : 1
+杨丞琳 & 周杰伦 : 1
+杨丞琳 & 李偲菘 : 1
+杨丞琳 & 李宗盛 : 1
+杨丞琳 & Mac Chew : 1
+杨丞琳 & 蔡健雅 : 1
+杨丞琳 & 光良 : 1
+杨丞琳 & 小柯 : 1
+杨丞琳 & 黄明洲 : 1
+杨丞琳 & 玉城千春 : 1
+杨丞琳 & 林倛玉 : 1
+杨丞琳 & 陈子隆 : 1
+杨丞琳 & 许哲珮 : 1
+杨丞琳 & 朱婧汐 : 1
+杨丞琳 & Eileen Shan Zou : 1
+杨丞琳 & Kenix Cheang : 1
+杨丞琳 & 华承妍CHIYO : 1
+杨丞琳 & 陈粒 : 1
+邓见超 & 陈粒 : 1
+焦迈奇 & 陈粒 : 1
+杨丞琳 & 李双飞Shuangfei Li : 1
+杨丞琳 & Jackson Lee : 1
+杨丞琳 & Jay Hong : 1
+梁静茹 & 周杰伦 : 1
+梁静茹 & 郑楠 : 1
+卢广仲 & 林倛玉 : 1
+梁静茹 & 王力宏 : 1
+梁静茹 & 蓝奕邦 : 1
+梁静茹 & 五月天 怪兽 : 1
+梁静茹 & Lee Jae-Kyung : 1
+梁静茹 & Sang-Ho : 1
+梁静茹 & 朱敬然 : 1
+梁静茹 & 周兴哲 : 1
+梁静茹 & 曹格 : 1
+梁静茹 & Jasemaine : 1
+梁静茹 & 黄荻钧 : 1
+梁静茹 & 梁伯君 : 1
+艾怡良 & 李宗盛 : 1
+梁静茹 & 黄韵仁 : 1
+古巨基 & 黄韵玲 : 1
+郭静 & 易桀齐 : 1
+梁静茹 & 宮沢和史 : 1
+郭静 & 吴梦奇 : 1
+郭静 & Victor刘伟德 : 1
+郭静 & 徐良 : 1
+郭静 & 廖伟鹏 : 1
+郭静 & JerryC : 1
+郭静 & 鸦片丹 : 1
+郭静 & 蔡旻佑 : 1
+郭静 & 纪佳松 : 1
+徐良 & 邓雨鸿 : 1
+郭静 & 邓雨鸿 : 1
+郭静 & 韦国赟 : 1
+郭静 & 姜海威 : 1
+郭静 & 唐达 : 1
+郭静 & 易桀齐+伍冠谚 : 1
+郭静 & Anna启馨 : 1
+华晨宇 & 韦礼安 : 1
+陈楚生 & 韦礼安 : 1
+郁可唯 & 韦礼安 : 1
+杨丞琳 & 韦礼安 : 1
+尚雯婕 & 韦礼安 : 1
+魏晨 & 韦礼安 : 1
+苏见信 (信) & 韦礼安 : 1
+郭静 & 李聪 : 1
+郭静 & 廖文强 : 1
+郭静 & 陈启乐 : 1
+郭静 & 温伟杰 : 1
+郭静 & 木兰号 AKA 陈韦伶 : 1
+郭静 & 林宇中 : 1
+郭静 & 徐云霄 : 1
+郭静 & 刘淑莉 : 1
+郭静 & Hwang Yong Ju : 1
+单依纯 & AJ张杰 : 1
+单依纯 & 李荣浩 : 1
+单依纯 & 杨明煌 : 1
+单依纯 & 梁弘志 : 1
+单依纯 & 三木尤贺志 : 1
+单依纯 & 荒木丰久 : 1
+单依纯 & 刘家昌 : 1
+单依纯 & 古月 : 1
+单依纯 & 海沼实 : 1
+单依纯 & Xue An Liu : 1
+单依纯 & 翁清溪 : 1
+单依纯 & 李达涛 : 1
+单依纯 & Indonesian Folk Song : 1
+单依纯 & 林家庆 : 1
+单依纯 & Tony Tong : 1
+单依纯 & Usui Yoshinori : 1
+单依纯 & 欣逸 : 1
+单依纯 & 晓燕 : 1
+单依纯 & 薛之谦 : 1
+单依纯 & 祁紫檀 : 1
+单依纯 & 蔡健雅 : 1
+单依纯 & 许镜清 : 1
+单依纯 & 赵英俊 : 1
+刘宇宁 & 许镜清 : 1
+刘宇宁 & 赵英俊 : 1
+单依纯 & 李偲菘 : 1
+单依纯 & 邹沛妤 : 1
+单依纯 & 邹沛沛 : 1
+单依纯 & Akiyama Sayuri : 1
+卫兰 & 陈光荣 : 1
+单依纯 & 陈光荣 : 1
+杨千嬅 & 林奕匡 : 1
+单依纯 & 林奕匡 : 1
+周笔畅 & 林奕匡 : 1
+单依纯 & 刘凤瑶 : 1
+萧亚轩 & Steve Robson : 1
+萧亚轩 & Harry Wilkins : 1
+萧亚轩 & John McLaughlin : 1
+Blue & Steve Robson : 1
+Blue & Harry Wilkins : 1
+Blue & John McLaughlin : 1
+单依纯 & 黄卓颖 : 1
+单依纯 & J.Sheon : 1
+单依纯 & 转转 : 1
+萧亚轩 & Magnus Lidehall : 1
+萧亚轩 & 庄景云 : 1
+萧亚轩 & 黎沸挥 : 1
+萧亚轩 & Voravit Pikul Thong : 1
+萧亚轩 & 陈怀恩 : 1
+萧亚轩 & 马奕强 : 1
+萧亚轩 & Wayne Hector : 1
+萧亚轩 & Matthew Gerrard : 1
+萧亚轩 & Ira Antelis : 1
+萧亚轩 & Wendy Lapidus Saltz : 1
+萧亚轩 & Gyn Chan Cho : 1
+萧亚轩 & 胡彦斌 : 1
+萧亚轩 & 8 Tone : 1
+韩庚 & 8 Tone : 1
+萧亚轩 & Chikara : 1
+萧亚轩 & Jang Jae Young : 1
+萧亚轩 & 林俊杰 : 1
+萧亚轩 & 伍思凯 : 1
+萧亚轩 & Kim Seok Jin : 1
+萧亚轩 & 蔡荣骏 : 1
+萧亚轩 & Minski : 1
+萧亚轩 & 黄义达 : 1
+萧亚轩 & Masahiko Fukui : 1
+萧亚轩 & 李俊杰 : 1
+张韶涵 & 黄淑惠 : 1
+张韶涵 & 小安 : 1
+张韶涵 & 赵雷 : 1
+张韶涵 & Eyad Farag : 1
+王晰 & Eyad Farag : 1
+张韶涵 & 陈小霞 : 1
+张韶涵 & 动静乐团 : 1
+张韶涵 & 梁思成 : 1
+张韶涵 & 恋与深空 : 1
+张韶涵 & Amir Masoh雅祢而 : 1
+张韶涵 & Tim姜皓天 : 1
+张韶涵 & 邱e : 1
+张韶涵 & 彭康甡 : 1
+杨宗纬 & ABBA : 1
+张韶涵 & ABBA : 1
+夏日入侵企画 & ABBA : 1
+张韶涵 & 于京延 : 1
+张韶涵 & 陈怀恩 : 1
+张韶涵 & 苏朵 : 1
+张韶涵 & Milos Rosas : 1
+张韶涵 & Petri Matara : 1
+张韶涵 & 林俊杰 : 1
+张韶涵 & Sofi Bonde : 1
+张韶涵 & Tommy Henriksen : 1
+张韶涵 & Zac Maloy : 1
+张韶涵 & Cousin Fung : 1
+张韶涵 & Braddon Williams : 1
+张韶涵 & DJ Eric : 1
+张韶涵 & 中村仁 : 1
+华晨宇 & 阿怪 : 1
+张韶涵 & 阿怪 : 1
+范逸臣 & 阿怪 : 1
+蔡依林 & Liv Nervo : 1
+蔡依林 & Greg Kursten : 1
+蔡依林 & Alexander Puntervold : 1
+蔡依林 & Anna Judith Wik : 1
+蔡依林 & Charite Viken Reinas : 1
+蔡依林 & Eirik Johanson : 1
+蔡依林 & Nermin Harambasic : 1
+蔡依林 & Robin Jessen : 1
+蔡依林 & Ronny Svendsen : 1
+张韶涵 & 潘协庆 : 1
+张韶涵 & 刘胡轶 : 1
+张韶涵 & 李大有可为 : 1
+蔡依林 & 叶良俊 : 1
+蔡依林 & Wayne Wilkins : 1
+蔡依林 & Savan Kotecha : 1
+蔡依林 & Andrew Marcus Frampton : 1
+蔡依林 & 陈俊达 : 1
+蔡依林 & 冯翰铭 : 1
+蔡依林 & 詹宇豪 : 1
+蔡依林 & Fadil El Ghoul : 1
+蔡依林 & Rik Annema : 1
+蔡依林 & Cimo Fr : 1
+R3HAB & Fadil El Ghoul : 1
+R3HAB & Rik Annema : 1
+R3HAB & Cimo Fr : 1
+蔡依林 & 王菀之 : 1
+蔡依林 & Christoffer Wikberg : 1
+蔡依林 & Johan Moraeus : 1
+蔡依林 & Charles Lee : 1
+蔡依林 & 葛大為 : 1
+陈星翰 & 葛大為 : 1
+蔡依林 & Adam Powers : 1
+蔡依林 & Lina Rafn : 1
+蔡依林 & Paw Lagermann : 1
+蔡依林 & 谭荣健 : 1
+蔡依林 & 古皓 : 1
+蔡依林 & Emile Ghantous : 1
+蔡依林 & Erik Nelson : 1
+蔡依林 & Nasri : 1
+蔡依林 & Lakesha Hinton : 1
+蔡依林 & Anders Kjer : 1
+蔡依林 & David Clewett : 1
+蔡依林 & Alice Gernandt : 1
+蔡依林 & 倪子冈 : 1
+Alesso & 倪子冈 : 1
+蔡依林 & Awa Manneh : 1
+蔡依林 & Andreas Levander : 1
+蔡依林 & Jonas Nordelius : 1
+蔡依林 & Olivia Nervo : 1
+蔡依林 & Thomas Ben : 1
+蔡依林 & Ladimeji Dele : 1
+蔡依林 & 陈伟 : 1
+蔡依林 & MOURICE : 1
+蔡依林 & KINGMING : 1
+Jony J & MOURICE : 1
+Jony J & KINGMING : 1
+蔡依林 & 吴青峰 : 1
+蔡依林 & Lindskog : 1
+蔡依林 & Olof : 1
+蔡依林 & Hayley Michelle Aitken : 1
+蔡依林 & Strange Dahl : 1
+张碧晨 & 金大洲 : 1
+张碧晨 & 萧煌奇 : 1
+希林娜依高 & 萧煌奇 : 1
+张碧晨 & 海来阿木 : 1
+余佳运 & 李偲菘 : 1
+张碧晨 & 李偲菘 : 1
+黄子弘凡 & 赵RR : 1
+张碧晨 & 赵RR : 1
+汪苏泷 & 周杰伦 : 1
+张碧晨 & Venk : 1
+周兴哲 & Venk : 1
+张碧晨 & 伍乐城 : 1
+张碧晨 & 任帅 : 1
+侯明昊 & 任帅 : 1
+程潇 & 任帅 : 1
+闫桉 & 任帅 : 1
+陈都灵 & 任帅 : 1
+田嘉瑞 & 任帅 : 1
+王赫野 & 陈一勺 : 1
+张碧晨 & 陈一勺 : 1
+张碧晨 & 史晓天 : 1
+陈立农 & 史晓天 : 1
+张碧晨 & 陈颖见 : 1
+刘雨昕XIN LIU & 陈颖见 : 1
+张碧晨 & 小柯 : 1
+张碧晨 & 梁翘柏 : 1
+张碧晨 & 李伟菘 : 1
+张紫宁 & 李伟菘 : 1
+张碧晨 & 彭学斌 : 1
+张星特 & 彭学斌 : 1
+张碧晨 & 蔡健雅 : 1
+周震南 & 蔡健雅 : 1
+张碧晨 & 林俊杰 : 1
+黄子弘凡 & 马敬 : 1
+张碧晨 & 马敬 : 1
+张碧晨 & 刘昊霖 : 1
+张碧晨 & 宝石Gem : 1
+张碧晨 & 林一峰 : 1
+王源 & 林一峰 : 1
+张碧晨 & 廉山 : 1
+孟佳 & 廉山 : 1
+王心凌 & 曹格 : 1
+王赫野 & 张碧晨 : 1
+张碧晨 & 林宥嘉 : 1
+王心凌 & 史万达 : 1
+王心凌 & 卫斯理 : 1
+韩红 & 刘西蒙 : 1
+郁可唯 & 刘西蒙 : 1
+王心凌 & 刘西蒙 : 1
+谭维维 & 刘西蒙 : 1
+黄绮珊 & 刘西蒙 : 1
+王心凌 & 唐湘智 : 1
+王心凌 & 陈小霞 : 1
+王心凌 & 水野良樹 : 1
+王心凌 & 海鸣威 : 1
+汪苏泷 & 海鸣威 : 1
+王心凌 & ORANGE RANGE : 1
+王心凌 & 崔子格 : 1
+王心凌 & Myeong Gi Min : 1
+王心凌 & Ahn Young Min : 1
+王心凌 & 陈珊妮 : 1
+王心凌 & 廖世傑 : 1
+王心凌 & Jun Hashimoto : 1
+王心凌 & Koichi Sugiyama : 1
+王心凌 & 徐佳莹 : 1
+王心凌 & Christopher Baran : 1
+王心凌 & KETA : 1
+王心凌 & James Alan Ghaleb : 1
+王心凌 & 璐璐 : 1
+王心凌 & 张亚雄 : 1
+王心凌 & 柳涛 : 1
+王心凌 & 陈文华 : 1
+陈楚生 & 施光南 : 1
+韩红 & 施光南 : 1
+郁可唯 & 施光南 : 1
+王心凌 & 施光南 : 1
+孙楠 & 施光南 : 1
+汪苏泷 & 施光南 : 1
+胡彦斌 & 施光南 : 1
+谭维维 & 施光南 : 1
+黄绮珊 & 施光南 : 1
+古巨基 & 施光南 : 1
+周深 & 施光南 : 1
+宋亚轩 & 施光南 : 1
+张淇 & 施光南 : 1
+毛阿敏 & 施光南 : 1
+王心凌 & Edry Kru : 1
+王心凌 & Kimberley Chen : 1
+王心凌 & Terrytyelee : 1
+王心凌 & 李荣浩 : 1
+王心凌 & 方大同 : 1
+王心凌 & 江仁盟 : 1
+王心凌 & 宇珩 : 1
+王心凌 & 李志清 : 1
+曾沛慈 & 脩 : 1
+曾沛慈 & Marit Elizabeth : 1
+曾沛慈 & Marion Elise Ravn : 1
+谢楠 & Marit Elizabeth : 1
+谢楠 & Marion Elise Ravn : 1
+万千惠 & Marit Elizabeth : 1
+万千惠 & Marion Elise Ravn : 1
+张慧雯 & Marit Elizabeth : 1
+张慧雯 & Marion Elise Ravn : 1
+徐梦洁 & Marit Elizabeth : 1
+徐梦洁 & Marion Elise Ravn : 1
+曾沛慈 & 陶喆 : 1
+叶一茜 & 陶喆 : 1
+陈瑶 & 陶喆 : 1
+黄灿灿 & 陶喆 : 1
+谢楠 & 陶喆 : 1
+韦礼安 & 曾沛慈 : 1
+曾沛慈 & Oliver : 1
+曾沛慈 & 李方睿 : 1
+曾沛慈 & 陈建骐 : 1
+阚清子 & Alina Smith : 1
+阚清子 & Annalise Morelli : 1
+阚清子 & Jordyn Kane : 1
+曾沛慈 & Alina Smith : 1
+曾沛慈 & Annalise Morelli : 1
+曾沛慈 & Jordyn Kane : 1
+李心洁 & Alina Smith : 1
+李心洁 & Annalise Morelli : 1
+李心洁 & Jordyn Kane : 1
+Trang Pháp & Alina Smith : 1
+Trang Pháp & Annalise Morelli : 1
+Trang Pháp & Jordyn Kane : 1
+安崎 & Alina Smith : 1
+安崎 & Annalise Morelli : 1
+安崎 & Jordyn Kane : 1
+淡淡 & Alina Smith : 1
+淡淡 & Annalise Morelli : 1
+淡淡 & Jordyn Kane : 1
+曾沛慈 & 幂雅 : 1
+曾沛慈 & 鸦片丹 : 1
+曾沛慈 & 潘琪妮 : 1
+范玮琪 & 钟婉芸 : 1
+曾沛慈 & 钟婉芸 : 1
+Trang Pháp & 钟婉芸 : 1
+唐艺昕 & 钟婉芸 : 1
+徐梦洁 & 钟婉芸 : 1
+曾沛慈 & 林忠谕 : 1
+曾沛慈 & 修 : 1
+东城卫 & 修 : 1
+曾沛慈 & 郑胜元 : 1
+曾沛慈 & 熊天平 : 1
+曾沛慈 & TANK : 1
+曾沛慈 & 岑宁儿 : 1
+曾沛慈 & 陈君豪 : 1
+曾沛慈 & 纪佳松 : 1
+曾沛慈 & HUSH : 1
+曾沛慈 & 吴汶芳 : 1
+曾沛慈 & 吴振豪 : 1
+张靓颖 & 董冬冬 : 1
+李秉成 & 董冬冬 : 1
+曾沛慈 & 蔡健雅 : 1
+张靓颖 & 藤原 : 1
+卢昶宇 & 藤原 : 1
+王艺陶 & 藤原 : 1
+李秉成 & 藤原 : 1
+曾沛慈 & Mr Big : 1
+曾沛慈 & Kim Jae Yang : 1
+蔡旻佑 & Mr Big : 1
+蔡旻佑 & Kim Jae Yang : 1
+汪东城 & Mr Big : 1
+汪东城 & Kim Jae Yang : 1
+黄子弘凡 & Andrew Wotman : 1
+黄子弘凡 & Ali Tamposi : 1
+黄子弘凡 & Luke Hemmings : 1
+黄子弘凡 & Ashton Irwin : 1
+黄子弘凡 & Ryan Tedder : 1
+黄子弘凡 & Louis Bell : 1
+黄子弘凡 & Stephen Morris : 1
+黄子弘凡 & Bernard Sumner : 1
+黄子弘凡 & Peter Hook : 1
+黄子弘凡 & Gillian Lesley Gilbert : 1
+黄子弘凡 & Evan Rogers : 1
+黄子弘凡 & Carl Sturken : 1
+张靓颖 & Andrew Wotman : 1
+张靓颖 & Ali Tamposi : 1
+张靓颖 & Luke Hemmings : 1
+张靓颖 & Ashton Irwin : 1
+张靓颖 & Ryan Tedder : 1
+张靓颖 & Louis Bell : 1
+张靓颖 & Stephen Morris : 1
+张靓颖 & Bernard Sumner : 1
+张靓颖 & Peter Hook : 1
+张靓颖 & Gillian Lesley Gilbert : 1
+张靓颖 & Evan Rogers : 1
+张靓颖 & Carl Sturken : 1
+张靓颖 & Pianoboy高至豪 : 1
+张靓颖 & Andy Love : 1
+张靓颖 & John Laudon : 1
+张靓颖 & 钱雷 : 1
+张靓颖 & 郑国锋 : 1
+张靓颖 & 童宇 : 1
+汪苏泷 & 童宇 : 1
+张学友 & K : 1
+张靓颖 & K : 1
+K'NAAN & K : 1
+张靓颖 & 徐浩 : 1
+赵磊 & 徐浩 : 1
+张靓颖 & Yoon Il Sang : 1
+张靓颖 & 许嵩 : 1
+黄子弘凡 & KAZE詹翊玄 : 1
+黄子弘凡 & 关天天 : 1
+刘宇宁 & KAZE詹翊玄 : 1
+刘宇宁 & 关天天 : 1
+郁可唯 & KAZE詹翊玄 : 1
+郁可唯 & 关天天 : 1
+张靓颖 & KAZE詹翊玄 : 1
+张靓颖 & 关天天 : 1
+欧阳娜娜 & KAZE詹翊玄 : 1
+欧阳娜娜 & 关天天 : 1
+喻言 & KAZE詹翊玄 : 1
+喻言 & 关天天 : 1
+张峻豪SHUN & KAZE詹翊玄 : 1
+张峻豪SHUN & 关天天 : 1
+Seven Kids & KAZE詹翊玄 : 1
+Seven Kids & 关天天 : 1
+张靓颖 & 李伟菘 : 1
+张靓颖 & 于晓光 : 1
+张靓颖 & 朴树 : 1
+GAI周延 & 潘玮柏 : 1
+GAI周延 & 张靓颖 : 1
+GAI周延 & 朴宰范 : 1
+GAI周延 & 陈令韬 : 1
+潘玮柏 & 张靓颖 : 1
+潘玮柏 & GAI周延 : 1
+潘玮柏 & 朴宰范 : 1
+潘玮柏 & 陈令韬 : 1
+张靓颖 & 潘玮柏 : 1
+张靓颖 & GAI周延 : 1
+张靓颖 & 朴宰范 : 1
+张靓颖 & 陈令韬 : 1
+朴宰范 & 潘玮柏 : 1
+朴宰范 & 张靓颖 : 1
+朴宰范 & GAI周延 : 1
+朴宰范 & 陈令韬 : 1
+容祖儿 & 梁翘柏 : 1
+张靓颖 & 梁翘柏 : 1
+刘宇宁 & 宇珩 : 1
+张靓颖 & 宇珩 : 1
+张靓颖 & 菲道尔 : 1
+希林娜依高 & 菲道尔 : 1
+GAI周延 & Jae Chong : 1
+GAI周延 & 李玖哲 : 1
+张靓颖 & Jae Chong : 1
+张靓颖 & 李玖哲 : 1
+张靓颖 & John Legend : 1
+张靓颖 & 方大同 : 1
+张靓颖 & 陈冠宇 : 1
+AGA & 张家诚 : 1
+张学友 & 张家诚 : 1
+刘德华 & 张家诚 : 1
+谭咏麟 & 张家诚 : 1
+钟镇涛 & 张家诚 : 1
+李克勤 & 张家诚 : 1
+容祖儿 & 张家诚 : 1
+杨千嬅 & 张家诚 : 1
+梁汉文 & 张家诚 : 1
+吕方 & 张家诚 : 1
+卫兰 & 张家诚 : 1
+张靓颖 & 张家诚 : 1
+张杰 & 张家诚 : 1
+李幸倪 & 张家诚 : 1
+陈慧娴 & 张家诚 : 1
+林晓峰 & 张家诚 : 1
+草蜢 & 张家诚 : 1
+胡鸿钧 & 张家诚 : 1
+林峯 & 张家诚 : 1
+雷有辉 & 张家诚 : 1
+吴若希 & 张家诚 : 1
+HANA菊梓乔 & 张家诚 : 1
+伍珂玥 & 张家诚 : 1
+萧凯恩 & 张家诚 : 1
+Mike 曾比特 & 张家诚 : 1
+炎明熹 & 张家诚 : 1
+万妮达Vinida Weng & 孔一蝉 Kong Cicada : 1
+旅行团乐队 & 孔一蝉 Kong Cicada : 1
+张靓颖 & 郁采真 : 1
+张靓颖 & 李子维 : 1
+张靓颖 & 银河快递 : 1
+王源 & 郁采真 : 1
+王源 & 李子维 : 1
+王源 & 银河快递 : 1
+万妮达Vinida Weng & 闫骁男 : 1
+李嘉格 & 闫骁男 : 1
+陈昊宇 & 闫骁男 : 1
+SUNI孙夏铃 & 闫骁男 : 1
+严浩翔 & HARIKIRI : 1
+严浩翔 & SRR三儿 : 1
+万妮达Vinida Weng & Simphiwe Nyawose : 1
+万妮达Vinida Weng & Manu Worldstar : 1
+万妮达Vinida Weng & Lee Global : 1
+万妮达Vinida Weng & KINGJILLZ : 1
+万妮达Vinida Weng & Evoke : 1
+Manu Worldstar & 万妮达Vinida Weng : 1
+Manu Worldstar & HARIKIRI : 1
+Manu Worldstar & Simphiwe Nyawose : 1
+Manu Worldstar & Lee Global : 1
+Manu Worldstar & KINGJILLZ : 1
+Manu Worldstar & Evoke : 1
+Robin ThirdFloor & 万妮达Vinida Weng : 1
+Robin ThirdFloor & HARIKIRI : 1
+Robin ThirdFloor & Simphiwe Nyawose : 1
+Robin ThirdFloor & Manu Worldstar : 1
+Robin ThirdFloor & Lee Global : 1
+Robin ThirdFloor & KINGJILLZ : 1
+Robin ThirdFloor & Evoke : 1
+万妮达Vinida Weng & mac ova seas : 1
+万妮达Vinida Weng & tobi lou : 1
+mac ova seas & 万妮达Vinida Weng : 1
+mac ova seas & tobi lou : 1
+tobi lou & mac ova seas : 1
+tobi lou & 万妮达Vinida Weng : 1
+万妮达Vinida Weng & Jony J : 1
+Jony J & 万妮达 : 1
+盛宇D-SHINE & VaVa娃娃 : 1
+艾热 AIR & VaVa娃娃 : 1
+艾热 AIR & 万妮达Vinida Weng : 1
+万妮达Vinida Weng & 艾热 AIR : 1
+VaVa娃娃 & 艾热 AIR : 1
+万妮达Vinida Weng & 张光磊 : 1
+蛋仔派对 & 张光磊 : 1
+万妮达Vinida Weng & 弋洋 : 1
+黄子弘凡 & 弋洋 : 1
+武艺 & 弋洋 : 1
+杨迪 & 弋洋 : 1
+王安宇 & 弋洋 : 1
+田曦薇 & 弋洋 : 1
+庞博 & 弋洋 : 1
+Capper & HARIKIRI : 1
+万妮达Vinida Weng & 李大奔 : 1
+李大奔BENZO & 万妮达 : 1
+万妮达Vinida Weng & 苦果 : 1
+麻园诗人 & 苦果 : 1
+麻园诗人 & 万妮达Vinida Weng : 1
+万妮达Vinida Weng & GAI周延 : 1
+VaVa娃娃 & GAI周延 : 1
+万妮达Vinida Weng & 栾贻泽Felix : 1
+沙一汀EL & 栾贻泽Felix : 1
+step.jad依加 & 栾贻泽Felix : 1
+王赫野 & 栾贻泽Felix : 1
+张碧晨 & 栾贻泽Felix : 1
+陈卓璇 & 栾贻泽Felix : 1
+李佳隆 & 栾贻泽Felix : 1
+尚雯婕 & 栾贻泽Felix : 1
+刘至佳 & 栾贻泽Felix : 1
+早安 & 栾贻泽Felix : 1
+房东的猫 & 栾贻泽Felix : 1
+未知歌手 & 栾贻泽Felix : 1
+鞠起 & 栾贻泽Felix : 1
+张栋梁 & 栾贻泽Felix : 1
+程响 & 栾贻泽Felix : 1
+梦然 & 栾贻泽Felix : 1
+赵紫骅 & 栾贻泽Felix : 1
+邓见超 & 栾贻泽Felix : 1
+宋瑀哲 & 栾贻泽Felix : 1
+杨默依Moi & 栾贻泽Felix : 1
+郑闯 & 栾贻泽Felix : 1
+希林娜依高 & 栾贻泽Felix : 1
+窦佳嫄 & 栾贻泽Felix : 1
+吴映香 & 栾贻泽Felix : 1
+邓典 & 栾贻泽Felix : 1
+枯木逢春 & 栾贻泽Felix : 1
+邓寓君（等什么君） & 栾贻泽Felix : 1
+郑云龙 & 栾贻泽Felix : 1
+姚琛 & 栾贻泽Felix : 1
+迟里乌布 & 栾贻泽Felix : 1
+龍猛寺寬度 & 栾贻泽Felix : 1
+Nene郑乃馨 & 栾贻泽Felix : 1
+田鸿杰 & 栾贻泽Felix : 1
+黄丽玲 & Nick Lee : 1
+黄丽玲 & Aaron Paris : 1
+黄丽玲 & Luka Kloser : 1
+黄丽玲 & Kyan Palmer : 1
+黄丽玲 & 袁娅维TIA RAY : 1
+万妮达Vinida Weng & Nick Lee : 1
+万妮达Vinida Weng & Aaron Paris : 1
+万妮达Vinida Weng & Luka Kloser : 1
+万妮达Vinida Weng & Kyan Palmer : 1
+万妮达Vinida Weng & 袁娅维TIA RAY : 1
+袁娅维TIA RAY & Nick Lee : 1
+袁娅维TIA RAY & Aaron Paris : 1
+袁娅维TIA RAY & Luka Kloser : 1
+袁娅维TIA RAY & Kyan Palmer : 1
+万妮达Vinida Weng & Berky : 1
+万妮达Vinida Weng & UNKWN : 1
+万妮达Vinida Weng & 李伦序 : 1
+袁娅维TIA RAY & 李伦序 : 1
+盛宇D-SHINE & HARIKIRI : 1
+万妮达Vinida Weng & KITO : 1
+万妮达Vinida Weng & SHarK : 1
+SHarK & 万妮达Vinida Weng : 1
+SHarK & KITO : 1
+SHarK & HARIKIRI : 1
+SHarK & SRR三儿 : 1
+KITO & 万妮达Vinida Weng : 1
+KITO & SHarK : 1
+KITO & HARIKIRI : 1
+KITO & SRR三儿 : 1
+万妮达Vinida Weng & ZEEV张安 : 1
+万妮达Vinida Weng & Franky弗兰奇 : 1
+VaVa娃娃 & ZEEV张安 : 1
+VaVa娃娃 & Franky弗兰奇 : 1
+盛宇D-SHINE & ZEEV张安 : 1
+盛宇D-SHINE & Franky弗兰奇 : 1
+凤凰传奇 & ZEEV张安 : 1
+凤凰传奇 & Franky弗兰奇 : 1
+万妮达Vinida Weng & 黄子韬 : 1
+TizzyT & 黄子韬 : 1
+TizzyT & 万妮达Vinida Weng : 1
+TizzyT & 严浩翔 : 1
+TizzyT & Capper : 1
+Capper & 黄子韬 : 1
+Capper & 严浩翔 : 1
+Capper & TizzyT : 1
+严浩翔 & 黄子韬 : 1
+严浩翔 & TizzyT : 1
+严浩翔 & Capper : 1
+黄子韬 & 万妮达Vinida Weng : 1
+黄子韬 & 严浩翔 : 1
+黄子韬 & TizzyT : 1
+黄子韬 & Capper : 1
+说唱巅峰对决2026 & 黄子韬 : 1
+说唱巅峰对决2026 & 万妮达Vinida Weng : 1
+说唱巅峰对决2026 & 严浩翔 : 1
+说唱巅峰对决2026 & TizzyT : 1
+说唱巅峰对决2026 & Capper : 1
+万妮达Vinida Weng & 弹壳Danko : 1
+万妮达Vinida Weng & Jay Isaiah : 1
+万妮达Vinida Weng & 张艺兴 : 1
+万妮达Vinida Weng & Shane Lindstrom : 1
+万妮达Vinida Weng & 马伯骞Victor Ma : 1
+弹壳Danko & Jay Isaiah : 1
+弹壳Danko & 张艺兴 : 1
+弹壳Danko & Shane Lindstrom : 1
+弹壳Danko & 马伯骞Victor Ma : 1
+张艺兴 & 弹壳Danko : 1
+张艺兴 & Jay Isaiah : 1
+张艺兴 & Shane Lindstrom : 1
+张艺兴 & 马伯骞Victor Ma : 1
+马伯骞Victor Ma & 弹壳Danko : 1
+马伯骞Victor Ma & Jay Isaiah : 1
+马伯骞Victor Ma & 张艺兴 : 1
+马伯骞Victor Ma & Shane Lindstrom : 1
+D.N.A & 弹壳Danko : 1
+D.N.A & Jay Isaiah : 1
+D.N.A & 张艺兴 : 1
+D.N.A & Shane Lindstrom : 1
+D.N.A & 马伯骞Victor Ma : 1
+万妮达Vinida Weng & Benj Pasek : 1
+万妮达Vinida Weng & Justin Paul : 1
+袁娅维TIA RAY & Benj Pasek : 1
+袁娅维TIA RAY & Justin Paul : 1
+尚雯婕 & Benj Pasek : 1
+尚雯婕 & Justin Paul : 1
+妮可 & Benj Pasek : 1
+妮可 & Justin Paul : 1
+陈昊宇 & Benj Pasek : 1
+陈昊宇 & Justin Paul : 1
+万妮达Vinida Weng & Dracooo : 1
+Dracooo & 万妮达 : 1
+薛之谦 & 常石磊 : 1
+薛之谦 & 袁娅维TIA RAY : 1
+黄龄 & 袁娅维TIA RAY : 1
+万妮达Vinida Weng & 陈鹏杰 : 1
+宝石Gem & 陈鹏杰 : 1
+王以太 & 陈鹏杰 : 1
+那吾克热-NW & 陈鹏杰 : 1
+黄龄 & 栾卓忻 : 1
+黄龄 & 任子墨 : 1
+ONER & 任子墨 : 1
+黄龄 & 文驰Vinchi : 1
+黄龄 & 乐金震 : 1
+黄龄 & 家浚 : 1
+陆政廷Lil Jet & 乐金震 : 1
+陆政廷Lil Jet & 家浚 : 1
+黄龄 & 高铭 : 1
+黄龄 & T : 1
+黄龄 & 李建衡 : 1
+希林娜依高 & 李建衡 : 1
+黄龄 & 孟楠 : 1
+周兴哲 & 萧煌奇 : 1
+黄龄 & 萧煌奇 : 1
+黄龄 & 陈褚骏 : 1
+黄龄 & 银临 : 1
+梦幻西游 & 银临 : 1
+庾澄庆 & 许哲珮 : 1
+黄龄 & 许哲珮 : 1
+薛之谦 & 高阳Gary : 1
+黄龄 & 薛之谦 : 1
+黄龄 & 高阳Gary : 1
+黄龄 & 刘吉宁 : 1
+黄龄 & 魏诗泉 : 1
+黄龄 & 九渊 : 1
+黄龄 & 苏珂 : 1
+逆水寒 & 九渊 : 1
+逆水寒 & 苏珂 : 1
+雷火音频 & 九渊 : 1
+雷火音频 & 苏珂 : 1
+逆水长琴 & 九渊 : 1
+逆水长琴 & 苏珂 : 1
+黄龄 & 张亚东 : 1
+黄龄 & 刘凤瑶 : 1
+黄龄 & 阿乱 : 1
+Da Fresh大新鲜乐团 & 阿乱 : 1
+黄龄 & 阿船 : 1
+黄龄 & 杨秉音 : 1
+黄丽玲 & 侯德健 : 1
+颜人中 & 侯德健 : 1
+王赫野 & 侯德健 : 1
+周兴哲 & 侯德健 : 1
+庾澄庆 & 侯德健 : 1
+汪苏泷 & 侯德健 : 1
+苏有朋 & 侯德健 : 1
+黄龄 & 侯德健 : 1
+林宥嘉 & 侯德健 : 1
+李佳薇 & 侯德健 : 1
+黄霄雲 & 侯德健 : 1
+何炅 & 侯德健 : 1
+沈梦辰 & 侯德健 : 1
+李莎旻子 & 侯德健 : 1
+未知歌手 & 侯德健 : 1
+欧阳靖 & 侯德健 : 1
+欧阳娜娜 & 侯德健 : 1
+徐子未 & 侯德健 : 1
+王赫野 & David Usher : 1
+王赫野 & Jeff Pearce : 1
+黄龄 & David Usher : 1
+黄龄 & Jeff Pearce : 1
+黄丽玲 & 陈建骐 : 1
+黄龄 & 陈建骐 : 1
+李佳薇 & 陈建骐 : 1
+洛天依 & 路明熹 : 1
+未知歌手 & 路明熹 : 1
+洛天依 & 长长长安pwp : 1
+未知歌手 & 长长长安pwp : 1
+洛天依 & 乌龟Sui : 1
+亚小琨 & 乌龟Sui : 1
+洛天依 & 直到凌晨也无法安眠 : 1
+直到凌晨也无法安眠。 & 直到凌晨也无法安眠 : 1
+洛天依 & 无 : 1
+望月_watch & 无 : 1
+洛天依 & 4st : 1
+乐正绫 & MOCKER44. : 1
+洛天依 & J_2C : 1
+洛天依 & 路灯 : 1
+路灯 & J_2C : 1
+J_2C & 路灯 : 1
+薛钦 & WOVOP : 1
+洛天依 & 桑拿猫黑糖 : 1
+洛天依 & 酷丘 : 1
+洛天依 & Z新豪 : 1
+乐正绫 & Z新豪 : 1
+洛天依 & 天心 : 1
+洛天依 & sign crushes motorist : 1
+洛天依 & Liam Mc Cay : 1
+未知歌手 & sign crushes motorist : 1
+未知歌手 & Liam Mc Cay : 1
+SER & sign crushes motorist : 1
+SER & Liam Mc Cay : 1
+洛天依 & 的确如此如确的 : 1
+洛天依 & 娅娅酱 : 1
+洛天依 & Chickwarp : 1
+洛天依 & LOMML : 1
+洛天依 & KBShinya : 1
+SADRECORDS & MOCKER44. : 1
+CTY2P & MOCKER44. : 1
+洛天依 & 胡多多 : 1
+洛天依 & 胡思乱想P : 1
+凌尘_P & 胡思乱想P : 1
+洛天依 & 夜踊Yoodori : 1
+洛天依 & 阿良良木健 : 1
+梁咏琪 & 罗俊霖 : 1
+梁咏琪 & 阿沁 : 1
+梁咏琪 & 李宗盛 : 1
+梁咏琪 & 陈小霞 : 1
+梁咏琪 & 周杰伦 : 1
+梁咏琪 & 简胜 : 1
+梁咏琪 & 袁惟仁 : 1
+梁咏琪 & 陈光荣 : 1
+梁咏琪 & Randy Sparks : 1
+梁咏琪 & 樊冲 : 1
+梁咏琪 & 汪苏泷 : 1
+于文文 & 汪苏泷 : 1
+梁咏琪 & 林一峰 : 1
+梁咏琪 & 焦迈奇 : 1
+陈立农 & 焦迈奇 : 1
+梁咏琪 & 伍家辉 : 1
+梁咏琪 & 彭海桐 : 1
+梁咏琪 & 黄丹仪 : 1
+梁咏琪 & 林迈可 : 1
+梁咏琪 & 木村充利 : 1
+张惠妹 & 梁思桦 : 1
+梁咏琪 & 王菀之 : 1
+张惠妹 & 张宇 : 1
+梁咏琪 & 伦永亮 : 1
+张惠妹 & 周杰伦 : 1
+张惠妹 & 刘志宏 : 1
+张惠妹 & 许华强 : 1
+张惠妹 & 丁于 : 1
+孙楠 & 丁于 : 1
+陈慧琳 & 丁于 : 1
+古淖文 & 丁于 : 1
+张惠妹 & 熊美玲 : 1
+张惠妹 & Martin Tang : 1
+张惠妹 & 阿怪 : 1
+张惠妹 & 陈达伟 : 1
+张惠妹 & 徐佳莹 : 1
+张惠妹 & 阿弟仔 : 1
+张惠妹 & 宋念宇 : 1
+张惠妹 & Chang Hui Mei : 1
+张惠妹 & Shih Li : 1
+张惠妹 & Shawn尚融 : 1
+张惠妹 & 吕尚霖 : 1
+张惠妹 & 雅妮 : 1
+张惠妹 & 司徒明 : 1
+张惠妹 & 陈政卿 : 1
+张惠妹 & 陈建宁 : 1
+张惠妹 & 陈志远 : 1
+张惠妹 & 王寅 : 1
+张惠妹 & 黄舟 : 1
+蛋堡 & 王寅 : 1
+蛋堡 & 黄舟 : 1
+孙燕姿 & 林俊杰 : 1
+孙燕姿 & Won Tae Yeon : 1
+孙燕姿 & 赵奎满 : 1
+张惠妹 & 林一峰 : 1
+张惠妹 & 李伟菘 : 1
+张惠妹 & 彭学斌 : 1
+张惠妹 & 李偲菘 : 1
+张惠妹 & 小安 : 1
+张惠妹 & 深白色二人组 : 1
+张惠妹 & 伍思凯 : 1
+张惠妹 & Yang Yang : 1
+张惠妹 & 蔡健雅 : 1
+张惠妹 & 易桀齐 : 1
+张惠妹 & 伍冠谚 : 1
+李佳薇 & 应晓璃 : 1
+李佳薇 & 彭学斌 : 1
+李佳薇 & 陈颖见 : 1
+徐子未 & 陈颖见 : 1
+李佳薇 & AGA : 1
+李佳薇 & 王力宏 : 1
+李佳薇 & 钟婉芸 : 1
+李佳薇 & 马奕强 : 1
+李佳薇 & 曹格 : 1
+李佳薇 & 幂雅 : 1
+李佳薇 & 季忠平 : 1
+周兴哲 & 蔡健雅 : 1
+李佳薇 & 蔡健雅 : 1
+李佳薇 & 李汉文 : 1
+Mike 曾比特 & 李汉文 : 1
+王赫野 & 冷碗碗 : 1
+李佳薇 & 冷碗碗 : 1
+李佳薇 & 陈佳明 : 1
+张栋梁 & 陈佳明 : 1
+李佳薇 & 刘吉宁 : 1
+黄丽玲 & 胡彦斌 : 1
+李佳薇 & 胡彦斌 : 1
+黄丽玲 & 张雨生 : 1
+李佳薇 & 张雨生 : 1
+李佳薇 & 萧煌奇 : 1
+李佳薇 & 匡耿 : 1
+李佳薇 & 欧阳江岸 : 1
+李佳薇 & 李伟菘 : 1
+黄丽玲 & 张震岳 : 1
+黄龄 & 张震岳 : 1
+李佳薇 & 张震岳 : 1
+黄霄雲 & 张震岳 : 1
+孙楠 & 包小松 : 1
+李佳薇 & 包小松 : 1
+李佳薇 & 林俊杰 : 1
+杨宗纬 & 曲世聪 : 1
+李佳薇 & 曲世聪 : 1
+陈昊宇 & 曲世聪 : 1
+胡夏 & 曲世聪 : 1
+刘明湘 & 曲世聪 : 1
+李佳薇 & Keith Stuart : 1
+李佳薇 & 姜楠 : 1
+李佳薇 & 陈恬 : 1
+黄丽玲 & 李正帆 : 1
+颜人中 & 李正帆 : 1
+王赫野 & 李正帆 : 1
+周兴哲 & 李正帆 : 1
+孙楠 & 李正帆 : 1
+庾澄庆 & 李正帆 : 1
+那英 & 李正帆 : 1
+汪苏泷 & 李正帆 : 1
+苏有朋 & 李正帆 : 1
+黄龄 & 李正帆 : 1
+林宥嘉 & 李正帆 : 1
+李佳薇 & 李正帆 : 1
+黄霄雲 & 李正帆 : 1
+何炅 & 李正帆 : 1
+沈梦辰 & 李正帆 : 1
+李佳薇 & 2WEI : 1
+网易阴阳师手游 & 2WEI : 1
+李佳薇 & 1AN孙毅然 : 1
+李佳薇 & 邢树杰 : 1
+王弦 & 邢树杰 : 1
+苏有朋 & 陶喆 : 1
+李佳薇 & 陶喆 : 1
+李佳薇 & 王艳薇 : 1
+黄龄 & 李偲菘 : 1
+颜人中 & 罗大佑 : 1
+王赫野 & 罗大佑 : 1
+庾澄庆 & 罗大佑 : 1
+苏有朋 & 罗大佑 : 1
+李佳薇 & 罗大佑 : 1
+范玮琪 & 朴树 : 1
+范玮琪 & 金志文 : 1
+李小冉 & 金志文 : 1
+黄灿灿 & 金志文 : 1
+乌兰图雅 & 金志文 : 1
+王濛 & 金志文 : 1
+范玮琪 & 飞儿乐团 : 1
+徐洁儿 & 飞儿乐团 : 1
+范玮琪 & 温奕哲 : 1
+唐艺昕 & 温奕哲 : 1
+范玮琪 & 黄义达 : 1
+MC HotDog 热狗 & 黄义达 : 1
+范玮琪 & 方炯镔 : 1
+范玮琪 & 林言祁 : 1
+何宣林 & 林言祁 : 1
+叶一茜 & 林言祁 : 1
+侯宇 & 林言祁 : 1
+范玮琪 & 伍思凯 : 1
+范玮琪 & 朱登煜 : 1
+范玮琪 & 李偲菘 : 1
+孙怡 & 李偲菘 : 1
+江语晨 & 李偲菘 : 1
+唐艺昕 & 李偲菘 : 1
+范玮琪 & 徐婕儿 : 1
+范玮琪 & 陈晓娟 : 1
+范玮琪 & 怪兽 : 1
+孙怡 & 怪兽 : 1
+江语晨 & 怪兽 : 1
+叶一茜 & 怪兽 : 1
+范玮琪 & 宋念宇 : 1
+范玮琪 & 任书怀 : 1
+范玮琪 & 黄丹仪 : 1
+杨丞琳 & 黄丹仪 : 1
+范玮琪 & 曾静玟 : 1
+范玮琪 & 陈伟 : 1
+范玮琪 & 陈国华 : 1
+胡维纳 & 陈国华 : 1
+范玮琪 & J.Y. Park : 1
+范玮琪 & 李宗盛 : 1
+光良 & 潘协庆 : 1
+范玮琪 & 彭学斌 : 1
+洛天依Official & 银临 : 1
+洛天依Official & 酷丘 : 1
+言和 & 酷丘 : 1
+忘川风华录 & 酷丘 : 1
+洛天依Official & 西门振 : 1
+乐正绫 & 西门振 : 1
+言和 & 西门振 : 1
+洛天依Official & DELA : 1
+乐正绫 & DELA : 1
+言和 & DELA : 1
+洛天依Official & 许嵩 : 1
+洛天依Official & 付尧 : 1
+Newbiao好梦一场 & 付尧 : 1
+星尘infinity & 付尧 : 1
+洛天依Official & 兰音Reine : 1
+乐正绫 & 兰音Reine : 1
+哔哩哔哩拜年纪 & 兰音Reine : 1
+裘丹莉 & 兰音Reine : 1
+洛天依Official & 方依礼 : 1
+洛天依Official & 盏月陆离 : 1
+乐正绫 & 盏月陆离 : 1
+洛天依Official & 苏逸_Suyi : 1
+洛天依Official & Soda纯白 : 1
+乐正绫 & Soda纯白 : 1
+洛天依Official & 刘兆伦 : 1
+洛天依Official & 丁嘉昱 : 1
+洛天依Official & 俞佳乐 : 1
+洛天依Official & 胡多多 : 1
+洛天依Official & 邓强中 : 1
+苏运莹 & 五月天 阿信 : 1
+苏运莹 & 覃桢 : 1
+洛天依Official & 鸟爷ToriSama : 1
+苏运莹 & 高姗 : 1
+苏运莹 & 查航 : 1
+苏运莹 & 刘兆伦 : 1
+苏运莹 & 赵兆 : 1
+苏运莹 & 蜷花 : 1
+苏运莹 & 乌龟Sui : 1
+苏运莹 & 玉城千春 : 1
+苏运莹 & 马敬 : 1
+曹格 & 陈心陶 : 1
+曹格 & 董赫男 : 1
+苏运莹 & 陈心陶 : 1
+苏运莹 & 董赫男 : 1
+薛之谦 & 陈心陶 : 1
+薛之谦 & 董赫男 : 1
+苏运莹 & Chol Gyu Man : 1
+颜人中 & Chol Gyu Man : 1
+张含韵 & Chol Gyu Man : 1
+苏运莹 & 赵倘若 : 1
+苏运莹 & 岑宁儿 : 1
+苏运莹 & 艾怡良 : 1
+苏运莹 & 荒井十一 : 1
+岑宁儿 & 艾怡良 : 1
+岑宁儿 & 苏运莹 : 1
+岑宁儿 & 荒井十一 : 1
+艾怡良 & 岑宁儿 : 1
+艾怡良 & 苏运莹 : 1
+艾怡良 & 荒井十一 : 1
+孙盛希 & 罗大佑 : 1
+苏运莹 & 罗大佑 : 1
+平安 & 罗大佑 : 1
+宋秉洋 & 罗大佑 : 1
+苟瀚中 & 罗大佑 : 1
+李剑青 & 罗大佑 : 1
+冯提莫 & 罗大佑 : 1
+沙楠杰 & 罗大佑 : 1
+吴翊之 & 罗大佑 : 1
+苏运莹 & 楊格 : 1
+苏运莹 & 钟婉芸 : 1
+苏运莹 & 魏楠 : 1
+江美琪 & 楊格 : 1
+江美琪 & 钟婉芸 : 1
+江美琪 & 魏楠 : 1
+黄绮珊 & 楊格 : 1
+黄绮珊 & 钟婉芸 : 1
+黄绮珊 & 魏楠 : 1
+未知歌手 & 楊格 : 1
+未知歌手 & 钟婉芸 : 1
+未知歌手 & 魏楠 : 1
+林奕匡 & 楊格 : 1
+林奕匡 & 钟婉芸 : 1
+林奕匡 & 魏楠 : 1
+周汤豪 & 楊格 : 1
+周汤豪 & 钟婉芸 : 1
+周汤豪 & 魏楠 : 1
+戴爱玲 & 楊格 : 1
+戴爱玲 & 钟婉芸 : 1
+戴爱玲 & 魏楠 : 1
+隔壁团乐队 & 楊格 : 1
+隔壁团乐队 & 钟婉芸 : 1
+隔壁团乐队 & 魏楠 : 1
+冰块先生 & 楊格 : 1
+冰块先生 & 钟婉芸 : 1
+冰块先生 & 魏楠 : 1
+欧阳娜娜 & 楊格 : 1
+欧阳娜娜 & 钟婉芸 : 1
+欧阳娜娜 & 魏楠 : 1
+陈明憙Jocelyn & 楊格 : 1
+陈明憙Jocelyn & 钟婉芸 : 1
+陈明憙Jocelyn & 魏楠 : 1
+许钧 & 楊格 : 1
+许钧 & 钟婉芸 : 1
+许钧 & 魏楠 : 1
+蔡佩轩 & 楊格 : 1
+蔡佩轩 & 钟婉芸 : 1
+蔡佩轩 & 魏楠 : 1
+泳恩Joannne & 楊格 : 1
+泳恩Joannne & 钟婉芸 : 1
+泳恩Joannne & 魏楠 : 1
+CORE ONE & 楊格 : 1
+CORE ONE & 钟婉芸 : 1
+CORE ONE & 魏楠 : 1
+黄妍 & 楊格 : 1
+黄妍 & 钟婉芸 : 1
+黄妍 & 魏楠 : 1
+郑茵声 & 楊格 : 1
+郑茵声 & 钟婉芸 : 1
+郑茵声 & 魏楠 : 1
+邓典 & 楊格 : 1
+邓典 & 钟婉芸 : 1
+邓典 & 魏楠 : 1
+田燚 & 楊格 : 1
+田燚 & 钟婉芸 : 1
+田燚 & 魏楠 : 1
+杨尚融 & 楊格 : 1
+杨尚融 & 钟婉芸 : 1
+杨尚融 & 魏楠 : 1
+郑沐晴 & 楊格 : 1
+郑沐晴 & 钟婉芸 : 1
+郑沐晴 & 魏楠 : 1
+陈瑾缃 & 楊格 : 1
+陈瑾缃 & 钟婉芸 : 1
+陈瑾缃 & 魏楠 : 1
+苏运莹 & 宫阁 : 1
+宫阁 & 苏运莹 : 1
+韩红 & 傅庚辰 : 1
+苏运莹 & 黎栩晴 : 1
+苏运莹 & nekoy : 1
+苏运莹 & 袁景翔 : 1
+苏运莹 & JIMBo : 1
+韩红 & 陈小霞 : 1
+韩红 & 胡士平 : 1
+韩红 & 王锡仁 : 1
+韩红 & 张千一 : 1
+韩红 & 曹进 : 1
+韩红 & 因幡晃 : 1
+韩红 & 刘欢 : 1
+黄绮珊 & 刘欢 : 1
+韩红 & 王酩 : 1
+韩红 & John Pond Ordway : 1
+韩红 & G-DRAGON : 1
+韩红 & P.K : 1
+韩红 & DEE.P : 1
+韩红 & 黄超 : 1
+韩红 & 谭健常 : 1
+韩红 & 马倬 : 1
+韩红 & 朱践耳 : 1
+韩红 & 新韻傳音 : 1
+韩红 & 秦咏诚 : 1
+陈楚生 & 芹泽广明 : 1
+陈楚生 & 刘志宏 : 1
+陈楚生 & 臧天朔 : 1
+韩红 & 芹泽广明 : 1
+韩红 & 刘志宏 : 1
+韩红 & 臧天朔 : 1
+郁可唯 & 芹泽广明 : 1
+郁可唯 & 刘志宏 : 1
+郁可唯 & 臧天朔 : 1
+王心凌 & 芹泽广明 : 1
+王心凌 & 刘志宏 : 1
+王心凌 & 臧天朔 : 1
+孙楠 & 芹泽广明 : 1
+孙楠 & 刘志宏 : 1
+孙楠 & 臧天朔 : 1
+汪苏泷 & 芹泽广明 : 1
+汪苏泷 & 刘志宏 : 1
+汪苏泷 & 臧天朔 : 1
+胡彦斌 & 芹泽广明 : 1
+胡彦斌 & 刘志宏 : 1
+胡彦斌 & 臧天朔 : 1
+谭维维 & 芹泽广明 : 1
+谭维维 & 刘志宏 : 1
+谭维维 & 臧天朔 : 1
+黄绮珊 & 芹泽广明 : 1
+黄绮珊 & 刘志宏 : 1
+黄绮珊 & 臧天朔 : 1
+古巨基 & 芹泽广明 : 1
+古巨基 & 刘志宏 : 1
+古巨基 & 臧天朔 : 1
+周深 & 芹泽广明 : 1
+周深 & 刘志宏 : 1
+周深 & 臧天朔 : 1
+韩红 & 刘炽 : 1
+韩红 & 玛西巴图 : 1
+韩红 & Akiyama Sayuri : 1
+韩红 & 郑钧 : 1
+韩红 & 涂惠元 : 1
+韩红 & 王祖皆 : 1
+韩红 & 张卓娅 : 1
+韩红 & 龚耀年 : 1
+陈楚生 & 臧云飞 : 1
+韩红 & 臧云飞 : 1
+郁可唯 & 臧云飞 : 1
+孙楠 & 臧云飞 : 1
+汪苏泷 & 臧云飞 : 1
+何炅 & 臧云飞 : 1
+李莎旻子 & 臧云飞 : 1
+胡彦斌 & 臧云飞 : 1
+谭维维 & 臧云飞 : 1
+黄绮珊 & 臧云飞 : 1
+古巨基 & 臧云飞 : 1
+周深 & 臧云飞 : 1
+宋亚轩 & 臧云飞 : 1
+李斯丹妮 & 臧云飞 : 1
+袁咏琳 & 臧云飞 : 1
+许靖韵 & 臧云飞 : 1
+魏巡 & 臧云飞 : 1
+王靖雯 & 臧云飞 : 1
+韩红 & 李彤 : 1
+孙楠 & 李彤 : 1
+陶喆 & 李彤 : 1
+萧敬腾 & 李彤 : 1
+黄绮珊 & 李彤 : 1
+韩红 & 李泰祥 : 1
+刘惜君 & 布志纶 : 1
+刘惜君 & 陈奂仁 : 1
+刘惜君 & 许冠杰 : 1
+陈奂仁 & 布志纶 : 1
+陈奂仁 & 许冠杰 : 1
+刘惜君 & 罗锟 : 1
+刘惜君 & 唐汉霄 : 1
+刘惜君 & 李荣浩 : 1
+未知歌手 & 黄家驹 : 1
+刘惜君 & 三木 : 1
+刘惜君 & 大野克夫 : 1
+刘惜君 & 中島 : 1
+刘惜君 & 二白 : 1
+刘惜君 & 刘涛 : 1
+王赫野 & 二白 : 1
+刘惜君 & 小骏 : 1
+杨千嬅 & Vincent Chow : 1
+杨千嬅 & Anfernee Cheung : 1
+刘惜君 & Vincent Chow : 1
+刘惜君 & Anfernee Cheung : 1
+刘惜君 & 马良 : 1
+杨千嬅 & 陈光荣 : 1
+刘惜君 & 陈光荣 : 1
+周笔畅 & 陈光荣 : 1
+安崎 & 陈光荣 : 1
+叶蒨文 & 陈光荣 : 1
+炎明熹 & 陈光荣 : 1
+刘惜君 & 袁惟仁 : 1
+刘惜君 & Listen Dream : 1
+刘惜君 & Leslie Mandoki : 1
+刘惜君 & Laszlo Bencker : 1
+林子祥 & 马饲野康二 : 1
+林子祥 & 阿久悠 : 1
+李克勤 & 马饲野康二 : 1
+李克勤 & 阿久悠 : 1
+杨千嬅 & 马饲野康二 : 1
+杨千嬅 & 阿久悠 : 1
+单依纯 & 马饲野康二 : 1
+单依纯 & 阿久悠 : 1
+毛不易 & 马饲野康二 : 1
+毛不易 & 阿久悠 : 1
+刘惜君 & 马饲野康二 : 1
+刘惜君 & 阿久悠 : 1
+李玟 & 马饲野康二 : 1
+李玟 & 阿久悠 : 1
+周笔畅 & 马饲野康二 : 1
+周笔畅 & 阿久悠 : 1
+李健 & 马饲野康二 : 1
+李健 & 阿久悠 : 1
+安崎 & 马饲野康二 : 1
+安崎 & 阿久悠 : 1
+林晓峰 & 马饲野康二 : 1
+林晓峰 & 阿久悠 : 1
+叶蒨文 & 马饲野康二 : 1
+叶蒨文 & 阿久悠 : 1
+马赛克 & 马饲野康二 : 1
+马赛克 & 阿久悠 : 1
+魔动闪霸 & 马饲野康二 : 1
+魔动闪霸 & 阿久悠 : 1
+Mike 曾比特 & 马饲野康二 : 1
+Mike 曾比特 & 阿久悠 : 1
+炎明熹 & 马饲野康二 : 1
+炎明熹 & 阿久悠 : 1
+单依纯 & 胡伟立 : 1
+刘惜君 & 胡伟立 : 1
+刘惜君 & 黄霑 : 1
+刘惜君 & 林立峰 LamLupFung : 1
+刘惜君 & 吴姝霆 : 1
+林子祥 & 秦咏诚 : 1
+李克勤 & 秦咏诚 : 1
+杨千嬅 & 秦咏诚 : 1
+单依纯 & 秦咏诚 : 1
+毛不易 & 秦咏诚 : 1
+刘惜君 & 秦咏诚 : 1
+李玟 & 秦咏诚 : 1
+周笔畅 & 秦咏诚 : 1
+李健 & 秦咏诚 : 1
+安崎 & 秦咏诚 : 1
+林晓峰 & 秦咏诚 : 1
+叶蒨文 & 秦咏诚 : 1
+马赛克 & 秦咏诚 : 1
+魔动闪霸 & 秦咏诚 : 1
+Mike 曾比特 & 秦咏诚 : 1
+炎明熹 & 秦咏诚 : 1
+刘惜君 & 姜铄波 : 1
+刘惜君 & 河合奈保子 : 1
+BENI & 河合奈保子 : 1
+林子祥 & 顾嘉辉 : 1
+李克勤 & 顾嘉辉 : 1
+杨千嬅 & 顾嘉辉 : 1
+单依纯 & 顾嘉辉 : 1
+毛不易 & 顾嘉辉 : 1
+刘惜君 & 顾嘉辉 : 1
+李玟 & 顾嘉辉 : 1
+何炅 & 顾嘉辉 : 1
+周笔畅 & 顾嘉辉 : 1
+李健 & 顾嘉辉 : 1
+安崎 & 顾嘉辉 : 1
+林晓峰 & 顾嘉辉 : 1
+未知歌手 & 顾嘉辉 : 1
+王祖蓝 & 顾嘉辉 : 1
+叶蒨文 & 顾嘉辉 : 1
+马赛克 & 顾嘉辉 : 1
+魔动闪霸 & 顾嘉辉 : 1
+Mike 曾比特 & 顾嘉辉 : 1
+炎明熹 & 顾嘉辉 : 1
+刘惜君 & 金大洲 : 1
+刘惜君 & 何诗蒙 : 1
+刘惜君 & 姚六一 : 1
+刘惜君 & 陆虎 : 1
+刘惜君 & 杜婧荧 : 1
+郁可唯 & 唐湘智 : 1
+郁可唯 & 郑楠 : 1
+林宥嘉 & 郑楠 : 1
+郁可唯 & 刘兆伦 : 1
+郁可唯 & 陈俊威 : 1
+郁可唯 & 許約永 : 1
+郁可唯 & F.I.R : 1
+F.I.R. & F.I.R : 1
+郁可唯 & 季忠平 : 1
+郁可唯 & 金大洲 : 1
+郁可唯 & 王雅君 : 1
+林凡 & 王雅君 : 1
+郁可唯 & 陶昌廷 : 1
+郁可唯 & 小柯 : 1
+郁可唯 & 楚明玉 : 1
+郁可唯 & 朱登煜 : 1
+NINEONE#乃万 & 朱登煜 : 1
+郁可唯 & 董冬冬 : 1
+张磊 & 董冬冬 : 1
+郁可唯 & 郑宇杰 : 1
+郁可唯 & 方大同 : 1
+炎明熹 & 方大同 : 1
+郁可唯 & 何家文 : 1
+孙怡 & NINEONE : 1
+阚清子 & NINEONE : 1
+吉克隽逸 & NINEONE : 1
+黄子弘凡 & NINEONE : 1
+王赫野 & NINEONE : 1
+郁可唯 & NINEONE : 1
+品冠 & NINEONE : 1
+温岚 & NINEONE : 1
+江美琪 & NINEONE : 1
+萧敬腾 & NINEONE : 1
+李小冉 & NINEONE : 1
+周深 & NINEONE : 1
+王勉 & NINEONE : 1
+尚雯婕 & NINEONE : 1
+郭采洁 & NINEONE : 1
+唐艺昕 & NINEONE : 1
+张慧雯 & NINEONE : 1
+弦子 & NINEONE : 1
+路滨琪 & NINEONE : 1
+蔡程昱 & NINEONE : 1
+安琥 & NINEONE : 1
+胡夏 & NINEONE : 1
+李治廷 & NINEONE : 1
+沙宝亮 & NINEONE : 1
+王祖蓝 & NINEONE : 1
+郑棋元 & NINEONE : 1
+阿朵 & NINEONE : 1
+白雪 & NINEONE : 1
+李慧珍 & NINEONE : 1
+吕薇 & NINEONE : 1
+韦唯 & NINEONE : 1
+周旋 & NINEONE : 1
+李晨 & NINEONE : 1
+王晰 & NINEONE : 1
+钟丽缇 & NINEONE : 1
+蔡敏music & NINEONE : 1
+于朦胧 & NINEONE : 1
+郭俊辰 & NINEONE : 1
+裘德 & NINEONE : 1
+吴宣仪 & NINEONE : 1
+张天爱 & NINEONE : 1
+张云龙 & NINEONE : 1
+刘雨昕XIN LIU & NINEONE : 1
+周洁琼 & NINEONE : 1
+杜江 & NINEONE : 1
+毛晓彤 & NINEONE : 1
+王鸥 & NINEONE : 1
+沈月 & NINEONE : 1
+马伯骞Victor Ma & NINEONE : 1
+范丞丞 & NINEONE : 1
+朱正廷 & NINEONE : 1
+毕雯珺 & NINEONE : 1
+钟楚曦 & NINEONE : 1
+张紫宁 & NINEONE : 1
+官鸿 & NINEONE : 1
+李汶翰 & NINEONE : 1
+段奥娟 & NINEONE : 1
+蒋依依 & NINEONE : 1
+海陆 & NINEONE : 1
+刘敏涛 & NINEONE : 1
+李亚男 & NINEONE : 1
+林哲宇 & NINEONE : 1
+赖美云 & NINEONE : 1
+梁洁 & NINEONE : 1
+井胧 & NINEONE : 1
+丁禹兮 & NINEONE : 1
+何昶希 & NINEONE : 1
+邵浩帆 & NINEONE : 1
+锤娜丽莎 & NINEONE : 1
+赵让 & NINEONE : 1
+姚琛 & NINEONE : 1
+王晨艺 & NINEONE : 1
+李振宁 & NINEONE : 1
+陈都灵 & NINEONE : 1
+陆柯燃 & NINEONE : 1
+张雨绮 & NINEONE : 1
+武大靖 & NINEONE : 1
+任胤蓬 & NINEONE : 1
+姚安娜 & NINEONE : 1
+马闻远 & NINEONE : 1
+炎明熹 & NINEONE : 1
+文淇 & NINEONE : 1
+陈贝儿 & NINEONE : 1
+薛明 & NINEONE : 1
+郁可唯 & 郭倍倍 : 1
+韦礼安 & 郭倍倍 : 1
+郁可唯 & 伍佰 : 1
+郁可唯 & 陈杰汉 : 1
+郁可唯 & 佳旺 : 1
+郁可唯 & 李智平 : 1
+郁可唯 & 罗旭阳 : 1
+弦子 & 罗旭阳 : 1
+郁可唯 & 秦秀乾 : 1
+孙楠 & 秦秀乾 : 1
+郁可唯 & 小虫 : 1
+郁可唯 & 李全 : 1
+黄霄雲 & 罗锟 : 1
+罗云熙 & 罗锟 : 1
+黄霄雲 & 钱雷 : 1
+谭咏麟 & 芹澤廣明 : 1
+钟镇涛 & 芹澤廣明 : 1
+郁可唯 & 芹澤廣明 : 1
+许茹芸 & 芹澤廣明 : 1
+林志炫 & 芹澤廣明 : 1
+张杰 & 芹澤廣明 : 1
+未知歌手 & 芹澤廣明 : 1
+凤凰传奇 & 芹澤廣明 : 1
+黄霄雲 & 阿沁 : 1
+黄霄雲 & Faye 詹雯婷 : 1
+黄霄雲 & 陈建宁 : 1
+黄霄雲 & 施牧辰 : 1
+黄霄雲 & 萨顶顶 : 1
+黄霄雲 & 黄枫宜 : 1
+黄霄雲 & 白羽淇 : 1
+黄霄雲 & 陈彤 : 1
+黄霄雲 & Alan Walker : 1
+黄霄雲 & CORSAK胡梦周 : 1
+黄霄雲 & Mood Melodies : 1
+黄霄雲 & Sander Meland : 1
+黄霄雲 & Fredrik Borch Olsen : 1
+黄霄雲 & Rosanna Ener : 1
+黄霄雲 & Roland Spreckley : 1
+黄霄雲 & John Murray : 1
+Alan Walker & CORSAK胡梦周 : 1
+Alan Walker & Mood Melodies : 1
+Alan Walker & Sander Meland : 1
+Alan Walker & Fredrik Borch Olsen : 1
+Alan Walker & Rosanna Ener : 1
+Alan Walker & Roland Spreckley : 1
+Alan Walker & John Murray : 1
+CORSAK胡梦周 & Alan Walker : 1
+CORSAK胡梦周 & Mood Melodies : 1
+CORSAK胡梦周 & Sander Meland : 1
+CORSAK胡梦周 & Fredrik Borch Olsen : 1
+CORSAK胡梦周 & Rosanna Ener : 1
+CORSAK胡梦周 & Roland Spreckley : 1
+CORSAK胡梦周 & John Murray : 1
+黄霄雲 & 林倛玉 : 1
+黄雅莉 & 林倛玉 : 1
+黄霄雲 & 臧传伟 : 1
+黄丽玲 & 飞儿乐团 : 1
+黄霄雲 & 飞儿乐团 : 1
+周兴哲 & 刘瑞琦 : 1
+黄霄雲 & 刘瑞琦 : 1
+黄霄雲 & 萧燃 : 1
+黄霄雲 & 方翔 : 1
+张远 & 方翔 : 1
+黄霄雲 & 李智平 : 1
+黄霄雲 & Swang多雷 : 1
+Swang多雷 & 黄霄雲 : 1
+黄霄雲 & 孙思达 : 1
+谭维维 & 段炼 : 1
+谭维维 & 刘凤瑶 : 1
+谭维维 & 张之瞳 : 1
+刘凤瑶 & 张之瞳 : 1
+黄霄雲 & 关大洲 : 1
+谭维维 & 张亦江 : 1
+谭维维 & 许嵩 : 1
+谭维维 & 王力宏 : 1
+谭维维 & 贺斌 : 1
+谭维维 & 李缤 : 1
+谭维维 & 魏雪漫 : 1
+金池 & 谭维维 : 1
+金池 & 魏雪漫 : 1
+魏雪漫 & 谭维维 : 1
+梁博 & 高晓松 : 1
+谭维维 & 高晓松 : 1
+谭维维 & 舒楠 : 1
+韩磊 & 舒楠 : 1
+谭维维 & 朱践耳 : 1
+才旦卓玛 & 朱践耳 : 1
+谭维维 & 刘洲 : 1
+谭维维 & 吴梦奇 : 1
+谭维维 & 陈韬亮 : 1
+白小白 & 陈韬亮 : 1
+谭维维 & 曹于漫 : 1
+周深 & 舟也 : 1
+容祖儿 & 郭峰 : 1
+陈楚生 & 郭峰 : 1
+郁可唯 & 郭峰 : 1
+王心凌 & 郭峰 : 1
+孙楠 & 郭峰 : 1
+汪苏泷 & 郭峰 : 1
+何炅 & 郭峰 : 1
+李莎旻子 & 郭峰 : 1
+胡彦斌 & 郭峰 : 1
+谭维维 & 郭峰 : 1
+黄绮珊 & 郭峰 : 1
+古巨基 & 郭峰 : 1
+周深 & 郭峰 : 1
+宋亚轩 & 郭峰 : 1
+韦礼安 & 郭峰 : 1
+谭维维 & 文颖秋 : 1
+逆水寒 & 文颖秋 : 1
+逆水长琴 & 文颖秋 : 1
+陈楚生 & 尧十三 : 1
+谭维维 & 尧十三 : 1
+谭维维 & 刘迦宁 : 1
+谭维维 & 苑迪萌 Dimeng Yuan : 1
+谭维维 & 刘77 : 1
+谭维维 & 旅行团乐队 : 1
+谭维维 & Daryl K 王凯玉 : 1
+陈奕迅 & 黄霑 : 1
+周杰伦 & 黄霑 : 1
+那英 & 黄霑 : 1
+刘欢 & 黄霑 : 1
+谭维维 & 三宝 : 1
+谭维维 & 赵雷 : 1
+谭维维 & 刘炽 : 1
+吕思清 & 刘炽 : 1
+陈萨 & 刘炽 : 1
+那英 & 蔡健雅 : 1
+那英 & 易桀齐 : 1
+那英 & 伍冠谚 : 1
+那英 & ASKA : 1
+那英 & 萧煌奇 : 1
+张杰 & 萧煌奇 : 1
+那英 & YT刘雨潼 : 1
+那英 & 肖白 : 1
+王菲 & 肖白 : 1
+那英 & 胡士平 : 1
+那英 & 王锡仁 : 1
+那英 & 郭顶 : 1
+Darren达布希勒图 & 郭顶 : 1
+那英 & 宋涛 : 1
+王菲 & 宋涛 : 1
+那英 & 李偲菘 : 1
+那英 & 徐光义 : 1
+那英 & 陈科妤 : 1
+那英 & 梁博 : 1
+叶炫清 & 梁博 : 1
+希林娜依高 & 梁博 : 1
+李雅leah & 梁博 : 1
+郭沁 & 梁博 : 1
+华晨宇 & 张彻 : 1
+那英 & 张彻 : 1
+艾薇 Ivy & 张彻 : 1
+那英 & 周杰伦 : 1
+那英 & 郭峰 : 1
+蔡国庆 & 郭峰 : 1
+高枫 & 郭峰 : 1
+韩磊 & 郭峰 : 1
+景岗山 & 郭峰 : 1
+刘欢 & 郭峰 : 1
+毛宁 & 郭峰 : 1
+孙浩 & 郭峰 : 1
+解晓东 & 郭峰 : 1
+伊扬 & 郭峰 : 1
+张伟进 & 郭峰 : 1
+成方圆 & 郭峰 : 1
+陈红 & 郭峰 : 1
+甘萍 & 郭峰 : 1
+杭天琪 & 郭峰 : 1
+林萍 & 郭峰 : 1
+瞿颖 & 郭峰 : 1
+孙悦 & 郭峰 : 1
+田震 & 郭峰 : 1
+韦唯 & 郭峰 : 1
+季红 & 郭峰 : 1
+红霞 & 郭峰 : 1
+那英 & ABBA : 1
+肖战 & ABBA : 1
+华晨宇 & 玉城千春 : 1
+那英 & 玉城千春 : 1
+陈卓璇 & 玉城千春 : 1
+魏如萱 & 玉城千春 : 1
+艾怡良 & 玉城千春 : 1
+马嘉祺 & 玉城千春 : 1
+坏特 ?te & 玉城千春 : 1
+全体观众 & 玉城千春 : 1
+华晨宇 & 阿牛 : 1
+那英 & 阿牛 : 1
+魏如萱 & 阿牛 : 1
+马嘉祺 & 阿牛 : 1
+周兴哲 & 艾怡良 : 1
+那英 & 艾怡良 : 1
+那英 & 陈光荣 : 1
+那英 & 陶喆 : 1
+坏特 ?te & 陶喆 : 1
+那英 & 刘青 : 1
+黄丽玲 & 叶佳修 : 1
+华晨宇 & 叶佳修 : 1
+那英 & 叶佳修 : 1
+齐豫 & 叶佳修 : 1
+魏如萱 & 叶佳修 : 1
+艾怡良 & 叶佳修 : 1
+马嘉祺 & 叶佳修 : 1
+艾薇 Ivy & 叶佳修 : 1
+周菲戈 & 叶佳修 : 1
+全体观众 & 叶佳修 : 1
+那英 & 孙川 : 1
+那英 & 林俊杰 : 1
+肖战 & 林俊杰 : 1
+那英 & 汪峰 : 1
+那英 & 崔迪 : 1
+那英 & John Laudon : 1
+窦靖童 & Perrier : 1
+窦靖童 & Francois Bernheim : 1
+窦靖童 & Elisabeth Depardieu : 1
+窦靖童 & Bernard Estardy : 1
+Mike 曾比特 & Perrier : 1
+Mike 曾比特 & Francois Bernheim : 1
+Mike 曾比特 & Elisabeth Depardieu : 1
+Mike 曾比特 & Bernard Estardy : 1
+窦靖童 & 王治平 : 1
+窦靖童 & 伍思凯 : 1
+窦靖童 & Billie Eilish : 1
+窦靖童 & Finneas O : 1
+肖骏 & Billie Eilish : 1
+肖骏 & Finneas O : 1
+安雨 & Billie Eilish : 1
+安雨 & Finneas O : 1
+INNOUT & Billie Eilish : 1
+INNOUT & Finneas O : 1
+窦靖童 & 小虫 : 1
+窦靖童 & 金木义则 : 1
+窦靖童 & 曾宇 : 1
+火星电台 & 曾宇 : 1
+窦靖童 & 裘德 : 1
+窦靖童 & 九维 : 1
+九维 & 窦靖童 : 1
+魏如萱 & 窦靖童 : 1
+魏如萱 & Ernest Choi : 1
+窦靖童 & Heather Porcaro : 1
+魏如萱 & 范晓萱 : 1
+窦靖童 & 肖骏 : 1
+窦靖童 & VaVa娃娃 : 1
+窦靖童 & Jonathan Christopher Shave : 1
+茶理理 & 蔡近翰Zoe : 1
+Hanser & 蔡近翰Zoe : 1
+TetraCalyx & 蔡近翰Zoe : 1
+三Z-STUDIO & 于梓贝 : 1
+HOYO-MiX & 于梓贝 : 1
+HOYO-MiX & 宫奇Gon : 1
+Jonathan Steingard & 宫奇Gon : 1
+AURORA & 李洋 Yang Lee : 1
+谭晶 & 王可鑫 Eli.W : 1
+Ashley Alisha & 周斌 : 1
+HOYO-MiX & 陈致逸Yu-Peng Chen : 1
+Reol & 崔瀚普TSAR : 1
+魏晨 & 王可鑫 Eli.W : 1
+Nea & 王可鑫 Eli.W : 1
+优素Yusuf & 林一凡Fan : 1
+阿云嘎 & 林一凡Fan : 1
+Anthony Lynch & 林一凡Fan : 1
+茶理理 & 王可鑫 Eli.W : 1
+三Z-STUDIO & 杨武韬 YANG WUTAO : 1
+HOYO-MiX & 杨武韬 YANG WUTAO : 1
+三Z-STUDIO & 时空储蓄罐 : 1
+HOYO-MiX & 时空储蓄罐 : 1
+于梓贝 & 时空储蓄罐 : 1
+Alaina Cross & 周斌 : 1
+HOYO-MiX & 尤裴佳 Peijia You : 1
+HOYO-MiX & 姜鹏Silver.J : 1
+宴宁 & 姜鹏Silver.J : 1
+HOYO-MiX & 车子玉 Ziyu Che : 1
+Aimer & 车子玉 Ziyu Che : 1
+HOYO-MiX & Antonio Vivaldi : 1
+三Z-STUDIO & YMIR : 1
+HOYO-MiX & YMIR : 1
+Hanser & 杨武韬 : 1
+真栗 & 李洋 Yang Lee : 1
+黄美珍 & 雷声 : 1
+苏诗丁 & 杨武韬 : 1
+阿兰 & 杨武韬 : 1
+三Z-STUDIO & 罗静怡 : 1
+三Z-STUDIO & 蔡一琛 : 1
+HOYO-MiX & 罗静怡 : 1
+HOYO-MiX & 蔡一琛 : 1
+宫阁 & 罗静怡 : 1
+宫阁 & 蔡一琛 : 1
+金玟岐 & 杨武韬 : 1
+三Z-STUDIO & Taiga : 1
+HOYO-MiX & Taiga : 1
+三Z-STUDIO & 王铭基 : 1
+HOYO-MiX & 王铭基 : 1
+F.L.O.A.T (白羽） & 祝文越 : 1
+塞壬唱片-MSR & 祝文越 : 1
+VANTA万塔 & 祝文越 : 1
+二宮愛 & DJ OKAWARI : 1
+解伟苓 & 十音 : 1
+塞壬唱片-MSR & 十音 : 1
+宋柏 & 十音 : 1
+塞壬唱片-MSR & 桃子假象 : 1
+Machico & KOTONOHOUSE : 1
+塞壬唱片-MSR & KOTONOHOUSE : 1
+RANASOL & KOTONOHOUSE : 1
+塞壬唱片-MSR & 松林凜 : 1
+ユリカリパブリック & 松林凜 : 1
+塞壬唱片-MSR & Ken Sato : 1
+塞壬唱片-MSR & George Nishigomi : 1
+塞壬唱片-MSR & Tomo Suzuki : 1
+WS MUSIC & Ken Sato : 1
+WS MUSIC & George Nishigomi : 1
+WS MUSIC & Tomo Suzuki : 1
+Forts & Erik Castro : 1
+MONKEY MAJIK & Maynard : 1
+MONKEY MAJIK & Blaise : 1
+塞壬唱片-MSR & Maynard : 1
+塞壬唱片-MSR & Blaise : 1
+澤田かおり & DJ OKAWARI : 1
+Elvin Shen & David Lin : 1
+ZT & David Lin : 1
+塞壬唱片-MSR & Crywolf : 1
+Martin Gonzalez & Elizabeth Hull : 1
+塞壬唱片-MSR & Elizabeth Hull : 1
+塞壬唱片-MSR & Martin Gonzalez : 1
+Elizabeth Hull & Martin Gonzalez : 1
+塞壬唱片-MSR & Kirara Magic : 1
+陈雪燃 & Obadiah Brown-Beach : 1
+塞壬唱片-MSR & 陈雪燃 : 1
+塞壬唱片-MSR & Obadiah Brown-Beach : 1
+Alaina Cross & 塞壬唱片-MSR : 1
+塞壬唱片-MSR & 大濱健悟 : 1
+理名 & 大濱健悟 : 1
+AIYUE & 大濱健悟 : 1
+Aimer & 吉田育子 : 1
+塞壬唱片-MSR & 吉田育子 : 1
+塞壬唱片-MSR & 横山克 : 1
+塞壬唱片-MSR & Diggy-MO : 1
+Ave Mujica & Diggy-MO : 1
+Echos & Alec Justice : 1
+Echos & Alexandra Norton : 1
+塞壬唱片-MSR & Alec Justice : 1
+塞壬唱片-MSR & Alexandra Norton : 1
+Alec Justice & Alexandra Norton : 1
+タイナカ彩智 & 山川恵津子 : 1
+塞壬唱片-MSR & 山川恵津子 : 1
+BANKS & Jillian Banks : 1
+BANKS & Tyrone Carter : 1
+BANKS & Christopher Taylor : 1
+塞壬唱片-MSR & Jillian Banks : 1
+塞壬唱片-MSR & Tyrone Carter : 1
+塞壬唱片-MSR & Christopher Taylor : 1
+X. ARI & Erik Castro : 1
+塞壬唱片-MSR & Eagle Wei : 1
+塞壬唱片-MSR & N2V : 1
+Substantial & Jason Walsh : 1
+X. ARI & Jason Walsh : 1
+塞壬唱片-MSR & Jason Walsh : 1
+塞壬唱片-MSR & Miaa : 1
+塞壬唱片-MSR & 封炫宇 : 1
+VISION SOUND & 封炫宇 : 1
+Casey Lee Williams & Adam Gubman : 1
+Bailey Jehl & 星团音乐 : 1
+塞壬唱片-MSR & 星团音乐 : 1
+VAS ANGELOV & 星团音乐 : 1
+Stephanie & DJ OKAWARI : 1
+塞壬唱片-MSR & MeLo_绿萝组 : 1
+金小鱼 & Erik Castro : 1
+塞壬唱片-MSR & BaoUner : 1
+Abdiel Gonzalez & Adam Gubman : 1
+Telle Smith & Adam Gubman : 1
+Sage X Price & Adam Gubman : 1
+Return to Sender & 马小雨 : 1
+Return to Sender & 陈思扬 : 1
+塞壬唱片-MSR & 马小雨 : 1
+塞壬唱片-MSR & 陈思扬 : 1
+X. ARI & David Westbom : 1
+Substantial & David Lin : 1
+X. ARI & David Lin : 1
+塞壬唱片-MSR & 柳川和樹 : 1
+未知歌手 & Alec Justice : 1
+Keep Close & Alec Justice : 1
+塞壬唱片-MSR & 秋田真典 : 1
+普阿山 & HeartStrings : 1
+8:48 & 早餐 : 1
+铁痕电台-MSR & 早餐 : 1
+铁痕电台-MSR & SKa2or : 1
+铁痕电台-MSR & CLSTR 56 : 1
+Feryquitous & HeartStrings : 1
+铁痕电台-MSR & David Lin : 1
+铁痕电台-MSR & Erik Castro : 1
+Aurora Sky & VISION SOUND : 1
+Aurora Sky & Salty Salt : 1
+Salty Salt & Aurora Sky : 1
+VISION SOUND & Aurora Sky : 1
+铁痕电台-MSR & 动点 : 1
+Gold3n Ord3r & Alec Justice : 1
+10/KNIVES & Alec Justice : 1
+尼玛雍珠 & EGGY : 1
+Anti-General & 俞冰 : 1
+铁痕电台-MSR & 俞冰 : 1
+chengcheng & Maria Naylon : 1
+铁痕电台-MSR & chengcheng : 1
+铁痕电台-MSR & Maria Naylon : 1
+Maria Naylon & chengcheng : 1
+原田萌喜 & MSR Studio : 1
+原田萌喜 & Alec Justice : 1
+原田萌喜 & Cody Matthew Johnson : 1
+Cody Matthew Johnson & MSR Studio : 1
+Cody Matthew Johnson & 原田萌喜 : 1
+Aurora Sky & MSR Studio : 1
+Aurora Sky & 原田萌喜 : 1
+Aurora Sky & Alec Justice : 1
+Aurora Sky & Cody Matthew Johnson : 1
+Alec Justice & MSR Studio : 1
+Alec Justice & 原田萌喜 : 1
+铁痕电台-MSR & MSR Studio : 1
+铁痕电台-MSR & 原田萌喜 : 1
+MSR Studio & 原田萌喜 : 1
+MSR Studio & Alec Justice : 1
+MSR Studio & Cody Matthew Johnson : 1
+铁痕电台-MSR & MeLo_绿萝组 : 1
+未知歌手 & Hyunmin Cho : 1
+铁痕电台-MSR & Hyunmin Cho : 1
+Sorah Eun & Adam Gubman : 1
+铁痕电台-MSR & Vapestor : 1
+铁痕电台-MSR & ReStudio : 1
+Lucien X & Aurora Sky : 1
+N2V & Alec Justice : 1
+Laura Vierra & N2V : 1
+Laura Vierra & Alec Justice : 1
+Alec Justice & N2V : 1
+铁痕电台-MSR & N2V : 1
+铁痕电台-MSR & 封炫宇 : 1
+铁痕电台-MSR & BaoUner : 1
+Hero Baldwin & Alexander Rudd : 1
+铁痕电台-MSR & Alexander Rudd : 1
+Cody Matthew Johnson & Will Chen : 1
+Alec Justice & Will Chen : 1
+铁痕电台-MSR & Will Chen : 1
+铁痕电台-MSR & Robert Wolf : 1
+铁痕电台-MSR & KH : 1
+辅乐文化 & 沈辑 : 1
+林宇凡 & 沈辑 : 1
+铁痕电台-MSR & 沈辑 : 1
+ena mori & 久下真音 : 1
+永塚健登 & 久下真音 : 1
+铁痕电台-MSR & 久下真音 : 1
+WS MUSIC & 乃工 Milkman : 1
+铁痕电台-MSR & 乃工 Milkman : 1
+乃工 Milkman@WS Music & 乃工 Milkman : 1
+Bleeding Fingers & Giovanni Rios : 1
+铁痕电台-MSR & Giovanni Rios : 1
+ADÀI宋黛霆 & EGGY : 1
+David Lin & EGGY : 1
+ChiliChill乐团 & YuH_ChiliChill : 1
+三无Marblue & ChiliChill乐团 : 1
+洛天依Official & ChiliChill : 1
+乐正绫 & ChiliChill乐团 : 1
+HOYO-MiX & Yu-Peng Chen 陈致逸 : 1
+陈致逸 & Yu-Peng Chen 陈致逸 : 1
+袁娅维TIA RAY & 赛博吟游诗人 : 1
+袁娅维TIA RAY & 刘佳 : 1
+袁娅维TIA RAY & 袁娅维TIA : 1
+袁娅维TIA RAY & RAY : 1
+袁娅维TIA RAY & Khris : 1
+袁娅维TIA RAY & Riddick : 1
+袁娅维TIA RAY & Tynes : 1
+袁娅维TIA RAY & Alex : 1
+袁娅维TIA RAY & Goldblatt : 1
+袁娅维TIA RAY & Tony : 1
+袁娅维TIA RAY & DC : 1
+袁娅维TIA RAY & John Gordon : 1
+袁娅维TIA RAY & 朱敬然 : 1
+袁娅维TIA RAY & 方大同 : 1
+袁娅维TIA RAY & 倪凯民 : 1
+袁娅维TIA RAY & 恭硕良 : 1
+袁娅维TIA RAY & 丁少华 : 1
+袁娅维TIA RAY & Kelvin Avon : 1
+袁娅维TIA RAY & 赵兆 : 1
+袁娅维TIA RAY & Kehlani Parrish : 1
+袁娅维TIA RAY & August Rigo : 1
+袁娅维TIA RAY & Kin Lee : 1
+王嘉尔 & 袁娅维 : 1
+王嘉尔 & August Rigo : 1
+王嘉尔 & Kin Lee : 1
+袁娅维TIA RAY & Jeff Liang : 1
+袁娅维TIA RAY & 林倛玉 : 1
+袁娅维TIA RAY & 余竑龙 : 1
+袁娅维TIA RAY & Paul Edwin : 1
+袁娅维TIA RAY & Shelton : 1
+袁娅维TIA RAY & Malay Ho : 1
+袁娅维TIA RAY & TIA袁娅维 : 1
+袁娅维TIA RAY & Yewy Ong : 1
+袁娅维TIA RAY & Dre from The Monarch : 1
+袁娅维TIA RAY & Merges : 1
+袁娅维TIA RAY & TIA RAY : 1
+袁娅维TIA RAY & 刘欢 : 1
+袁娅维TIA RAY & Varren Wade : 1
+袁娅维TIA RAY & DJ Camper : 1
+袁娅维TIA RAY & 孙宇辰Eugene Sun : 1
+袁娅维TIA RAY & Chelsea Warner : 1
+袁娅维TIA RAY & Kohki Shinohara : 1
+袁娅维TIA RAY & 徐佳莹 : 1
+袁娅维TIA RAY & Chris James : 1
+袁娅维TIA RAY & 華承姸Chiyo : 1
+袁娅维TIA RAY & Vapestor : 1
+袁娅维TIA RAY & Antonio Dixon : 1
+袁娅维TIA RAY & 杨默依Moi : 1
+袁娅维TIA RAY & Dru Chen : 1
+袁娅维TIA RAY & Kamilla Bayrak : 1
+袁娅维TIA RAY & JNYBeatz : 1
+袁娅维TIA RAY & Alex Goldblatt : 1
+袁娅维TIA RAY & 杨英格 : 1
+袁娅维TIA RAY & Eliot Lee : 1
+袁娅维TIA RAY & NG Tung Yin : 1
+袁娅维TIA RAY & Hwang Tzu Hsing Edric : 1
+袁娅维TIA RAY & 呆若木一 : 1
+袁娅维TIA RAY & Eileen Shan Zou : 1
+孙怡 & 宋阳 : 1
+徐洁儿 & 宋阳 : 1
+谢楠 & 宋阳 : 1
+唐艺昕 & 宋阳 : 1
+陈凯琳 & 宋阳 : 1
+徐梦洁 & 宋阳 : 1
+孙怡 & 阿沁 : 1
+唐艺昕 & 阿沁 : 1
+孙怡 & 蔡如岳 : 1
+陈瑶 & 蔡如岳 : 1
+李心洁 & 袁惟仁 : 1
+李小冉 & 袁惟仁 : 1
+张月 & BTMMusic : 1
+淡淡 & BTMMusic : 1
+黄灿灿 & BTMMusic : 1
+徐洁儿 & BTMMusic : 1
+谢楠 & BTMMusic : 1
+张月 & 郭有柴 : 1
+徐洁儿 & 郭有柴 : 1
+代斯 & 郭有柴 : 1
+万千惠 & 郭有柴 : 1
+张慧雯 & 郭有柴 : 1
+王濛 & 陶昌廷 : 1
+陈凯琳 & 陶昌廷 : 1
+阚清子 & 小安 : 1
+安崎 & 小安 : 1
+萧蔷 & 小安 : 1
+温峥嵘 & 小安 : 1
+张月 & 林迈可 : 1
+谢楠 & 林迈可 : 1
+何宣林 & Dr.Moon : 1
+李心洁 & Dr.Moon : 1
+Trang Pháp & Dr.Moon : 1
+徐梦洁 & Dr.Moon : 1
+黄灿灿 & 季忠平 : 1
+唐艺昕 & 季忠平 : 1
+淡淡 & 郑国锋 : 1
+徐梦洁 & 郑国锋 : 1
+萧蔷 & 陈国华 : 1
+谢楠 & 陈国华 : 1
+安崎 & 伍佰 : 1
+张月 & 伍佰 : 1
+孙怡 & 郑宇界 : 1
+万千惠 & 郑宇界 : 1
+萧蔷 & 莫宇庭 : 1
+温峥嵘 & 莫宇庭 : 1
+代斯 & 莫宇庭 : 1
+张艺上 & 莫宇庭 : 1
+李心洁 & 曲世聪 : 1
+Trang Pháp & 曲世聪 : 1
+安崎 & 曲世聪 : 1
+叶一茜 & 曲世聪 : 1
+乌兰图雅 & 曲世聪 : 1
+阚清子 & 张简君伟 : 1
+阚清子 & 孙盛希 : 1
+安崎 & 张简君伟 : 1
+安崎 & 孙盛希 : 1
+张月 & 赵紫骅 : 1
+徐洁儿 & 赵紫骅 : 1
+萧蔷 & 季忠平 : 1
+孙怡 & Akiyama Sayuri : 1
+张月 & 周以力 : 1
+何洁 & 王力宏 : 1
+张月 & 王力宏 : 1
+徐洁儿 & 王力宏 : 1
+马吟吟 & 王力宏 : 1
+安崎 & 阿沁 : 1
+尚雯婕 & 王力宏 : 1
+萨顶顶 & 王力宏 : 1
+陈瑶 & 王力宏 : 1
+王濛 & 王力宏 : 1
+孙怡 & Anders Kjer : 1
+孙怡 & David Clewett : 1
+孙怡 & Alice Gernandt : 1
+江语晨 & Anders Kjer : 1
+江语晨 & David Clewett : 1
+江语晨 & Alice Gernandt : 1
+李斯丹妮 & Anders Kjer : 1
+李斯丹妮 & David Clewett : 1
+李斯丹妮 & Alice Gernandt : 1
+宋妍霏 & Anders Kjer : 1
+宋妍霏 & David Clewett : 1
+宋妍霏 & Alice Gernandt : 1
+Trang Pháp & 陈星翰 : 1
+安崎 & 陈星翰 : 1
+萧蔷 & 陈星翰 : 1
+温峥嵘 & 陈星翰 : 1
+何宣林 & Hanif Hitmanic Sabzevari : 1
+何宣林 & Dennis DeKo Kordnejad : 1
+何宣林 & Bell Mothander : 1
+淡淡 & Hanif Hitmanic Sabzevari : 1
+淡淡 & Dennis DeKo Kordnejad : 1
+淡淡 & Bell Mothander : 1
+唐艺昕 & Hanif Hitmanic Sabzevari : 1
+唐艺昕 & Dennis DeKo Kordnejad : 1
+唐艺昕 & Bell Mothander : 1
+陈凯琳 & Hanif Hitmanic Sabzevari : 1
+陈凯琳 & Dennis DeKo Kordnejad : 1
+陈凯琳 & Bell Mothander : 1
+管乐 & 刘佳 : 1
+Trang Pháp & 刘佳 : 1
+安崎 & 刘佳 : 1
+张小婉 & 刘佳 : 1
+张月 & 方文良 : 1
+陈瑶 & 方文良 : 1
+者来女 & 方文良 : 1
+张慧雯 & 方文良 : 1
+乌兰图雅 & ilem : 1
+代斯 & ilem : 1
+万千惠 & ilem : 1
+张艺上 & ilem : 1
+孙怡 & 陈佳明 : 1
+阚清子 & 陈佳明 : 1
+李心洁 & 翁梓铭 : 1
+谢楠 & 翁梓铭 : 1
+陶昕然 & 翁梓铭 : 1
+徐梦洁 & 翁梓铭 : 1
+阚清子 & 何亮 : 1
+温峥嵘 & 何亮 : 1
+张艺上 & 何亮 : 1
+李心洁 & 金大洲 : 1
+徐洁儿 & 金大洲 : 1
+谢楠 & 金大洲 : 1
+陈凯琳 & 金大洲 : 1
+李小冉 & 方文良 : 1
+王濛 & 方文良 : 1
+唐艺昕 & 方文良 : 1
+江语晨 & Robin Jessen : 1
+江语晨 & Anna Judith Wik : 1
+江语晨 & Nermin Harambasic : 1
+江语晨 & Ronny Svendsen : 1
+江语晨 & Charite Viken Reinas : 1
+江语晨 & Eirik Johanson : 1
+Trang Pháp & Robin Jessen : 1
+Trang Pháp & Anna Judith Wik : 1
+Trang Pháp & Nermin Harambasic : 1
+Trang Pháp & Ronny Svendsen : 1
+Trang Pháp & Charite Viken Reinas : 1
+Trang Pháp & Eirik Johanson : 1
+维妮娜 & Robin Jessen : 1
+维妮娜 & Anna Judith Wik : 1
+维妮娜 & Nermin Harambasic : 1
+维妮娜 & Ronny Svendsen : 1
+维妮娜 & Charite Viken Reinas : 1
+维妮娜 & Eirik Johanson : 1
+乌兰图雅 & Shellback : 1
+乌兰图雅 & P!nk : 1
+乌兰图雅 & Max Martin : 1
+乌兰图雅 & Oscar Holter : 1
+者来女 & Shellback : 1
+者来女 & P!nk : 1
+者来女 & Max Martin : 1
+者来女 & Oscar Holter : 1
+万千惠 & Shellback : 1
+万千惠 & P!nk : 1
+万千惠 & Max Martin : 1
+万千惠 & Oscar Holter : 1
+安崎 & Petty Norma : 1
+安崎 & Holly Buddy Charles : 1
+萧蔷 & Petty Norma : 1
+萧蔷 & Holly Buddy Charles : 1
+陶昕然 & Petty Norma : 1
+陶昕然 & Holly Buddy Charles : 1
+万千惠 & 三宝 : 1
+张艺上 & 李志源 : 1
+阚清子 & 李宗盛 : 1
+乌兰图雅 & 张天赋 : 1
+何宣林 & Sihan : 1
+陶昕然 & 刘欢 : 1
+黄灿灿 & 林迈可 : 1
+唐艺昕 & 蔡依林 : 1
+唐艺昕 & Aitken Hayley Michelle : 1
+唐艺昕 & Lindskog Olof : 1
+唐艺昕 & Strange Dahl Sten Iggy : 1
+Trang Pháp & 庄法 : 1
+李心洁 & 张震岳 : 1
+张月 & Andreas : 1
+谢楠 & 李伟菘 : 1
+徐洁儿 & 徐佳莹 : 1
+陈凯琳 & Meghan Trainor : 1
+陈凯琳 & Jacob Kasher Hindlin : 1
+陈凯琳 & Peter Svensson : 1
+陈凯琳 & Jason Desrouleaux : 1
+陈凯琳 & Eric Frederic : 1
+安崎 & 雷振邦 : 1
+张慧雯 & 陈其钢 : 1
+萧蔷 & 刘家昌 : 1
+徐梦洁 & Adam Levine : 1
+徐梦洁 & Lukasz Gottwald : 1
+徐梦洁 & Jacob Kasher Hindlen : 1
+徐梦洁 & Mike Posner : 1
+徐梦洁 & Henry Walter : 1
+徐梦洁 & Joshua Coleman : 1
+者来女 & 拨弦 : 1
+者来女 & 者来 : 1
+者来女 & 周华健 : 1
+叶一茜 & 涂惠源 : 1
+维妮娜 & Dwayne Chin-Quee : 1
+维妮娜 & Valentina L : 1
+李小冉 & 李泉 : 1

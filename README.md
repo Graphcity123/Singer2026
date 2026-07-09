@@ -219,6 +219,12 @@ application = get_wsgi_application()
 - 可通过 `/manage/users/` 查看全站用户活动统计
 - Django Admin 面板：`/admin/`
 
+## 相关文档
+
+- [系统功能报告](功能报告.md) — 系统功能、数据模型、算法、爬虫、技术栈详解
+- [数据分析实验报告](analysis/实验报告.md) — 最佳拍档 / 常用词 / 独特词三篇分析合并
+- [数据分析代码](analysis/) — 6 个脚本 + 3 个子模块
+
 ## 相关链接
 
 - GitHub：https://github.com/Graphcity123/Singer2026
