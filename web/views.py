@@ -1,6 +1,7 @@
 import time
 import re
 import random
+from pathlib import Path
 from datetime import datetime, date
 from django.http import HttpResponse
 from django.shortcuts import get_object_or_404, render, redirect
@@ -355,5 +356,35 @@ def search_view(request):
 
 def analysis_view(request):
     """数据分析报告页：三个 tab 切换"""
+    import re
     tab = request.GET.get('tab', 'matches')
-    return render(request, 'analysis.html', {'tab': tab})
+    context = {'tab': tab}
+
+    base = Path(__file__).resolve().parent.parent / 'analysis'
+
+    def read_match_data(filename, limit=15):
+        data = []
+        with open(base / 'matches' / filename, 'r', encoding='utf-8') as f:
+            for line in f:
+                m = re.search(r'(.+) : (\d+)', line)
+                if m:
+                    data.append((m.group(1).strip(), int(m.group(2))))
+        return data[:limit]
+
+    def read_lyrics_data(filename, limit=15):
+        data = []
+        with open(base / 'lyrics' / filename, 'r', encoding='utf-8') as f:
+            for line in f:
+                m = re.search(r'(.+): (\d+) (\d+)', line)
+                if m:
+                    data.append((m.group(1).strip(), int(m.group(2)), int(m.group(3))))
+        return data[:limit]
+
+    context['match_sw'] = read_match_data('match_singer_writer.txt')
+    context['match_sm'] = read_match_data('match_singer_melodier.txt')
+    context['match_wm'] = read_match_data('match_writer_melodier.txt')
+    context['lyrics_singer'] = read_lyrics_data('lyrics_singer.txt')
+    context['lyrics_writer'] = read_lyrics_data('lyrics_writer.txt')
+    context['cloud_singers'] = ['李荣浩', '法老', '汪苏泷', '韦礼安', '李宗盛']
+
+    return render(request, 'analysis.html', context)
