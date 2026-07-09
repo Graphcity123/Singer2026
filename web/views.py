@@ -386,6 +386,16 @@ def analysis_view(request):
     lyrics_singer = read_lyrics_data('lyrics_singer.txt')
     lyrics_writer = read_lyrics_data('lyrics_writer.txt')
 
+    # 从上到下渐变：顶部浅，底部深
+    def add_opacity(data, n):
+        return [(d[0], d[1], round(1.0 - i / n * 0.65, 2)) for i, d in enumerate(data)]
+
+    match_sw = add_opacity(match_sw, len(match_sw))
+    match_sm = add_opacity(match_sm, len(match_sm))
+    match_wm = add_opacity(match_wm, len(match_wm))
+    lyrics_singer = [(d[0], d[1], d[2], round(1.0 - i / len(lyrics_singer) * 0.65, 2)) for i, d in enumerate(lyrics_singer)]
+    lyrics_writer = [(d[0], d[1], d[2], round(1.0 - i / len(lyrics_writer) * 0.65, 2)) for i, d in enumerate(lyrics_writer)]
+
     context['match_sw'] = match_sw
     context['match_sm'] = match_sm
     context['match_wm'] = match_wm
