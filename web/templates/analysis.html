@@ -1,0 +1,247 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}数据分析 — 瓜易云音乐{% endblock %}
+
+{% block extra_css %}
+<style>
+    .analysis-container { max-width: 1100px; margin: 30px auto; padding: 0 20px; }
+    .analysis-container h1 { font-size: 28px; color: #333; margin-bottom: 6px; }
+    .analysis-container h2 { font-size: 22px; color: #3360AB; margin: 36px 0 16px; padding-bottom: 8px; border-bottom: 2px solid #3360AB; }
+    .analysis-container h3 { font-size: 18px; color: #444; margin: 24px 0 10px; }
+    .analysis-container p { font-size: 15px; line-height: 1.8; color: #555; margin: 8px 0; }
+    .analysis-container blockquote { margin: 12px 0; padding: 10px 18px; background: #f5f7fa; border-left: 4px solid #3360AB; color: #666; font-size: 14px; }
+    .analysis-container img { max-width: 100%; margin: 16px 0; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+    .analysis-container table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 14px; }
+    .analysis-container th { background: #3360AB; color: #fff; padding: 10px 12px; text-align: left; font-weight: bold; }
+    .analysis-container td { padding: 8px 12px; border-bottom: 1px solid #e0e0e0; }
+    .analysis-container tr:hover td { background: #f5f7fa; }
+    .analysis-container strong { color: #333; }
+    .analysis-container code { background: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 13px; }
+
+    .tab-bar { display: flex; gap: 0; margin-bottom: 30px; border-bottom: 2px solid #ddd; }
+    .tab-btn { padding: 12px 28px; font-size: 16px; font-weight: bold; color: #888; text-decoration: none; border-bottom: 3px solid transparent; margin-bottom: -2px; transition: all 0.2s; }
+    .tab-btn:hover { color: #3360AB; }
+    .tab-btn.active { color: #3360AB; border-bottom-color: #3360AB; background: #f0f4ff; border-radius: 4px 4px 0 0; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="analysis-container">
+
+    <div class="tab-bar">
+        <a href="?tab=matches" class="tab-btn {% if tab == 'matches' %}active{% endif %}">一、最佳拍档</a>
+        <a href="?tab=lyrics" class="tab-btn {% if tab == 'lyrics' %}active{% endif %}">二、常用词使用大师</a>
+        <a href="?tab=special" class="tab-btn {% if tab == 'special' %}active{% endif %}">三、独特词使用大师</a>
+    </div>
+
+{% if tab == 'matches' %}
+
+<h1>最佳拍档分析</h1>
+<p>根据爬取到的数据，统计歌手&作词、歌手&作曲、作词&作曲之间的合作次数，找出华语乐坛最紧密的创作搭档。（数据范围：1380 位歌手，4718 首歌曲。合作次数指两人同时出现在同一首歌中的次数。）</p>
+
+<h2>一、歌手 & 作词 Top10</h2>
+<table>
+<tr><th>排名</th><th>歌手</th><th>作词</th><th>合作次数</th></tr>
+<tr><td>1</td><td>陶喆</td><td>娃娃</td><td>35</td></tr>
+<tr><td>2</td><td>周传雄</td><td>陈信荣</td><td>21</td></tr>
+<tr><td>3</td><td>王菲</td><td>林夕</td><td>16</td></tr>
+<tr><td>4</td><td>莫文蔚</td><td>李焯雄</td><td>16</td></tr>
+<tr><td>5</td><td>华晨宇</td><td>吕易秋</td><td>14</td></tr>
+<tr><td>6</td><td>萧亚轩</td><td>姚谦</td><td>14</td></tr>
+<tr><td>7</td><td>GAI周延</td><td>功夫胖KUNGFU-PEN</td><td>14</td></tr>
+<tr><td>8</td><td>陈奕迅</td><td>林夕</td><td>13</td></tr>
+<tr><td>9</td><td>陈奕迅</td><td>黄伟文</td><td>12</td></tr>
+<tr><td>10</td><td>功夫胖KUNGFU-PEN</td><td>GAI周延</td><td>11</td></tr>
+</table>
+<img src="{% static 'matches/match_singer_writer.png' %}" alt="歌手&作词 Top30">
+
+<h2>二、歌手 & 作曲 Top10</h2>
+<table>
+<tr><th>排名</th><th>歌手</th><th>作曲</th><th>合作次数</th></tr>
+<tr><td>1</td><td>HOYO-MiX</td><td>陈致逸 Yu-Peng Chen</td><td>37</td></tr>
+<tr><td>2</td><td>三Z-STUDIO</td><td>杨武韬</td><td>26</td></tr>
+<tr><td>3</td><td>HOYO-MiX</td><td>杨武韬</td><td>26</td></tr>
+<tr><td>4</td><td>孙燕姿</td><td>李偲菘</td><td>16</td></tr>
+<tr><td>5</td><td>HOYO-MiX</td><td>王可鑫 Eli.W</td><td>13</td></tr>
+<tr><td>6</td><td>万妮达Vinida Weng</td><td>HARIKIRI</td><td>13</td></tr>
+<tr><td>7</td><td>功夫胖KUNGFU-PEN</td><td>GAI周延</td><td>11</td></tr>
+<tr><td>8</td><td>GAI周延</td><td>功夫胖KUNGFU-PEN</td><td>9</td></tr>
+<tr><td>9</td><td>GAI周延</td><td>KEY.L刘聪</td><td>9</td></tr>
+<tr><td>10</td><td>洛天依</td><td>WOVOP</td><td>8</td></tr>
+</table>
+<img src="{% static 'matches/match_singer_melodier.png' %}" alt="歌手&作曲 Top30">
+
+<h2>三、作词 & 作曲 Top10</h2>
+<table>
+<tr><th>排名</th><th>作词</th><th>作曲</th><th>合作次数</th></tr>
+<tr><td>1</td><td>娃娃</td><td>陶喆</td><td>37</td></tr>
+<tr><td>2</td><td>陈信荣</td><td>周传雄</td><td>21</td></tr>
+<tr><td>3</td><td>姚若龙</td><td>陈小霞</td><td>17</td></tr>
+<tr><td>4</td><td>吕易秋</td><td>华晨宇</td><td>14</td></tr>
+<tr><td>5</td><td>万妮达Vinida Weng</td><td>HARIKIRI</td><td>13</td></tr>
+<tr><td>6</td><td>功夫胖KUNGFU-PEN</td><td>GAI周延</td><td>13</td></tr>
+<tr><td>7</td><td>易家扬</td><td>林俊杰</td><td>12</td></tr>
+<tr><td>8</td><td>葛大为</td><td>徐佳莹</td><td>12</td></tr>
+<tr><td>9</td><td>方文山</td><td>周杰伦</td><td>11</td></tr>
+<tr><td>10</td><td>姚若龙</td><td>李偲菘</td><td>10</td></tr>
+</table>
+<p>完整配对统计：歌手&作词 6015 对、歌手&作曲 5836 对、作词&作曲 4413 对。<strong>（去除了拍档的两人相同的情况。）</strong></p>
+<img src="{% static 'matches/match_writer_melodier.png' %}" alt="作词&作曲 Top30">
+
+<h2>四、数据分析与结论</h2>
+
+<h3>1. 陶喆&娃娃：金牌搭档</h3>
+<p>陶喆&娃娃以 35 次合作登顶歌手&作词榜，词曲榜中娃娃&陶喆也是 37 次高居第一。这说明相当多的情况下，<strong>陶喆包办自己歌曲的作曲，娃娃则包办作词</strong>。周传雄&陈信荣（21 次），万妮达&HARIKIRI（13 次）是同样的模式。</p>
+
+<h3>2. 游戏音乐的工业化生产</h3>
+<p>HOYO-MiX（米哈游音乐厂牌）占据歌手&作曲榜第 1、3、5 名，三Z-STUDIO（绝区零音乐厂牌）及塞壬唱片-MSR（明日方舟音乐厂牌）也在排行榜前列。这反映出 <strong>游戏配乐是高度工业化的流水线生产</strong>：固定厂牌 + 固定作曲班底的大量产出。</p>
+
+<h3>3. 中文说唱的超级团体</h3>
+<p>GAI周延、功夫胖KUNGFU-PEN、盛宇D-SHINE、KEY.L刘聪四人（后三人均为 C-Block 成员）之间的交叉合作非常频繁：歌手&作词榜 <strong>51</strong> 条、歌手&作曲榜 <strong>46</strong> 条、作词&作曲榜 <strong>33</strong> 条。<strong>这些成员之间互为作词，互为作曲，互相唱对方作词作曲的歌曲，形成了一种「像是乐队又不是乐队」的合作模式。</strong></p>
+
+{% elif tab == 'lyrics' %}
+
+<h1>常用词使用大师分析</h1>
+<p>对 4718 首歌曲的歌词进行 jieba 分词，筛选出现频次 >500 的二字及以上中文词语（排除「作曲」「编曲」「混音」等制作信息词），共得到 <strong>119 个高频常用词</strong>。统计每个高频词下使用最多的歌手和作词人，汇总得出「常用词使用大师」排名。</p>
+<blockquote>指标说明：括弧内第一项为「覆盖词数」（使用过常用词里面的多少项），第二项为「总使用次数」（在该歌手/作词所有出现的高频词中，使用次数的总和）。</blockquote>
+
+<h2>一、歌手 — 常用词使用大师 Top10</h2>
+<table>
+<tr><th>排名</th><th>歌手</th><th>覆盖词数</th><th>总使用次数</th></tr>
+<tr><td>1</td><td>法老</td><td>117</td><td>2558</td></tr>
+<tr><td>2</td><td>汪苏泷</td><td>118</td><td>1991</td></tr>
+<tr><td>3</td><td>张震岳</td><td>118</td><td>1988</td></tr>
+<tr><td>4</td><td>萧亚轩</td><td>116</td><td>1902</td></tr>
+<tr><td>5</td><td>GAI周延</td><td>118</td><td>1788</td></tr>
+<tr><td>6</td><td>G.E.M.邓紫棋</td><td>118</td><td>1764</td></tr>
+<tr><td>7</td><td>范玮琪</td><td>115</td><td>1759</td></tr>
+<tr><td>8</td><td>梁静茹</td><td>116</td><td>1758</td></tr>
+<tr><td>9</td><td>黄丽玲</td><td>119</td><td>1756</td></tr>
+<tr><td>10</td><td>方大同</td><td>115</td><td>1741</td></tr>
+</table>
+<img src="{% static 'lyrics/lyrics_singer.png' %}" alt="歌手常用词 Top30">
+
+<h2>二、作词 — 常用词使用大师 Top10</h2>
+<table>
+<tr><th>排名</th><th>作词</th><th>覆盖词数</th><th>总使用次数</th></tr>
+<tr><td>1</td><td>法老</td><td>117</td><td>2422</td></tr>
+<tr><td>2</td><td>姚若龙</td><td>117</td><td>2327</td></tr>
+<tr><td>3</td><td>林夕</td><td>117</td><td>2243</td></tr>
+<tr><td>4</td><td>易家扬</td><td>115</td><td>1772</td></tr>
+<tr><td>5</td><td>李焯雄</td><td>117</td><td>1682</td></tr>
+<tr><td>6</td><td>娃娃</td><td>119</td><td>1528</td></tr>
+<tr><td>7</td><td>葛大为</td><td>112</td><td>1502</td></tr>
+<tr><td>8</td><td>张震岳</td><td>116</td><td>1494</td></tr>
+<tr><td>9</td><td>李宗盛</td><td>105</td><td>1362</td></tr>
+<tr><td>10</td><td>G.E.M.邓紫棋</td><td>115</td><td>1346</td></tr>
+</table>
+<img src="{% static 'lyrics/lyrics_writer.png' %}" alt="作词常用词 Top30">
+
+<h2>三、高频常用词 Top 20</h2>
+<table>
+<tr><th>排名</th><th>词语</th><th>出现次数</th><th>标志性作词</th><th>标志性歌手</th></tr>
+<tr><td>1</td><td>我们</td><td>4986</td><td>GAI周延 (158)</td><td>GAI周延 (170)</td></tr>
+<tr><td>2</td><td>没有</td><td>3349</td><td>法老 (90)</td><td>法老 (93)</td></tr>
+<tr><td>3</td><td>一个</td><td>2967</td><td>林夕 (106)</td><td>曾沛慈 (84)</td></tr>
+<tr><td>4</td><td>自己</td><td>2495</td><td>姚若龙 (78)</td><td>萧亚轩 (69)</td></tr>
+<tr><td>5</td><td>什么</td><td>2417</td><td>林夕 (93)</td><td>张惠妹 (69)</td></tr>
+<tr><td>6</td><td>世界</td><td>2026</td><td>法老 (51)</td><td>华晨宇 (65)</td></tr>
+<tr><td>7</td><td>怎么</td><td>1856</td><td>林夕 (44)</td><td>曾沛慈 (58)</td></tr>
+<tr><td>8</td><td>如果</td><td>1749</td><td>林夕 (64)</td><td>范玮琪 (91)</td></tr>
+<tr><td>9</td><td>还是</td><td>1676</td><td>李焯雄 (53)</td><td>ChiliChill乐团 (60)</td></tr>
+<tr><td>10</td><td>不会</td><td>1647</td><td>法老 (51)</td><td>法老 (53)</td></tr>
+<tr><td>11</td><td>知道</td><td>1597</td><td>李宗盛 (48)</td><td>张学友 (52)</td></tr>
+<tr><td>12</td><td>时间</td><td>1500</td><td>葛大为 (40)</td><td>ChiliChill乐团 (40)</td></tr>
+<tr><td>13</td><td>不是</td><td>1433</td><td>法老 (54)</td><td>法老 (54)</td></tr>
+<tr><td>14</td><td>可以</td><td>1371</td><td>法老 (57)</td><td>法老 (57)</td></tr>
+<tr><td>15</td><td>所有</td><td>1327</td><td>h3R3 (33)</td><td>h3R3 (28)</td></tr>
+<tr><td>16</td><td>不能</td><td>1307</td><td>李宗盛 (39)</td><td>胡彦斌 (38)</td></tr>
+<tr><td>17</td><td>不要</td><td>1276</td><td>张震岳 (58)</td><td>王力宏 (57)</td></tr>
+<tr><td>18</td><td>永远</td><td>1253</td><td>陶喆 (33)</td><td>陶喆 (44)</td></tr>
+<tr><td>19</td><td>回忆</td><td>1215</td><td>徐良 (32)</td><td>郭静 (37)</td></tr>
+<tr><td>20</td><td>爱情</td><td>1205</td><td>易家扬 (62)</td><td>萧亚轩 (57)</td></tr>
+</table>
+
+<h2>四、数据分析与结论</h2>
+
+<h3>1. 常用词之王：法老</h3>
+<p>法老同时在 <strong>歌手榜和作词榜位列第一</strong>，覆盖 117/119 个常用词，总使用次数均遥遥领先（歌手 2558 / 作词 2422）。他在「他们」（写 76 / 唱 85）、「我要」（写 40 / 唱 40）、「为了」（写 44 / 唱 44）等词的碾压级领先，反映出说唱歌词 <strong>强烈的第一人称叙事特征</strong>。</p>
+
+<h3>2. 华语词坛三巨头：姚若龙、林夕、李焯雄</h3>
+<p>作词榜中除开法老以外，姚若龙（2327）、林夕（2243）、李焯雄（1682）稳居前三。林夕覆盖 117 个常用词，在「一个」（106 次，远超第二名的 65 次）和「什么」（93 次）上呈压倒性优势，姚若龙则在「幸福」（71 次）、「相信」（50 次）、「记得」（44 次）等正向情感词上领跑。</p>
+
+<h3>3. 词语的垄断</h3>
+<p>部分高频词出现了 <strong>单一人物垄断</strong> 的现象：</p>
+<table>
+<tr><th>词语</th><th>垄断者</th><th>使用次数</th><th>第二名</th><th>倍数</th></tr>
+<tr><td>一样</td><td>李荣浩</td><td>72 (写) / 79 (唱)</td><td>薛之谦 32</td><td>2.3×</td></tr>
+<tr><td>他们</td><td>法老</td><td>76 (写) / 85 (唱)</td><td>GAI周延 53</td><td>1.4×</td></tr>
+<tr><td>总是</td><td>李宗盛</td><td>58 (写)</td><td>姚若龙 26</td><td>2.2×</td></tr>
+<tr><td>慢慢</td><td>韦礼安</td><td>42 (写) / 42 (唱)</td><td>白进法 33</td><td>1.3×</td></tr>
+<tr><td>爱情</td><td>易家扬</td><td>62 (写)</td><td>方文山 38</td><td>1.6×</td></tr>
+<tr><td>幸福</td><td>姚若龙</td><td>71 (写)</td><td>徐世珍 39</td><td>1.8×</td></tr>
+</table>
+
+<p>下面给出李荣浩、法老、汪苏泷、韦礼安、李宗盛的词云图：</p>
+<img src="{% static 'lyrics/李荣浩.png' %}" alt="李荣浩词云">
+<img src="{% static 'lyrics/法老.png' %}" alt="法老词云">
+<img src="{% static 'lyrics/汪苏泷.png' %}" alt="汪苏泷词云">
+<img src="{% static 'lyrics/韦礼安.png' %}" alt="韦礼安词云">
+<img src="{% static 'lyrics/李宗盛.png' %}" alt="李宗盛词云">
+
+{% else %}
+
+<h1>独特词使用大师分析</h1>
+<p>对 1,380 位歌手的所有歌词进行 TF-IDF 分析，提取每位歌手最具个人标志性的词汇。TF-IDF 排行反映的是「谁拥有别人没有的词汇」，与常用词分析形成互补。</p>
+<blockquote>指标说明：每位歌手的分数为 Top10 标志词的 TF-IDF 总和。标志词经过过滤：排除歌手/作词人名、制作信息词、含标点行，且全局出现至少 10 次。</blockquote>
+
+<h2>一、独特词使用大师 Top 20</h2>
+<table>
+<tr><th>排名</th><th>歌手</th><th>TF-IDF 总分</th><th>#1 标志词</th><th>#2 标志词</th><th>#3 标志词</th></tr>
+<tr><td>1</td><td>陈致逸</td><td>0.4545</td><td>铠甲</td><td>勇士</td><td>战场</td></tr>
+<tr><td>2</td><td>铁痕电台-MSR</td><td>0.4108</td><td>万象</td><td>虫鸣</td><td>同游</td></tr>
+<tr><td>3</td><td>王菲</td><td>0.3062</td><td>须菩提</td><td>如来</td><td>世尊</td></tr>
+<tr><td>4</td><td>塞壬唱片-MSR</td><td>0.2884</td><td>天黑黑</td><td>万象</td><td>一緒</td></tr>
+<tr><td>5</td><td>蔡徐坤</td><td>0.1291</td><td>渡成</td><td>起死回生</td><td>失灵</td></tr>
+<tr><td>6</td><td>万妮达Vinida Weng</td><td>0.1210</td><td>莫加</td><td>榻榻米</td><td>万妮</td></tr>
+<tr><td>7</td><td>王力宏</td><td>0.1051</td><td>盖世英雄</td><td>恭喜</td><td>迫不及待</td></tr>
+<tr><td>8</td><td>赵雷</td><td>0.0938</td><td>小屋</td><td>赵小雷</td><td>阿刁</td></tr>
+<tr><td>9</td><td>黄子弘凡</td><td>0.0931</td><td>一半一半</td><td>一瓣</td><td>心连</td></tr>
+<tr><td>10</td><td>三Z-STUDIO</td><td>0.0892</td><td>数星星</td><td>掌控</td><td>面目全非</td></tr>
+<tr><td>11</td><td>法老</td><td>0.0871</td><td>健将</td><td>老子</td><td>说唱</td></tr>
+<tr><td>12</td><td>安崎</td><td>0.0865</td><td>逆战</td><td>王牌</td><td>好歌</td></tr>
+<tr><td>13</td><td>张杰</td><td>0.0843</td><td>赛尔</td><td>恭喜</td><td>爬上来</td></tr>
+<tr><td>14</td><td>GAI周延</td><td>0.0823</td><td>重庆</td><td>湘里别</td><td>解放碑</td></tr>
+<tr><td>15</td><td>洛天依</td><td>0.0766</td><td>喂喂</td><td>嘟嘟</td><td>初音</td></tr>
+<tr><td>16</td><td>袁娅维TIA RAY</td><td>0.0742</td><td>袁娅维</td><td>卑鄙</td><td>遇上爱</td></tr>
+<tr><td>17</td><td>谭维维</td><td>0.0734</td><td>维维</td><td>小红花</td><td>中国</td></tr>
+<tr><td>18</td><td>韩红</td><td>0.0728</td><td>小红花</td><td>郁可</td><td>咿呀</td></tr>
+<tr><td>19</td><td>吴青峰</td><td>0.0719</td><td>波妞</td><td>人烂事</td><td>叶子</td></tr>
+<tr><td>20</td><td>那英</td><td>0.0687</td><td>冲冲</td><td>相约</td><td>澎湖湾</td></tr>
+</table>
+
+<h2>二、四象限分类：常用词 × 独特词</h2>
+<p>以常用词总使用次数与 TF-IDF 标志词总分为坐标轴，以中位数为界，49 位歌手落入四个象限。</p>
+<img src="{% static 'special/quadrant_singer.png' %}" alt="四象限散点图">
+
+<h3>全能型（9 人）——常用词多 + 独特词多</h3>
+<p><strong>王菲、法老、万妮达Vinida Weng、GAI周延、王力宏、张杰、袁娅维TIA RAY、那英、张惠妹</strong></p>
+<p>两边都高于中位数的「双修」歌手：王菲多用佛经词汇（须菩提/如来/菩萨）；万妮达多用福州方言（莫加/咔溜/七溜八溜）；GAI周延多用重庆/湖南方言（重庆/解放碑/湘里别）。</p>
+
+<h3>纯独特型（16 人）——常用词少 + 独特词多</h3>
+<p><strong>陈致逸、铁痕电台-MSR、塞壬唱片-MSR、蔡徐坤、黄子弘凡、三Z-STUDIO、安崎、赵雷、洛天依、谭维维、韩红、吴青峰、HOYO-MiX、许嵩、周兴哲、窦靖童</strong></p>
+<p>这些歌手的歌词量不一定大，但用词进入了别人没有的领域。游戏配乐 / 动画配乐占据了其中的大多数，尤其是左上角的陈致逸、塞壬唱片、铁痕唱片「三巨头」。</p>
+
+<h3>纯常用型（16 人）——常用词多 + 独特词少</h3>
+<p><strong>G.E.M.邓紫棋、周深、胡彦斌、曾沛慈、周传雄、徐佳莹、王心凌、ChiliChill乐团、张信哲、孙燕姿、李荣浩、张学友、单依纯、华晨宇、李佳薇、林俊杰</strong></p>
+<p>高产的主流流行歌手，使用大量大众高频词，但缺乏强烈的个人标志词汇。</p>
+
+<h3>双低型（8 人）——常用词少 + 独特词少</h3>
+<p><strong>刘惜君、王赫野、毛不易、洛天依Official、张靓颖、黄龄、黄霄雲</strong></p>
+<p>歌曲量相对较少，或用词偏均衡，两边都不突出。</p>
+
+{% endif %}
+
+</div>
+{% endblock %}

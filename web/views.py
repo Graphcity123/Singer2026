@@ -15,9 +15,11 @@ DAILY_SEED = int(date.today().strftime('%Y%m%d'))
 random.seed(DAILY_SEED)
 RANDOM_LIST = [random.randint(1, 1000000000) for _ in range(10000)]
 
+
 def index(request):
     """首页重定向到歌曲列表。"""
     return redirect('songlist')
+
 
 def singer(request, singer_id):
     """
@@ -41,6 +43,7 @@ def singer(request, singer_id):
     }
     return render(request, "singer.html", context)
 
+
 def song(request, song_id):
     """
     歌曲详情页。
@@ -49,9 +52,9 @@ def song(request, song_id):
     song = Song.objects.get(pk=song_id)
     lyrics_text = song.lyrics or ""
     lyrics_len = len(lyrics_text.split("\n"))
-    lyrics_cols=(lyrics_len+29)//30
-    lyrics_cols=min(5,lyrics_cols)
-    true_id =int(re.search(r"id=(\d+)",song.source_url).group(1))
+    lyrics_cols = (lyrics_len + 29) // 30
+    lyrics_cols = min(5, lyrics_cols)
+    true_id = int(re.search(r"id=(\d+)", song.source_url).group(1))
 
     # 处理评论提交
     if request.method == "POST":
@@ -83,7 +86,7 @@ def song(request, song_id):
         "total_comments": song.comments.count(),
     }
     # 评论分页
-    comment_queryset = song.comments.order_by("-like_count","-create_time","-id")
+    comment_queryset = song.comments.order_by("-like_count", "-create_time", "-id")
     comment_paginator = Paginator(comment_queryset, 15)
     comment_page = comment_paginator.get_page(request.GET.get("cpage", 1))
     context["commentlist"] = comment_page
@@ -103,6 +106,7 @@ def song(request, song_id):
         and FavoriteSong.objects.filter(user=request.user, song=song).exists()
     )
     return render(request, "song.html", context)
+
 
 def like_comment(request, comment_id):
     """点赞/取消点赞。需登录。"""
@@ -261,6 +265,7 @@ def songlist(request):
     }
     return render(request, "songlist.html", context)
 
+
 def singerlist(request):
     """
     歌手列表页。
@@ -276,6 +281,7 @@ def singerlist(request):
         "singerlist": page_obj,
     }
     return render(request, "singerlist.html", context)
+
 
 def search_view(request):
     """
@@ -345,3 +351,9 @@ def search_view(request):
         'song_count': total_songs,
     }
     return render(request, 'search_results.html', context)
+
+
+def analysis_view(request):
+    """数据分析报告页：三个 tab 切换"""
+    tab = request.GET.get('tab', 'matches')
+    return render(request, 'analysis.html', {'tab': tab})

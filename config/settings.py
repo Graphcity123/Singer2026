@@ -125,6 +125,9 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
+STATICFILES_DIRS = [
+    BASE_DIR / 'analysis',       # 数据分析图片（图表、词云等）
+]
 
 # Media files (uploaded images)
 MEDIA_URL = '/media/'
