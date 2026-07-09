@@ -380,11 +380,20 @@ def analysis_view(request):
                     data.append((m.group(1).strip(), int(m.group(2)), int(m.group(3))))
         return data[:limit]
 
-    context['match_sw'] = read_match_data('match_singer_writer.txt')
-    context['match_sm'] = read_match_data('match_singer_melodier.txt')
-    context['match_wm'] = read_match_data('match_writer_melodier.txt')
-    context['lyrics_singer'] = read_lyrics_data('lyrics_singer.txt')
-    context['lyrics_writer'] = read_lyrics_data('lyrics_writer.txt')
+    match_sw = read_match_data('match_singer_writer.txt')
+    match_sm = read_match_data('match_singer_melodier.txt')
+    match_wm = read_match_data('match_writer_melodier.txt')
+    lyrics_singer = read_lyrics_data('lyrics_singer.txt')
+    lyrics_writer = read_lyrics_data('lyrics_writer.txt')
+
+    context['match_sw'] = match_sw
+    context['match_sm'] = match_sm
+    context['match_wm'] = match_wm
+    context['lyrics_singer'] = lyrics_singer
+    context['lyrics_writer'] = lyrics_writer
+    context['match_max'] = max(d[1] for d in match_sw + match_sm + match_wm)
+    context['singer_max'] = max(d[2] for d in lyrics_singer)
+    context['writer_max'] = max(d[2] for d in lyrics_writer)
     context['cloud_singers'] = ['李荣浩', '法老', '汪苏泷', '韦礼安', '李宗盛']
 
     return render(request, 'analysis.html', context)
