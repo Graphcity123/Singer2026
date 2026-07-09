@@ -362,7 +362,7 @@ def analysis_view(request):
 
     base = Path(__file__).resolve().parent.parent / 'analysis'
 
-    def read_match_data(filename, limit=15):
+    def read_match_data(filename, limit=30):
         data = []
         with open(base / 'matches' / filename, 'r', encoding='utf-8') as f:
             for line in f:
@@ -371,7 +371,7 @@ def analysis_view(request):
                     data.append((m.group(1).strip(), int(m.group(2))))
         return data[:limit]
 
-    def read_lyrics_data(filename, limit=15):
+    def read_lyrics_data(filename, limit=30):
         data = []
         with open(base / 'lyrics' / filename, 'r', encoding='utf-8') as f:
             for line in f:

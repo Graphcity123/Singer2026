@@ -56,7 +56,7 @@
 <h1>最佳拍档分析</h1>
 <p>根据爬取到的数据，统计歌手&作词、歌手&作曲、作词&作曲之间的合作次数，找出华语乐坛最紧密的创作搭档。（数据范围：1380 位歌手，4718 首歌曲。合作次数指两人同时出现在同一首歌中的次数。）</p>
 
-<h2>一、歌手 & 作词 Top 15</h2>
+<h2>一、歌手 & 作词 Top 30</h2>
 <div class="bar-chart">
 {% for label, cnt in match_sw %}
 <div class="bar-row">
@@ -66,7 +66,7 @@
 {% endfor %}
 </div>
 
-<h2>二、歌手 & 作曲 Top 15</h2>
+<h2>二、歌手 & 作曲 Top 30</h2>
 <div class="bar-chart">
 {% for label, cnt in match_sm %}
 <div class="bar-row">
@@ -76,7 +76,7 @@
 {% endfor %}
 </div>
 
-<h2>三、作词 & 作曲 Top 15</h2>
+<h2>三、作词 & 作曲 Top 30</h2>
 <div class="bar-chart">
 {% for label, cnt in match_wm %}
 <div class="bar-row">
@@ -101,7 +101,7 @@
 <p>对 4718 首歌曲的歌词进行 jieba 分词，筛选出现频次 >500 的二字及以上中文词语（排除「作曲」「编曲」「混音」等制作信息词），共得到 <strong>119 个高频常用词</strong>。统计每个高频词下使用最多的歌手和作词人，汇总得出「常用词使用大师」排名。</p>
 <blockquote>指标说明：括弧内第一项为「覆盖词数」（使用过常用词里面的多少项），第二项为「总使用次数」。</blockquote>
 
-<h2>一、歌手 — 常用词 Top 15</h2>
+<h2>一、歌手 — 常用词 Top 30</h2>
 <div class="bar-chart">
 {% for name, cov, total in lyrics_singer %}
 <div class="bar-row">
@@ -111,7 +111,7 @@
 {% endfor %}
 </div>
 
-<h2>二、作词 — 常用词 Top 15</h2>
+<h2>二、作词 — 常用词 Top 30</h2>
 <div class="bar-chart">
 {% for name, cov, total in lyrics_writer %}
 <div class="bar-row">
